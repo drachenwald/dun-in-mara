@@ -1,0 +1,32 @@
+image: node:latest
+
+cache:
+  paths:
+  - node_modules/
+  - public/
+  - .cache/
+
+pages:
+  script:
+  - npm install
+  - npm run build
+  artifacts:
+    expire_in: 1 hour
+    paths:
+    - public
+  only:
+  - staging
+
+deploy:
+  script:
+  - apt-get update && apt-get install -y lftp
+  - npm install
+  - npm run build
+  - /usr/bin/lftp -u $FTPUSER,$FTPPASS -e 'set ssl:verify-certificate false ; mirror --reverse --verbose --delete --ignore-time --exclude=.protect public / ; quit' $FTPSERVER
+  artifacts:
+    expire_in: 1 hour
+    paths:
+    - public
+  only:
+  - main
+  
