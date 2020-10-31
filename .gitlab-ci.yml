@@ -23,6 +23,7 @@ deploy:
   - npm install
   - npm run build
   - /usr/bin/lftp -u $FTPUSER,$FTPPASS -e 'set ssl:verify-certificate false ; mirror --reverse --verbose --delete --ignore-time --exclude=.protect public / ; quit' $FTPSERVER
+  - ./cf-clear.sh
   artifacts:
     expire_in: 1 hour
     paths:
