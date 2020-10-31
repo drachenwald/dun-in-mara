@@ -10,19 +10,8 @@ const fetch = require(`node-fetch`)
 const Papa = require('papaparse')
 
 const officerurl =  'https://docs.google.com/spreadsheets/d/e/2PACX-1vTOPqFD8VmoA3RMLkdCdOQnBSxmOMxs8Da98bP2Mx0BYE2mdMtldGRXLgIETQ8Mch8vw5GrwMMYdFJy/pub?gid=800296879&single=true&output=csv'
-const calurl = 'https://scripts.drachenwald.sca.org/calendar/data/cal.csv'
 
 exports.sourceNodes = async({actions: {createNode}, createNodeId, createContentDigest}) => {
-
-  const calresult = await parseCsv( calurl )
-  calresult.data.map( e => createNode({
-    ...e,
-    id: createNodeId(e.slug),
-    internal: {
-      type: `CalEvent`,
-      contentDigest: createContentDigest(e)
-    }
-  }))
 
   const officerresult = await parseCsv( officerurl )
   officerresult.data.map( o => createNode({
@@ -102,57 +91,6 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         // additional data can be passed via context
         slug: node.fields.slug,
-      },
-    })
-  })
-
-  const calresult = await graphql(`
-    query {
-      allCalEvent(filter: {host_branch: {eq: \"${metadataResult.data.site.siteMetadata.groupName}\"}}) {
-        edges {
-          node {
-            slug
-            host_branch
-            event_name
-            start_date
-            start_time
-            end_date
-            end_time
-            summary
-            website
-            facebook
-            vc_url
-            progress
-            progress_id
-            status
-            activities
-            site_address
-            cost
-            emergency_alert,
-            event_steward
-            event_steward_email
-            payment
-            site_info
-            reservation_info
-            timezone
-            pwinfo
-            town
-            repeats
-            additional_dates
-          }
-        }
-      }
-    }
-  `)
-
-  const calevents = calresult.data.allCalEvent.edges
-  calevents.forEach( e => {
-    createPage({
-      path: `calendar/${e.node.slug}`,
-      component: require.resolve(`./src/templates/eventTemplate.js`),
-      context: {
-        // additional data can be passed via context
-        event: e.node,
       },
     })
   })
