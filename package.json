@@ -1,0 +1,59 @@
+{
+  "name": "duninmara",
+  "private": true,
+  "description": "Dun in Mara website",
+  "version": "0.1.0",
+  "author": "webminister@duninmara.org",
+  "dependencies": {
+    "@mdi/js": "^5.8.55",
+    "@mdi/react": "^1.4.0",
+    "bootstrap": "^4.5.3",
+    "gatsby": "^2.24.80",
+    "gatsby-background-image": "^1.1.2",
+    "gatsby-image": "^2.4.21",
+    "gatsby-plugin-manifest": "^2.4.35",
+    "gatsby-plugin-offline": "^3.2.33",
+    "gatsby-plugin-react-helmet": "^3.3.14",
+    "gatsby-plugin-robots-txt": "^1.5.3",
+    "gatsby-plugin-sass": "^2.3.17",
+    "gatsby-plugin-sharp": "^2.6.42",
+    "gatsby-plugin-sitemap": "^2.4.17",
+    "gatsby-remark-images": "^3.3.35",
+    "gatsby-source-filesystem": "^2.3.35",
+    "gatsby-source-wordpress-experimental": "^1.7.8",
+    "gatsby-transformer-csv": "^2.3.13",
+    "gatsby-transformer-remark": "^2.8.42",
+    "gatsby-transformer-sharp": "^2.5.18",
+    "node-sass": "^4.14.1",
+    "papaparse": "^5.3.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "gatsby-cli": "^2.12.109",
+    "prettier": "2.1.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

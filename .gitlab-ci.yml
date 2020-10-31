@@ -1,0 +1,18 @@
+image: node:latest
+
+cache:
+  paths:
+  - node_modules/
+  - public/
+  - .cache/
+
+pages:
+  script:
+  - npm install
+  - npm run build
+  artifacts:
+    expire_in: 1 hour
+    paths:
+    - public
+  only:
+  - staging
