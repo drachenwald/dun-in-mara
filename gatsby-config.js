@@ -84,7 +84,6 @@ module.exports = {
       resolve: 'gatsby-plugin-htaccess',
       options: {
         https: true,
-        SymLinksIfOwnerMatch: true,
         host: canonicalDomain,
         custom: `
           RedirectMatch 301 "^/posts/(.*)/(.*)/(.*)/(.*)/" "https://duninmara.org/mdposts/$1-$2-$3-$4/"
