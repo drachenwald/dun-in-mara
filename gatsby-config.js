@@ -4,6 +4,7 @@ require("dotenv").config({
 
 const group = 'Dun in Mara'
 const parentGroup = 'Insulae Draconis'
+const canonicalDomain = 'duninmara.org'
 
 module.exports = {
   siteMetadata: {
@@ -78,6 +79,22 @@ module.exports = {
         // enable ip anonymization
         anonymize: true,
       },
+    },
+    {
+      resolve: 'gatsby-plugin-htaccess',
+      options: {
+        https: true,
+        SymLinksIfOwnerMatch: true,
+        host: canonicalDomain,
+        custom: `
+          RedirectMatch 301 "^/posts/(.*)/(.*)/(.*)/(.*)/" "https://duninmara.org/mdposts/$1-$2-$3-$4/"
+          <IfModule mod_headers.c>
+            <FilesMatch "^/static/">
+              Header set Cache-Control "public, max-age=31536000, immutable"
+            </FilesMatch>
+          </IfModule>
+        `
+      }
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
