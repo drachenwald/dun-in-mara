@@ -5,7 +5,7 @@
  */
 
 // You can delete this file if you're not using it
-/*
+
 export const onPreRenderHTML = ({getHeadComponents}) => {
   if (process.env.NODE_ENV !== 'production')
       return
@@ -23,4 +23,3 @@ export const onPreRenderHTML = ({getHeadComponents}) => {
       }
   })
 }
-*/
