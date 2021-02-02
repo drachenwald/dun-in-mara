@@ -126,7 +126,6 @@ const Layout = ( props ) => {
                   <li className="list-inline-item">Visit our friends:</li>
                   <li className="list-inline-item"><a href="https://drachenwald.sca.org">Drachenwald</a></li>
                   <li className="list-inline-item"><a href="https://insulaedraconis.org">Insulae Draconis</a></li>
-                  <li className="list-inline-item"><a href="https://loughdevnaree.org">Lough Devnaree</a></li>
                   <li className="list-inline-item"><a href="https://eplaheimr.org/">Eplaheimr</a></li>
                   <li className="list-inline-item"><a href="https://glenrathlin.org/">Glen Rathlin</a></li>
                 </ul>
