@@ -32,10 +32,8 @@ const Banner = (props) => {
         fluid={bgimage}
         className='banner'
       >
-        <Row className="h-100">
-          <Col sm className="my-auto">
-            <Container className="py-5">
-              <h1 className="display-4">{props.headline}</h1>
+        <Container>
+              <h1 className="display-4 pt-5">{props.headline}</h1>
               {
                 props.subhead
                 ?
@@ -55,11 +53,9 @@ const Banner = (props) => {
                 :
                   null
               }
-              
-            </Container>
-            
-          </Col>
-        </Row>
+              <h1 className="pb-1">&nbsp;</h1>
+        </Container>
+
       </BackgroundImage>
       <br />
 
