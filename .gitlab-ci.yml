@@ -25,6 +25,7 @@ deploy:
   stage: deploy
   script:
     - curl -o _data/regnum.json https://scripts.drachenwald.sca.org/json/regnum-officers-box.json
+    - apt-get update && apt-get install -y lftp
     - bundle install --path vendor
     - bundle exec jekyll build -d public
     - /usr/bin/lftp -u $FTPUSER,$FTPPASS -e 'set ssl:verify-certificate false ; mirror --reverse --verbose --delete --ignore-time --exclude=.protect public / ; quit' $FTPSERVER
