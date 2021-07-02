@@ -1,0 +1,57 @@
+- title: Seneschal
+  slug: seneschal
+  emblem: "/images/officer-emblems/seneschal.gif"
+
+- title: Exchequer
+  slug: exchequer
+  emblem: "/images/officer-emblems/exchequer.gif"
+
+- title: Chatelaine
+  slug: chatelaine
+  emblem: "/images/officer-emblems/chatelaine.gif"
+  desc: "The Castellan, also known as the Chatelaine, is responsible a team of chatelaines who are charged with assisting newcomers find their way in the group. They are here to help, so don't be afraid to ask!"
+
+- title: Minister of Arts and Sciences
+  slug: moas
+  emblem: "/images/officer-emblems/moas.gif"
+  desc: "The Minister of Arts and Sciences of the group oversees arts and sciences within the group."
+
+- title: Herald
+  slug: herald
+  emblem: "/images/officer-emblems/rockall.gif"
+
+- title: Armoured Combat Marshal
+  slug: armoured-combat-marshal
+  emblem: "/images/officer-emblems/knightmarshal.gif"
+  desc: "The Armoured Combat Marhsal oversees all aspects of armoured combat in the group."
+
+- title: Archery Marshal
+  slug: archery-thrown-marshal
+  emblem: "/images/officer-emblems/lgarchers.gif"
+  desc: "The Archery Marshal of the group oversees archery activities within the group."
+
+- title: Fencing Marshal
+  slug: fencing-marshal
+  emblem: "/images/officer-emblems/rapiermarshal.gif"
+  desc: "The Fencing Marshal oversees all aspects of fencing combat in the group."
+
+- title: Chronicler
+  titleingroups: Chronicler
+  slug: chronicler
+  emblem: "/images/officer-emblems/chronicler.gif"
+
+- title: Signet Clerk
+  titleingroups: Signet Clerk
+  slug: signet
+  emblem: "/images/officer-emblems/chancery.gif"
+  desc: "The Signet is an officer whose responsibility is coordinating the production of those scrolls given out with awards."
+
+- title: Web Minister
+  titleingroups: Web Minister
+  slug: webminister
+  emblem: "/images/officer-emblems/webminister.gif"
+
+- title: Social Media Minister
+  titleingroups: Social Media Minister
+  slug: socialmedia
+  emblem: "/images/officer-emblems/socialmedia.gif"
