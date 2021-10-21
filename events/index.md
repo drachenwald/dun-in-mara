@@ -28,7 +28,7 @@ Coming soon...
 ### ~~[Tavern of Fools](/events/2020/tavern-of-fools/)~~
 29 May-1 June 2020, Clara. **Cancelled**
 
-### [PRIDE REVEL 🏳️‍🌈](/mdposts/2019-05-30-pride-revel/)  
+### [PRIDE REVEL 🏳️‍🌈](/posts/2019/05/30/pride-revel/)  
 29 June 2019, Dublin.
 
 ### [Insulae Draconis Coronet](/events/2019/coronet/)
