@@ -56,11 +56,11 @@ If you begin to feel unwell while attending the event, we ask you to inform the 
 
 ## Event staff
 
-Event Steward: Lady Agnes Boncuer  
-Reservations: Lady Aoife ní Aodhagáin & Lady Alays de Lunel
-Camping Advisor: Lord Aodh Ó Siadhail
-Arts & Sciences: Lady Anneleyn Cornelisse
-Fencing: Lord Duncan Chaucer
-Merchants Liaison: Mistress Caitriona of the Ravens, OP 
-Armoured fighting: TBA
-Archery: TBA
+Event Steward: Lady Agnes Boncuer   
+Reservations: Lady Aoife ní Aodhagáin & Lady Alays de Lunel  
+Camping Advisor: Lord Aodh Ó Siadhail  
+Arts & Sciences: Lady Anneleyn Cornelisse  
+Fencing: Lord Duncan Chaucer  
+Merchants Liaison: Mistress Caitriona of the Ravens, OP  
+Armoured fighting: TBA  
+Archery: TBA  
