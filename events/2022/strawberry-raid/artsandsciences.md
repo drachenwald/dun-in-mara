@@ -8,4 +8,4 @@ excerpt: "2-6 June 2022. Sigginstown Castle, Co. Wexford, Ireland."
 
 Details coming soon!
 
-<a href="/">Back to Event Page</a>
+<a href="/events/2022/strawberry-raid/">Back to Event Page</a>
