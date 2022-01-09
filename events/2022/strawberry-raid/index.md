@@ -36,9 +36,12 @@ Coming soon!
 
 TBA
 
-## <a href="martial.md">Martial Activities</a>
 
-## <a href="artsandsciences.md">Arts & Sciences</a>
+## <a href="martial/">Martial Activities</a>
+
+
+## <a href="artsandsciences/">Arts & Sciences</a>
+
 
 ## COVID-19
 
