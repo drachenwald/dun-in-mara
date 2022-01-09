@@ -16,6 +16,8 @@ If you wish to sleep off-site, Rosslare and the areas nearby have many B&Bs and 
 
 If you only wish to drop by for a day, you are welcome to do so at the cost of a day visit. 
 
+You can contact us at <a href="mailto:strawberryraid@duninmara.org">strawberryraid@duninmara.org</a>.
+
 ## Register
 
 Registration will open in due course.
