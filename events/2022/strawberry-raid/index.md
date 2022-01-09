@@ -36,13 +36,9 @@ Coming soon!
 
 TBA
 
-## Armoured Fighting
+## <a href="martial.md">Martial Activities</a>
 
-## Fencing
-
-## Archery
-
-## Arts & Sciences
+## <a href="artsandsciences.md">Arts & Sciences</a>
 
 ## COVID-19
 
