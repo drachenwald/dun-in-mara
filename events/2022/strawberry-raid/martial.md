@@ -25,4 +25,4 @@ Archery Marshal in Charge: TBA
 
 Details will be added in due course. 
 
-<a href="/">Back to Event Page</a>
+<a href="/events/2022/strawberry-raid/">Back to Event Page</a>
