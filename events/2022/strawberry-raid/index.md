@@ -16,7 +16,6 @@ If you wish to sleep off-site, Rosslare and the areas nearby have many B&Bs and 
 
 If you only wish to drop by for a day, you are welcome to do so at the cost of a day visit. 
 
-You can contact us at <a href="mailto:strawberryraid@duninmara.org">strawberryraid@duninmara.org</a>.
 
 ## Register
 
@@ -24,7 +23,7 @@ Registration will open in due course.
 
 ## Travel
 
-Sigginstown Castle is easily findable on Google Maps.
+<a href="https://www.sigginstowncastle.com/">Sigginstown Castle</a> is easily findable on Google Maps.
 
 If you are flying into Dublin, you may wish to consider a rental car. The drive from Dublin airport to the site takes approximately two hours on good condition motorways. Please remember in Ireland we drive on the left! 
 
