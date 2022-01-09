@@ -28,10 +28,6 @@ If you are flying into Dublin, you may wish to consider a rental car. The drive 
 
 If you prefer public transport, you can take the train from Connolly Station for Rosslare Europort. A taxi ride from Rosslare Europort to the site will take approximately 15-20 minutes. You can also get off at Wexford Railway Station, in which case a taxi or other car ride will take about 30 minutes. 
 
-## Nearby Attractions
-
-Coming soon!
-
 ## Schedule
 
 TBA
