@@ -7,3 +7,5 @@ excerpt: "2-6 June 2022. Sigginstown Castle, Co. Wexford, Ireland."
 ## Arts & Sciences
 
 Details coming soon!
+
+<a href="/">Back to Event Page</a>
