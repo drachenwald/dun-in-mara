@@ -6,6 +6,8 @@ excerpt: "2-6 June 2022. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Welcome
 
+**2-6 June 2022**
+
 Dun In Mara warmly welcomes you to the first Strawberry Raid, a five day long camping event in the beautiful historical south-east of Ireland, in and on the grounds of [Sigginstown Castle](https://www.sigginstowncastle.com/). The event is easily reachable from Dublin and 15 minutes drive from Rosslare ferryport with connections to the UK and continental Europe.  
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
