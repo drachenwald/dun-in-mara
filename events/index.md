@@ -9,7 +9,8 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-Coming soon...
+### [Strawberry Raid](/events/2022/strawberry-raid/)
+2-6 June 2020, Sigginstown Castle, Co. Wexford.
 
 ## Previous events
 
