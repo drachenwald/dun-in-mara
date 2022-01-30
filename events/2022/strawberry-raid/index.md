@@ -12,7 +12,7 @@ Dun In Mara warmly welcomes you to the first Strawberry Raid, a five day long ca
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
-If you wish to stay at the site, you may camp in period or mundane tents as you wish and we will not be separating these into period and mundane campgrounds, so you can form an encampment with your friends regardless of your tent style. Apart from tents, we do ask that any mundane equipment is used discreetly and is kept out of sight should we have visitors from the public. We will have a better idea of the facilities available later in the spring, but please plan to cook your own food in your encampment. Drinking water and portaloos will be available. 
+If you wish to stay at the site, you may camp in period or mundane tents as you wish and we will not be separating these into period and mundane campgrounds, so you can form an encampment with your friends regardless of your tent style. Apart from tents, we do ask that any mundane equipment is used discreetly and is kept out of sight should we have visitors from the public. We will have a better idea of the facilities available later in the spring, but please plan to cook your own food in your encampment - food will _not_ be provided. Drinking water and portaloos will be available. 
 
 If you wish to sleep off-site, Rosslare and the areas nearby have many B&Bs and guest houses for your comfort. Hotels can be found in Wexford town. 
 
@@ -23,7 +23,7 @@ Strawberry Raid will be a new event type in Lough Devnaree (island of Ireland) o
 
 ## Register
 
-Registration will open on 1 February 2022.
+Registration will open on 1 February 2022. Family tickets will be available. We are not going to attempt to define "family"; just be sensible about it.
 
 ## Travel
 
@@ -45,7 +45,7 @@ TBA
 
 ## Accessibility
 
-The ground of the site is level but uneven, including gravel and fields. We expect very few activities to take place inside the castle itself, but for those that do, the building is a restored period tower house with narrow steep stairs and small rooms. The stairs have handrails installed. Any activities inside the tower are likely to take place in the first two floors.  
+The ground of the site is level but uneven, including gravel and fields. We expect very few activities to take place inside the castle itself, but for those that do, the building is a restored period tower house with narrow steep stairs and small rooms. The stairs have handrails installed. Any activities inside the tower are likely to take place in the first two floors. Portaloos are the only available toilets on the site. Tents for anyone with mobility issues can be placed closer to paths and access ways; please contact the camping coordinator Aodh Ó Siadhail at <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a> to let him know in advance.
 
 
 ## COVID-19
@@ -65,9 +65,11 @@ The SCA prohibits bullying and harassment of all individuals and groups. Event p
 
 ## Event staff
 
-Event Steward: Lady Agnes Boncuer   
+Contact Lady Agnes at <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a> with any queries.
+
+Event Steward: <a href="mailto:agneslaverte@gmail.com">Lady Agnes Boncuer</a>   
 Reservations: Lady Aoife ní Aodhagáin & Lady Alays de Lunel  
-Camping Advisor: Lord Aodh Ó Siadhail  
+Camping Advisor: <a href="mailto:aodhosiadhail@gmail.com">Lord Aodh Ó Siadhail</a>  
 Arts & Sciences: Lady Anneleyn Cornelisse  
 Fencing: Lord Duncan Chaucer  
 Merchants Liaison: Mistress Caitriona of the Ravens, OP  
