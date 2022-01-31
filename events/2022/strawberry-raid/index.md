@@ -23,7 +23,7 @@ Strawberry Raid will be a new event type in Lough Devnaree (island of Ireland) o
 
 ## Register
 
-Registration will open on 1 February 2022. Family tickets will be available. We are not going to attempt to define "family"; just be sensible about it.
+[Registration is now open](https://fienta.com/duninmara-strawberryraid). Family tickets will be available. We are not going to attempt to define "family"; just be sensible about it.
 
 ## Travel
 
