@@ -24,12 +24,11 @@ Duncan Chaucer
 Duncan Kerr  
 Eila de Valoise  
 Elen Benet  
-Elffin  
 Etienne Fevre  
 Gytha Úi Bhanain  
 Haesel of Berneslai  
 Isobel Fevre  
-Jacquelyna de Bellmont 
+Jacquelyna de Bellmont  
 Jan van Nyenrode  
 Krake  
 Lady Kytte of the lake  
