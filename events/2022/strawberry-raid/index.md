@@ -25,6 +25,10 @@ Strawberry Raid will be a new event type in Lough Devnaree (island of Ireland) o
 
 [Registration is now open](https://fienta.com/duninmara-strawberryraid). Family tickets will be available. We are not going to attempt to define "family"; just be sensible about it.
 
+## Attendees
+
+A list of people who have already booked, and given consent for their names to appear can be seen here: <a href="attending/">Attending</a>
+
 ## Travel
 
 <a href="https://www.sigginstowncastle.com/">Sigginstown Castle</a> is easily findable on Google Maps.
