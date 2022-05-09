@@ -77,5 +77,5 @@ Camping Advisor: <a href="mailto:aodhosiadhail@gmail.com">Lord Aodh Ó Siadhail<
 Arts & Sciences: Lady Anneleyn Cornelisse  
 Fencing: Lord Duncan Chaucer  
 Merchants Liaison: Mistress Caitriona of the Ravens, OP  
-Armoured fighting: TBA  
-Archery: TBA  
+Armoured fighting: Duke Vitus Polonius  
+Archery: Lady Alays de Lunel    
