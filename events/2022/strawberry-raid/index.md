@@ -39,7 +39,7 @@ If you prefer public transport, you can take the train from Connolly Station for
 
 ## Schedule
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFWz--gC5pYf9dJ2DaK5Rgx5-96Xo0oKhZDYSIgTRq5lcvIrCLx1XMlw4ShgFK7SDGiQkGikdiAGuC/pubhtml?widget=true&amp;headers=false"></iframe>
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;"><iframe style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRFWz--gC5pYf9dJ2DaK5Rgx5-96Xo0oKhZDYSIgTRq5lcvIrCLx1XMlw4ShgFK7SDGiQkGikdiAGuC/pubhtml?widget=true&amp;headers=false"></iframe></div>
 
 <br/>
 ## <a href="martial/">Martial Activities</a>
