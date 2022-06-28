@@ -4,7 +4,7 @@ title: Contacts
 
 {% for role in site.data.officetitles %}
 
-  {% assign officers = site.data.regnum | where:"group", "Insulae Draconis-Dun in Mara" | where:"office", role.slug %}
+  {% assign officers = site.data.regnum | where:"group", "Insulae Draconis-Dun in Mara" | where:"office", role.slug | sort: 'responsibility' %}
 
   {% assign numofficers = officers|size %}
 
