@@ -39,7 +39,7 @@ So, you want to try any of these or something else?
 
 **Come along to an A&S meeting!**
 
-Come along to an A&S meeting! Scoil Santa Maria, Synge Street, every other Thursday. Cost is €2.
+Look to our events page for the next Arts & Sciences Day!
 
 What to bring: questions, research, something to work on. If you let us know what you are interested in before the meeting, we might be able to bring supplies.
 

@@ -25,18 +25,9 @@ primarily consist of scoring on targets at set distances. We also
 conduct shoots with different target types, shooting rules, obstacles,
 and varying distances.
 
-### Come and shoot at our weekly practice.
+### Weekly practice venue sought
 
-[St John Bosco Youth Centre, Drimnagh, Dublin 8](https://goo.gl/maps/Bxgan8hYfGr)<br>
-Wednesday 19:00 to 21:00
-
-Cost:  
-€10 for non-members (€6 student/unwaged)  
-€8 for members (€5 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
-
-If it's your first time attending, there's no charge.
-
-Under 16s must be accompanied by a parent or guardian.
+We're currently looking for a venue for our weekly archery practice. If you know of a hall (or a suitable outdoor field with lighting), let us know. We need about 24m long, and at least 5m wide. We have nets and other protection for walls!
 
 What to bring: Just yourself. Wear a top with sleeves that are not
 baggy, as this may impede the bow string. We provide bows, arrows and

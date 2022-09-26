@@ -11,10 +11,6 @@ We train in historical combat techniques, and do free fencing wearing protective
 
 <div class="alert alert-primary" role="alert">
 
-  <h3>COVID information</h3>
-
-  <p>To ensure that we follow government restrictions and keep our attendees safe, we are running two parallel practices with a maximum of six people per room. When you book, your ticket will include a link to a form containing questions about COVID-19. Please fill out this form _on the day_ of the practice.</p>
-
   <p>Loaner gear must also be booked in advance - if you need loaner gear, please mention this on the form.</p>
 
   <p>Tickets go on sale the Wednesday before the practice.</p>
@@ -26,8 +22,8 @@ We train in historical combat techniques, and do free fencing wearing protective
 Time: Every Tuesday. Gather at 18:45 for training from 19:00-21:00.
 
 Cost:  
-€10 for non-members (€6 student/unwaged)  
-€8 for members (€5 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
+€13 for non-members (€10 student/unwaged)  
+€10 for members (€8 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
 
 If it's your first time attending, there's no charge. Please email <b>fencing@duninmara.org</b> in advance.
 
