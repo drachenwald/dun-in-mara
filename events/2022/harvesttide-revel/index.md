@@ -22,7 +22,7 @@ The cost for the event is €25 per head for the day / 20€ concession (student
 We will have a meal together which will consist of potluck where everybody brings something. We might also have some warm dish, to be confirmed.
 
 ## Staff
-Event Steward: Alays de Lunel (Claudia Barron) claudiaschacke@gmail.com
+Event Steward: Alays de Lunel (Claudia Barron) claudiaschacke@gmail.com  
 Marshal in Charge: Agnès Boncuer
 
 ## Directions
