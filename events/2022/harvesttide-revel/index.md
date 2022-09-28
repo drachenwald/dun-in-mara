@@ -14,18 +14,18 @@ Dun in Mara invites you to Drimnagh Castle, a moated 13th century Norman castle,
 
 We regret that the site is not wheelchair friendly due to a gravelled courtyard and tight/steep stairs.
 
-![Drimnagh Castle Courtyard](../../../../images/courtyard.jpg)
+<img src="../../../../images/courtyard.jpg" width="600" height="400">
 
 ## Planned Activities
 You can watch or try out fencing, armoured combat and throwing knives as well as different medieval crafts and skills, for example calligraphy or dancing. Details to be announced closer to the time. If you have friends or relatives who are curious about what we do, but don’t want to commit to a full event, this is an ideal time for them to come along and have a look! We will be wearing garb (medieval clothing), but don’t worry if you haven’t got anything that looks medieval. We can lend you something for the day if you let us know in the booking form.
 
-![Dancing at Drimnagh Castle](../../../../images/drimnagh-dance.jpg) ![Master Cernac fencing in Drimnagh Castle Courtyard](../../../../images/fencing.jpg)
+<img src="../../../../images/drimnagh-dance.jpg" width="400" height="400"> <img src="../../../../images/fencing.jpg" width="200" height="400">
 
 ## Costs & Food
 The cost for the event is €25 per head for the day / 20€ concession (students, pensioners, unwaged). Children under 14 are free when accompanied by an adult).
 We will have a meal together which will consist of potluck where everybody brings something. We might also have some warm dish, to be confirmed.
 
-![Medieval Food](../../../../images/meal.jpg)
+<img src="../../../../images/meal.jpg" width="600" height="400">
 
 ## Staff
 Event Steward: Alays de Lunel (Claudia Barron) claudiaschacke@gmail.com  
