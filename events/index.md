@@ -9,7 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Harvesttide Revel](/events/2022/harvesttide-revel/index.md)
+### [Harvesttide Revel](/events/2022/harvesttide-revel/)
 23 October 2022, Drimnagh Castle, Co. Dublin
 
 ## Previous events
