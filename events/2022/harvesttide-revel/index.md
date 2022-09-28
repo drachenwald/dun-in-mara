@@ -25,7 +25,7 @@ You can watch or try out fencing, armoured combat and throwing knives as well as
 The cost for the event is €25 per head for the day / 20€ concession (students, pensioners, unwaged). Children under 14 are free when accompanied by an adult).
 We will have a meal together which will consist of potluck where everybody brings something. We might also have some warm dish, to be confirmed.
 
-<img src="../../../../images/meal.jpg" width="600" height="400">
+<img src="../../../../images/meal.jpg" width="400" height="600">
 
 ## Staff
 Event Steward: Alays de Lunel (Claudia Barron) claudiaschacke@gmail.com  
