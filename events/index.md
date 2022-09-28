@@ -9,10 +9,13 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Strawberry Raid](/events/2022/strawberry-raid/)
-2-6 June 2020, Sigginstown Castle, Co. Wexford.
+### [Harvesttide Revel](/events/2022/harvesttide-revel/index.md)
+23 October 2022, Drimnagh Castle, Co. Dublin
 
 ## Previous events
+
+### [Strawberry Raid](/events/2022/strawberry-raid/)
+2-6 June 2022, Sigginstown Castle, Co. Wexford.
 
 ### [An Event, Probably](/events/2020/an-event-probably/)
 2-4 October 2020, Martinstown House. Probably.
