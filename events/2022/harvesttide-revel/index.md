@@ -23,7 +23,11 @@ You can watch or try out fencing, armoured combat and throwing knives as well as
 
 ## Costs & Food
 The cost for the event is €25 per head for the day / 20€ concession (students, pensioners, unwaged). Children under 14 are free when accompanied by an adult).
-We will have a meal together which will consist of potluck where everybody brings something. We might also have some warm dish, to be confirmed.
+
+### Food
+Concerning food, we will have a meal together which will consist of a potluck (where everybody brings something). Don't stress about it, just bring enough to feed yourself and a bit extra.
+However, if you want to do just period food (namely European medieval): First, don't do potatoes, tomatoes, sweetcorn, pumpkins or chillis - they're New World stuff. For easy things, think of picnic food. Bread is always good - loaves, not sliced pan. Breadrolls are great. Cold meats, almost anything except turkey. Pretty much all fruits are good. Cheese of any kind is excellent. Boiled eggs, pork pies, indeed pies of almost any kind. Most German-style sausages are good (Spanish ones tend to have tomato and/or chilli in). Pickles of all kinds, from fish through mushrooms. Nuts, dates, dried fruit. Baklava isn't quite period, but there are very similar things, so it's good. Halwa, barfi, and almost all Middle Eastern sweet things are also good!
+
 
 <img src="../../../../images/meal.jpg" width="400" height="600">
 
