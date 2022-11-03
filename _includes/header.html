@@ -10,16 +10,15 @@
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     {% if jekyll.environment == "production" %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106038754-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ga.id}}"></script>
-
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', '{{site.ga.id}}', { 'anonymize_ip': true });
-      </script>
+      gtag('config', 'UA-106038754-1');
+    </script>
 
     {% else %}
 
