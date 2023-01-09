@@ -52,7 +52,8 @@ Children under 6 are free of charge in all categories, but please indicate their
 
 ## Attendees
 
-A list of people who have already booked, and given consent for their names to appear will appear here after bookings open: <a href="attending/" class="btn btn-primary">Attending</a>
+A list of people who have already booked, and given consent for their names to appear will appear here after bookings open:   
+<a href="attending/" class="btn btn-primary">Attending</a>
 
 <a name="accessibility"></a>
 ## Accessibility
