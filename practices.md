@@ -42,6 +42,16 @@ What to bring: Clothes and shoes you can move easily in – long sleeved and ful
 
 ## Arts and Sciences
 
-Keep an eye on our events page for approximately-monthly Arts & Sciences days, which are held at weekends in Santry, Co. Dublin.
+Santry Community Resource Centre • Domville Court, Coolock Ln, Whitehall, 9 Dublin, County Dublin
+
+We are meeting approximately-monthly on Saturdays for Arts & Sciences days which are held at Santry Community Resource Centre to share good company while working on whatever is needful. This is an informal day to meet our new and old members and for everybody to work on their own projects in a convivial atmosphere or just hang out.
+Keep an eye on our events page where we publish the upcoming dates.
+
+If there is any particular project you'd like help with, please let us know, so we can arrange some targeted support.
+This will also be a good day to see each other's projects, ask questions, and get inspired to try something new.
+
+Medieval board games will be available to play whenever you need a break from crafting. If you have some period games you would like to play, please do bring them along!
+
+The hall is easily reached by bus. A limited amount of parking is available. Tea, coffee and biscuits will be provided, but please BYO other food and drinks. There is a Centra across the road if you get hungrier than expected. To cover the cost of the hall, there will be a fee of €15 per adult, or €10 for students, seniors, and unwaged. Children are welcome; attendance is free for those under 16.
 
 <a href="/arts-and-sciences/" class="btn btn-primary">More info</a>
