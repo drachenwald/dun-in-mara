@@ -17,14 +17,14 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 <a href="#eventfees">Event Fees</a>  
 <a href="attending/">Attendees</a>  
 <a href="#accessibilty">Accessibility</a>  
-<a href="codeofconduct">Code of Conduct</a>  
+<a href="#codeofconduct">Code of Conduct</a>  
 <a href="Travel">Travel</a>  
 <a href="camping/">Camping</a>  
 <a href="food/">Food & Other Supplies</a>  
 <a href="#weather">Weather</a>  
-<a href="activities">Activities</a>  
-<a href="schedule">Schedule</a>  
-<a href="eventteam">Event Team</a>  
+<a href="#activities">Activities</a>  
+<a href="#schedule">Schedule</a>  
+<a href="#eventteam">Event Team</a>  
 
 <a name="eventfees"></a>
 ## Event Fees
