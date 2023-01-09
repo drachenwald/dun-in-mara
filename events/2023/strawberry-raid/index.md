@@ -26,6 +26,8 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 <a href="#schedule">Schedule</a>  
 <a href="#eventteam">Event Team</a>  
 
+<a href="https://fienta.com/duninmara-strawberryraid-51557" class="btn btn-primary">Register Now</a>
+
 <a name="eventfees"></a>
 ## Event Fees
 
@@ -45,6 +47,8 @@ Fees include camping (where relevant) and the booking engine administration fees
 </table>
 
 Children under 6 are free of charge in all categories, but please indicate their number in the booking form so that we can keep track of overall numbers.
+
+<a href="https://fienta.com/duninmara-strawberryraid-51557" class="btn btn-primary">Register Now</a>
 
 ## Attendees
 
@@ -87,9 +91,9 @@ If you’re driving from Rosslare ferryport, just follow Google or another map p
 
 **Public transport** from Dublin is available via bus and train. 
 
-   **Bus**: Bus Eireann route 2-X2 Dublin Airport - Wexford Town. From Wexford town, you should take a taxi or arrange a lift.
+   **Bus**: [Bus Eireann](https://www.buseireann.ie/) route 2-X2 Dublin Airport - Wexford Town. From Wexford town, you should take a taxi or arrange a lift.
 
-   **Train**: Irish Rail route Dublin Connolly Station - Rosslare Europort. We recommend that you get off in Wexford town to maximise the availability of taxis, if you need one.  
+   **Train**: [Irish Rail](https://www.irishrail.ie/en-ie/) route [Dublin Connolly Station - Rosslare Europort](https://www.irishrail.ie/IrishRail/media/Timetable-PDF-s/Connolly-DART-timetables/08_dublin-rosslare.pdf). We recommend that you get off in Wexford town to maximise the availability of taxis, if you need one.  
 
    A taxi from Wexford town should take about 20 minutes to the site. 
 
@@ -123,6 +127,8 @@ This year, our visiting teacher at armoured combat will be Duke Timmur Jochan (K
 ## Schedule
 
 The schedule will be available closer to the event time.
+
+<a href="https://fienta.com/duninmara-strawberryraid-51557" class="btn btn-primary">Register Now</a>
 
 <a name="eventteam"></a>
 ## Event Team
