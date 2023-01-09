@@ -82,12 +82,7 @@ If you need a pick-up from Wexford town or from Rosslare, in the first instance 
 
 Sigginstown Castle is owned by SCA members who very generously open their home for us. Please respect their generosity, their home and their neighbours at all times. Any requests from the site owners must be complied with immediately. Smoking is forbidden indoors including inside the barn. 
 
-<br/>
-## <a href="camping/">Camping</a>
-<br/>
-## <a href="food/">Food & Other Supplies</a> 
-(please note that food is **not provided** at this event)
-<br/>
+<a href="camping/" class="btn btn-primary">Camping</a> <a href="food/" class="btn btn-primary">Food</a>
 
 ## Weather
 

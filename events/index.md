@@ -9,10 +9,19 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Harvesttide Revel](/events/2022/harvesttide-revel/)
-23 October 2022, Drimnagh Castle, Co. Dublin
+### [Arts & Sciences Day](https://fienta.com/arts-sciences-day-51746)
+4 February 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Strawberry Raid II](/events/2023/strawberry-raid/)
+1-5 June 2022, Sigginstown Castle, Co. Wexford.
+
+### [PRIDE 🏳️‍🌈](/events/2023/pride/)  
+24 June 2023, Dublin.
 
 ## Previous events
+
+### [Harvesttide Revel](/events/2022/harvesttide-revel/)
+23 October 2022, Drimnagh Castle, Co. Dublin
 
 ### [Strawberry Raid](/events/2022/strawberry-raid/)
 2-6 June 2022, Sigginstown Castle, Co. Wexford.
