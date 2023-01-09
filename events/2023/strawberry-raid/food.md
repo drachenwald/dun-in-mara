@@ -18,4 +18,4 @@ Further pubs, takeaways and cafes are available in Wexford town and Rosslare.
 
 Wexford town has all the usual supermarkets (SuperValu, Tesco, ALDI, Lidl), pharmacies, as well as a convenient hardware store (Woodie’s in Wexford Retail Park). In Ireland, alcohol can be purchased in grocery stores, at petrol/gas stations and in “off-licences” (liquor stores). You need to be over 18 to buy and be served alcohol legally. 
 
-<a href="/events/2022/strawberry-raid/">Back to Event Page</a>
+<a href="/events/2023/strawberry-raid/">Back to Event Page</a>

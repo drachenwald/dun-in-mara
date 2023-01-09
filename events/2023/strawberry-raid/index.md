@@ -17,18 +17,18 @@ WWe will enjoy a range of medieval activities from the arts, crafts and camp coo
 
 Fees include camping (where relevant) and the booking engine administration fees.
 
-SCA member - Full event (Adult)				€41.50
-SCA member - Full event (Youth, age 6-18)			€20.70
-SCA member - Full event (Family: guardians and children)	€103.50
-	
-	
-Non-member - Full event (Adult)				€46.50
-Non-member - Full event (Youth, age 6-18)			€25.90
-Non-member - Full event (Family: guardians and children)	€125.00
-	
-	
-General - Day Trip (Adult)					€15.50
-General - Day Trip (Youth, age 6-18)	   			€10.50
+<table border="0">
+<tr><td>SCA member - Full event (Adult)</td><td>€41.50</td></tr>
+<tr><td>SCA member - Full event (Youth, age 6-18)</td><td>€20.70</td></tr>
+<tr><td>SCA member - Full event (Family: guardians and children)</td><td>€103.50</td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>	
+<tr><td>Non-member - Full event (Adult)</td><td>€46.50</td></tr>
+<tr><td>Non-member - Full event (Youth, age 6-18)</td><td>€25.90</td></tr>
+<tr><td>Non-member - Full event (Family: guardians and children)</td><td>€125.00</td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>	
+<tr><td>General - Day Trip (Adult)</td><td>€15.50</td></tr>
+<tr><td>General - Day Trip (Youth, age 6-18)</td><td>€10.50</td></tr>
+</table>
 
 Children under 6 are free of charge in all categories, but please indicate their number in the booking form so that we can keep track of overall numbers.
 
@@ -85,7 +85,8 @@ Sigginstown Castle is owned by SCA members who very generously open their home f
 <br/>
 ## <a href="camping/">Camping</a>
 <br/>
-## <a href="food/">Food & Other Supplies</a> (please note that food is **not provided** at this event)
+## <a href="food/">Food & Other Supplies</a> 
+(please note that food is **not provided** at this event)
 <br/>
 
 ## Weather
@@ -112,13 +113,13 @@ The schedule will be available closer to the event time.
 
 Contact Master Agnes at <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a> with any queries.
 
-Head Steward: Master Agnes Boncuer <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a> 
-Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a> 
-Reservations: Lady Aoife ni Aodhagain  <a href="aoifeniaodhagain@gmail.com">aoifeniaodhagain@gmail.com</a> 
-Camping & Facilities team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a> and Hugh Biqutous   
-Armoured Combat & Marshal in Charge: Lord Aodhan Dha Cheist <a href="mailto:Aidanbarron1@gmail.com">Aidanbarron1@gmail.com</a> 
-Rapier and Cut & Thrust (steel fencing): Master Duncan Chaucer <a href="mailto:p.macfad@gmail.com">p.macfad@gmail.com</a> 
-Archery: TBC
-Arts & Sciences (arts & crafts activities): Lady Anneleyn Cornelisse <a href="mailto:hilary.donraadt@gmail.com">hilary.donraadt@gmail.com</a> 
-Herald in Charge: TBC
-Royal Liaison team: Sabrina of Dun In Mara & Brenna of Dun In Mara 
+Head Steward: Master Agnes Boncuer <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a>  
+Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a>  
+Reservations: Lady Aoife ni Aodhagain  <a href="aoifeniaodhagain@gmail.com">aoifeniaodhagain@gmail.com</a>  
+Camping & Facilities team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a> and Hugh Biqutous    
+Armoured Combat & Marshal in Charge: Lord Aodhan Dha Cheist <a href="mailto:Aidanbarron1@gmail.com">Aidanbarron1@gmail.com</a>  
+Rapier and Cut & Thrust (steel fencing): Master Duncan Chaucer <a href="mailto:p.macfad@gmail.com">p.macfad@gmail.com</a>  
+Archery: TBC  
+Arts & Sciences (arts & crafts activities): Lady Anneleyn Cornelisse <a href="mailto:hilary.donraadt@gmail.com">hilary.donraadt@gmail.com</a>  
+Herald in Charge: TBC  
+Royal Liaison team: Sabrina of Dun In Mara & Brenna of Dun In Mara  
