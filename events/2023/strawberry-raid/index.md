@@ -10,7 +10,7 @@ excerpt: "1-5 June 2023. Sigginstown Castle, Co. Wexford, Ireland."
 
 The SCA Shire of Dun In Mara welcomes you back to Strawberry Raid, five days of medieval camping around the beautifully restored 15th-16th century tower house of [Sigginstown Castle](https://www.sigginstowncastle.com/), in the beautiful sunny South-East of Ireland.
 
-WWe will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
+We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
 
 ## Event Fees
@@ -34,7 +34,7 @@ Children under 6 are free of charge in all categories, but please indicate their
 
 ## Attendees
 
-A list of people who have already booked, and given consent for their names to appear will appear here after bookings open: <a href="attending/">Attending</a>
+A list of people who have already booked, and given consent for their names to appear will appear here after bookings open: <a href="attending/" class="btn btn-primary">Attending</a>
 
 ## Accessibility
 
