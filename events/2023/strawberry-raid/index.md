@@ -12,7 +12,21 @@ The SCA Shire of Dun In Mara welcomes you back to Strawberry Raid, five days of 
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
+## Contents
 
+<a href="#eventfees">Event Fees</a>  
+<a href="attending/">Attendees</a>  
+<a href="#accessibilty">Accessibility</a>  
+<a href="codeofconduct">Code of Conduct</a>  
+<a href="Travel">Travel</a>  
+<a href="camping/">Camping</a>  
+<a href="food/">Food & Other Supplies</a>  
+<a href="#weather">Weather</a>  
+<a href="activities">Activities</a>  
+<a href="schedule">Schedule</a>  
+<a href="eventteam">Event Team</a>  
+
+<a name="eventfees"></a>
 ## Event Fees
 
 Fees include camping (where relevant) and the booking engine administration fees.
@@ -36,6 +50,7 @@ Children under 6 are free of charge in all categories, but please indicate their
 
 A list of people who have already booked, and given consent for their names to appear will appear here after bookings open: <a href="attending/" class="btn btn-primary">Attending</a>
 
+<a name="accessibility"></a>
 ## Accessibility
 
 The ground of the site is level but uneven, including gravel and fields. The restored period tower house has narrow steep spiral stairs and small rooms. The stairs have handrails installed. Any activities inside the tower are likely to take place in the first two floors. 
@@ -48,6 +63,7 @@ During dark hours, we will have small lights marking the entrances to the encamp
 
 Noise in the camp is requested to be minimal during certain hours (est. 11 pm - 8 am).
 
+<a name="codeofconduct"></a>
 ## Code of Conduct
 
 We have a zero tolerance policy of all bullying, harassment, abuse and hate speech, including but not limited to gender identity, age, religion, ethnicity/race, sexual orientation, ability and body type. Event participants will be expected to be polite toward other SCA participants as well as toward any members of the public who may attend; to respect other people and respect their needs: and to take all reasonable steps to make everyone feel welcome and safe within our Society. 
@@ -58,6 +74,7 @@ Any event participant found in breach of the Code of Conduct will be asked to le
 
 If you would like to know more, please consult our shire’s [Inclusivity Statement](https://duninmara.org/about/inclusivity/) as well as the [Code of Conduct of the Kingdom of Drachenwald](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view).
 
+<a name="travel"></a>
 ## Travel
 
 The event is easily reachable from Dublin Airport via the M11, 20 minutes drive from Wexford railway station, and 15 minutes drive from Rosslare ferryport with connections to the UK and continental Europe. We may be able to provide pick-ups from Wexford and Rosslare on a case by case basis, please discuss your needs with the Reservations Steward. 
@@ -84,6 +101,7 @@ Sigginstown Castle is owned by SCA members who very generously open their home f
 
 <a href="camping/" class="btn btn-primary">Camping</a> <a href="food/" class="btn btn-primary">Food & Other Supplies</a>
 
+<a name="weather"></a>
 ## Weather
 
 Ireland is an Atlantic island, so we get a lot of rain, but in shorter bursts than our friends in continental climates. It is pretty typical to have a sunny morning and a rainy afternoon, and other way round. Wind, in various quantities, is pretty much omnipresent, more so on the coasts. Sigginstown is very close to the sea, and the camping field does not have much in the way of sheltering trees or buildings, so you will want to make sure that your tent is well secured. Very flimsy modern gazebos are unlikely to survive throughout the event, although a bigger, sturdier one sheltered a large camp kitchen successfully in the first year.  
@@ -92,6 +110,7 @@ On rainy days, as long as your tent does not spring a leak, you should remain ni
 
 It is impossible to predict what the weather is going to be like until a couple of days prior to the event, and even then the outlook may change quickly. We estimate that we will have some sunshine, and some rain, with day temperatures anything between 15°C/59°F and 23°C/73.4°F. It’s a good idea to bring layered garb with a rain-resistant overgarment. If you have the baggage space, a woollen overgarment and a hat, at least for evenings, nights and early mornings, is a good idea.  
 
+<a name="activities"></a>
 ## Activities
 
 Watch this space for details on our organised activities during the event. We expect to have classes, practice and tourneys in our martial pursuits, as well as plenty of classes and fun projects in our arts & sciences. 
@@ -100,10 +119,12 @@ Watch this space for details on our organised activities during the event. We ex
 
 This year, our visiting teacher at armoured combat will be Duke Timmur Jochan (KSCA, OD, OP) from the Kingdom of Artemisia. 
 
+<a name="schedule"></a>
 ## Schedule
 
 The schedule will be available closer to the event time.
 
+<a name="eventteam"></a>
 ## Event Team
 
 Contact Master Agnes at <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a> with any queries.
