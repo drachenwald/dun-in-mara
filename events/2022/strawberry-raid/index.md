@@ -4,6 +4,10 @@ featuredImage: ../../../../images/sigginstowncastlefireplace.jpg
 excerpt: "2-6 June 2022. Sigginstown Castle, Co. Wexford, Ireland."
 ---
 
+## <strong><a href="https://duninmara.org/events/2023/strawberry-raid/">You're probably looking for Strawberry Raid 2023</a></strong>
+
+(The rest of this page is about the 2022 event)
+
 ## Welcome
 
 **2-6 June 2022**
