@@ -32,4 +32,4 @@ What to bring: Clothing that allows you to move easily and training shoes such a
 
 Weekly training sessions include movement and technique drills against pells or opponents. Most of the training can be done unarmoured. At the end of a session, those in armour put the training into practice, and those out of armour are welcome to watch and learn. All training sessions are suited to all levels and complete beginners are always welcome.
 
-Contact: Agnes des Illes at [knightmarshal@duninmara.org](mailto:knightmarshal@duninmara.org)
+Contact: Agnes des Illes at [armouredcombat@duninmara.org](mailto:armouredcombat@duninmara.org)
