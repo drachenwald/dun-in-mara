@@ -19,9 +19,9 @@ We train in historical combat techniques, and do free fencing wearing protective
 
 ### Practice Details 
 
-Time: Every Tuesday. Gather at 18:45 for training from 19:00-21:00.
+**We're currently looking for a new venue for our fencing practice!**
 
-Cost:  
+Cost, when we're running:  
 €13 for non-members (€10 student/unwaged)  
 €10 for members (€8 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
 
@@ -51,7 +51,5 @@ A typical practice lasts 2 hours. We start with warm up exercises to limber up t
 ### What to bring with you to practice?
 
 Clothes and shoes you can move easily in – long sleeved and full legs. Long-cuffed gloves if you have them. (Fencing gear if you already have it too, of course!)
-
-Venue: [Liffey Trust Studios](https://goo.gl/maps/NiMEjig15rz), Corner of North Wall Avenue & Sheriff St. Upper, close to The Point Luas stop. Usually Studio 1, but check the whiteboard in the reception area for updated info each week. [Liffey Trust Studios Website](http://www.liffeytruststudios.com/Contact-Us)
 
 For more information, contact **fencing@duninmara.org**
