@@ -12,6 +12,8 @@ That being said, we strive to create as medieval an atmosphere as possible, so p
 
 Camping spaces will be assigned. Please let the camping coordinator, Máistir Aodh Ó Siadhail at <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a> know if you have particular needs in terms of accessibility, other people you want to camp near, or the like. Spaces are reasonably large, but Aodh would appreciate knowing in advance if you are going to have more than one tent.
 
+A **crash tent** is available, if you'd like to camp but can't arrange your own tent. Check the box on the booking form, or email the registration steward <a href="mailto:aoifeniaodhagain@gmail.com">aoifeniaodhagain@gmail.com</a> if you've already booked and want to change to that.
+
 If camping is not your thing, you are welcome to reserve one of the many B&Bs, hotels or self-catering accommodations off-site for sleeping, and to attend the event during the day. Please note that in order to stay off-site you will need your own transport. 
 
 If you prefer to just drop in, you are welcome to attend on one day only at the cost of a day visit.

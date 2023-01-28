@@ -14,7 +14,8 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 
 ## Contents
 
-<a href="#eventfees">Event Fees</a>  
+<a href="#eventfees">Event Fees</a> 
+<a href="events/">Event News</a> 
 <a href="attending/">Attendees</a>  
 <a href="#accessibilty">Accessibility</a>  
 <a href="#codeofconduct">Code of Conduct</a>  
@@ -49,6 +50,10 @@ Fees include camping (where relevant) and the booking engine administration fees
 Children under 6 are free of charge in all categories, but please indicate their number in the booking form so that we can keep track of overall numbers.
 
 <a href="https://fienta.com/duninmara-strawberryraid-51557" class="btn btn-primary">Register Now</a>
+
+## Event News
+
+<a href="events/">Event News is here</a>! All the updates as they happen.
 
 ## Attendees
 
