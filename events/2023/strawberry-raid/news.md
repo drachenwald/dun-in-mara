@@ -6,7 +6,17 @@ excerpt: "1-5 June 2023. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## News
 
+### February 2, 2023
+
+**Food Vendor**
+
+We've made arrangements to have a food vendor on site. From Thursday afternoon through to Saturday morning, there'll be a barbecue, offering breakfast rolls, grilled meats, and hot sandwiches, and from Saturday afternoon through to Monday evening, we'll have an additional food truck, offering a variety of hot food and drinks. They'll be situated near the barn, so you'll have plenty of space to sit down and eat, even if the weather's not great.
+
+(See the <a href="food/">Food</a> page for other eating arrangements)
+
 ### January 28, 2023
+
+**Crash Space**
 
 At Strawberry Raid (1-5 June, Ireland) we now have crash space (shared accommodation) available. 
 
@@ -19,6 +29,8 @@ The booking form has been modified to include a question about a space in the cr
 As always, information about the event and the registration form are available at: <a href="https://duninmara.org/events/2023/strawberry-raid/">https://duninmara.org/events/2023/strawberry-raid/</a>
 
 ### January 9, 2023
+
+**Bookings are open!**
 
 <a href="https://fienta.com/duninmara-strawberryraid-51557">Booking is now open!</a> 
 

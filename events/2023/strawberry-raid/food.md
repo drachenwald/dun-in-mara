@@ -6,7 +6,9 @@ excerpt: "1-5 June 2023. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Food & Other Supplies
 
-**No food will be served**. Please be prepared to cook your own meals. You may wish to consider banding together with friends to arrange food. Camp fires must be off the ground and supervised at all times. Please contact the camping/facilities coordinator (Máistir Aodh Ó Siadhail at <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>) to arrange firewood.  
+We will have a food vendor on site - a barbecue for Thursday evening, all of Friday and Saturday morning, and a food truck from Saturday afternoon through Monday evening. Food is **not** included in the event cost.
+
+If you don't want to buy from the vendor, please be prepared to cook your own meals. You may wish to consider banding together with friends to arrange food. Camp fires must be off the ground and supervised at all times. Please contact the camping/facilities coordinator (Máistir Aodh Ó Siadhail at <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>) to arrange firewood.  
 
 **Centra grocery store at the Killinick Top Oil petrol/gas station** (c. 7 mins drive away) has a hot counter (chicken, sausages, fries, hot breakfast items etc) and a sandwich counter, as well as a coffee machine, if you wish to buy inexpensive ready made food. Here you can also buy basic grocery supplies as well as fuel for your car. There is also a laundromat outside the store, in case you need to wash and dry clothes/sheets/etc during or immediately after the event. Additionally, there are waste disposal and recycling banks.
 
