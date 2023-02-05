@@ -55,6 +55,7 @@ Sebastian
 Sela de la Rosa  
 Sevati Chikkaya  
 Susannah of York  
+Ursa the Minor  
 Wyrt the Gaberlunzie  
 Yda van Boulogne  
      
