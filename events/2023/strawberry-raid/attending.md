@@ -37,6 +37,7 @@ Etienne Fevre
 Gulenay  
 Isobel Fevre  
 Jamil al'Wadi  
+Jezebelle  
 Kazarriyya Al Sayid  
 Kytte of the Lake  
 Lisette de la Rose  
@@ -57,6 +58,7 @@ Sevati Chikkaya
 Susannah of York  
 Ursa the Minor  
 Wyrt the Gaberlunzie  
+Yannick of Normandy  
 Yda van Boulogne  
      
 <a href="/events/2023/strawberry-raid/">Back to Event Page</a>
