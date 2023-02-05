@@ -23,7 +23,7 @@ Sabrina of Dun in Mara
 
 Krake, King of Drachenwald  
 Tianna, Queen of Artemisia  
-Timmur Tarhun, King of Artemesia  
+Timmur Tarhun, King of Artemisia  
 
 ### Attendees
 
