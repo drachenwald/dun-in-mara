@@ -33,7 +33,7 @@ Alice de la Wode
 Angharad Banadaspus Drakenhefd  
 Beornwyn the Gaberlunzie  
 Cernac the Navigator  
-Etienne Fevre
+Etienne Fevre  
 Gulenay  
 Isobel Fevre  
 Jamil al'Wadi  
