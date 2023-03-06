@@ -3,14 +3,17 @@ title: Events
 ---
 While we have practices and classes every week, we get together every couple of months for an event. These are usually over a weekend, and you can typically come for a day or stay and enjoy the whole thing. All meals are provided, including a lavish and tasty feast.
 
-When at these events, we wear period garb - if you don't have any, that's ok, just let us know and we'll sort you out! We'll help you [live your best medieval life](https://mobile.twitter.com/Lin_Manuel/status/1027864394074484736?ref_src=twsrc%5Etfw).
+When at these events (with the exception of our Arts & Sciences days), we wear period garb - if you don't have any, that's ok, just let us know and we'll sort you out! We'll help you [live your best medieval life](https://mobile.twitter.com/Lin_Manuel/status/1027864394074484736?ref_src=twsrc%5Etfw).
 
 There are also other events across Ireland and Britain - see the [Principality Calendar](http://insulaedraconis.org/Events/) for details.
 
 ## Upcoming Events
 
-### [Arts & Sciences Day](https://fienta.com/arts-sciences-day-51746)
-4 February 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+### [April Arts & Sciences Day](https://fienta.com/arts-sciences-day-52703?6d5786efec69097d45cdb2b5425f96f0)
+15 April 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [May 2023 Arts & Sciences Day](https://fienta.com/arts-sciences-day-52704?e5ab58548b8cce2ff2498f5818951186)
+20 May 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Strawberry Raid II](/events/2023/strawberry-raid/)
 1-5 June 2023, Sigginstown Castle, Co. Wexford.
@@ -19,6 +22,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 24 June 2023, Dublin.
 
 ## Previous events
+
+### March 2023 Arts & Sciences Day
+5 March 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### February 2023 Arts & Sciences Day
+4 February 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Harvesttide Revel](/events/2022/harvesttide-revel/)
 23 October 2022, Drimnagh Castle, Co. Dublin
