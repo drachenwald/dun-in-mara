@@ -9,7 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [April Arts & Sciences Day](https://fienta.com/arts-sciences-day-52703?6d5786efec69097d45cdb2b5425f96f0)
+### [April 2023 Arts & Sciences Day](https://fienta.com/arts-sciences-day-52703?6d5786efec69097d45cdb2b5425f96f0)
 15 April 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [May 2023 Arts & Sciences Day](https://fienta.com/arts-sciences-day-52704?e5ab58548b8cce2ff2498f5818951186)
