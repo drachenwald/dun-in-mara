@@ -22,10 +22,10 @@ Sabrina of Dun in Mara
 ### Royalty
 
 Krake, King of Drachenwald  
-Alexandre d'Avignon, Prince of Insulae Draconis 
+Alexandre d'Avignon, Prince of Insulae Draconis  
 Tianna, Queen of Artemisia  
-Timmur Tarhun, King of Artemisia 
-Ursa the Minor, Princeps of Artemisia
+Timmur Tarhun, King of Artemisia  
+Ursa the Minor, Princeps of Artemisia  
 
 ### Attendees
 
@@ -42,7 +42,7 @@ Etienne Fevre
 Fergal  
 Gulenay  
 Gytha Ui Bhanain  
-Isabetta de Pavonis 
+Isabetta de Pavonis  
 Isobel Fevre   
 Jamil al'Wadi  
 Jezebelle  
