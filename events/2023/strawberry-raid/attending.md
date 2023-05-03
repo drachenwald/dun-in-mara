@@ -22,43 +22,59 @@ Sabrina of Dun in Mara
 ### Royalty
 
 Krake, King of Drachenwald  
+Alexandre d'Avignon, Prince of Insulae Draconis 
 Tianna, Queen of Artemisia  
-Timmur Tarhun, King of Artemisia  
+Timmur Tarhun, King of Artemisia 
+Ursa the Minor, Princeps of Artemisia
 
 ### Attendees
 
+Alays de Lunel  
 Alessandra di Riario  
-Alexandre d'Avignon  
+Alexander of Derlington  
 Alice de la Wode  
 Angharad Banadaspus Drakenhefd  
+Art of the Tower  
 Beornwyn the Gaberlunzie  
 Cernac the Navigator  
+Christine Bess Duvaunt  
 Etienne Fevre  
+Fergal  
 Gulenay  
-Isobel Fevre  
+Gytha Ui Bhanain  
+Isabetta de Pavonis 
+Isobel Fevre   
 Jamil al'Wadi  
 Jezebelle  
+Kate of Dun in Mara  
 Kazarriyya Al Sayid  
-Kytte of the Lake  
+Kier of Eplaheimr  
+Lady Kytte of the Lake  
+Leofrun of Flintheath  
 Lisette de la Rose  
 Marcella di Cavallino  
+Marye Liza  
 Meadhbh Rois Ineagh Ui. Chaoimh  
-Melisende Fitzwalter  
+Melisende Fitzwalter      
+Meliton  
+Meri Baxter  
 Mícheál Breathnach  
+Oriane d'Avallon  
 Órlaith Chaomhánach  
 Owen y Bwa ap Howell  
 Qamar  
 Ranulf li Norreis  
 Richard von Teck  
+Rogned Stengrimova  
 Rosemary  
 Saxa Amelia Africana  
 Sebastian  
 Sela de la Rosa  
 Sevati Chikkaya  
 Susannah of York  
-Ursa the Minor  
+Vitus  
 Wyrt the Gaberlunzie  
 Yannick of Normandy  
-Yda van Boulogne  
+Yda v boulogne  
      
 <a href="/events/2023/strawberry-raid/">Back to Event Page</a>
