@@ -53,7 +53,6 @@ Lady Kytte of the Lake
 Leofrun of Flintheath  
 Lisette de la Rose  
 Marcella di Cavallino  
-Marye Liza  
 Meadhbh Rois Ineagh Ui. Chaoimh  
 Melisende Fitzwalter      
 Meliton  
