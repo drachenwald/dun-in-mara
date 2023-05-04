@@ -6,6 +6,8 @@ excerpt: "2-6 June 2022. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Attending
 
+(Please note that if you didn't provide an SCA name, you won't be listed here - we're not putting people's modern names on the site!)
+
 ### Staff
 
 Master Agnes Boncuer  
@@ -36,6 +38,7 @@ Alice de la Wode
 Angharad Banadaspus Drakenhefd  
 Art of the Tower  
 Beornwyn the Gaberlunzie  
+Brendan of Eplaheimr  
 Cernac the Navigator  
 Christine Bess Duvaunt  
 Etienne Fevre  
