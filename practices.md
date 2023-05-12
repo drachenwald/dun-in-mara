@@ -28,15 +28,7 @@ We're currently looking for a venue for our Archery practices. If you know of a 
 
 ## Fencing
 
-[Liffey Trust Studios](https://goo.gl/maps/NiMEjig15rz), Corner of North Wall Avenue & Sheriff St. Upper, close to The Point luas stop. Tuesdays, gather at 18:45 for training from 19:00-21:30.
-
-Cost: 
-€13 for non-members (€10 student/unwaged)  
-€10 for members (€8 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
-
-If it's your first time attending, there's no charge.
-
-What to bring: Clothes and shoes you can move easily in – long sleeved and full legs. Long-cuffed gloves if you have them. (Fencing gear if you already have it too, of course!)
+We're currently looking for a venue for our Fencing practices. If you know of a suitable place which is available on a weekday evening (ideally a Tuesday), let us know!
 
 <a href="/historical-fencing/" class="btn btn-primary">More info</a>
 
