@@ -34,13 +34,15 @@ Ursa the Minor, Princeps of Artemisia
 Alays de Lunel  
 Alessandra di Riario  
 Alexander of Derlington  
+Alex of Long Riston  
 Alice de la Wode  
+Aoife of Eplaheimr
 Angharad Banadaspus Drakenhefd  
 Art of the Tower  
 Beornwyn the Gaberlunzie  
 Brendan of Eplaheimr  
 Cernac the Navigator  
-Christine Bess Duvaunt  
+Cheryl of Dun in Mara  
 Etienne Fevre  
 Fergal  
 Gulenay  
@@ -64,16 +66,20 @@ Mícheál Breathnach
 Oriane d'Avallon  
 Órlaith Chaomhánach  
 Owen y Bwa ap Howell  
+Poppy of Dun in Mara  
 Qamar  
 Ranulf li Norreis  
 Richard von Teck  
+Rodrigo Bernardez  
 Rogned Stengrimova  
-Rosemary  
+Sarah of Dun in Mara  
 Saxa Amelia Africana  
 Sebastian  
+Seán Tully  
 Sela de la Rosa  
 Sevati Chikkaya  
 Susannah of York  
+Trygg  
 Vitus  
 Wyrt the Gaberlunzie  
 Yannick of Normandy  
