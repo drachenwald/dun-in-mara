@@ -41,6 +41,8 @@ Angharad Banadaspus Drakenhefd
 Art of the Tower  
 Beornwyn the Gaberlunzie  
 Brendan of Eplaheimr  
+Bruce of Dun in Mara  
+Caleb of Dun in Mara  
 Cernac the Navigator  
 Cheryl of Dun in Mara  
 Etienne Fevre  
