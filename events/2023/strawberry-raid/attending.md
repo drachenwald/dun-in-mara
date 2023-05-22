@@ -36,7 +36,7 @@ Alessandra di Riario
 Alexander of Derlington  
 Alex of Long Riston  
 Alice de la Wode  
-Aoife of Eplaheimr
+Aoife of Eplaheimr  
 Angharad Banadaspus Drakenhefd  
 Art of the Tower  
 Beornwyn the Gaberlunzie  
