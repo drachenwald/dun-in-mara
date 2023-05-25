@@ -32,6 +32,7 @@ Ursa the Minor, Princeps of Artemisia
 ### Attendees
 
 Alays de Lunel  
+Alec of Dun in Mara  
 Alessandra di Riario  
 Alexander of Derlington  
 Alex of Long Riston  
@@ -43,14 +44,21 @@ Beornwyn the Gaberlunzie
 Brendan of Eplaheimr  
 Bruce of Dun in Mara  
 Caleb of Dun in Mara  
+Caitriona of the Ravens  
+Catlin le Mareschale  
 Cernac the Navigator  
 Cheryl of Dun in Mara  
+Esbiorn Jensson  
 Etienne Fevre  
+Etienne the Younger
 Fergal  
+Fianna Rua Nic Mhathúna  
 Gulenay  
 Gytha Ui Bhanain  
+Igor of Dun in Mara  
 Isabetta de Pavonis  
-Isobel Fevre   
+Isobel Fevre  
+James Douglass
 Jamil al'Wadi  
 Jezebelle  
 Kate of Dun in Mara  
@@ -59,6 +67,7 @@ Kier of Eplaheimr
 Lady Kytte of the Lake  
 Leofrun of Flintheath  
 Lisette de la Rose  
+Magatha of Dun in Mara  
 Marcella di Cavallino  
 Meadhbh Rois Ineagh Ui. Chaoimh  
 Melisende Fitzwalter      
