@@ -9,11 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [April 2023 Arts & Sciences Day](https://fienta.com/arts-sciences-day-52703?6d5786efec69097d45cdb2b5425f96f0)
-15 April 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### [May 2023 Arts & Sciences Day](https://fienta.com/arts-sciences-day-52704?e5ab58548b8cce2ff2498f5818951186)
-20 May 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Strawberry Raid II](/events/2023/strawberry-raid/)
 1-5 June 2023, Sigginstown Castle, Co. Wexford.
@@ -22,6 +17,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 24 June 2023, Dublin.
 
 ## Previous events
+
+### April 2023 Arts & Sciences Day  
+15 April 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+###[May 2023 Arts & Sciences Day]  
+20 May 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### March 2023 Arts & Sciences Day
 5 March 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
