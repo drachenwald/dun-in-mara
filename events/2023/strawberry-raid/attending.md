@@ -50,7 +50,7 @@ Cernac the Navigator
 Cheryl of Dun in Mara  
 Esbiorn Jensson  
 Etienne Fevre  
-Etienne the Younger
+Etienne the Younger  
 Fergal  
 Fianna Rua Nic Mhathúna  
 Gulenay  
@@ -90,6 +90,7 @@ Seán Tully
 Sela de la Rosa  
 Sevati Chikkaya  
 Susannah of York  
+Theresa of Dun in Mara  
 Trygg  
 Vitus  
 Wyrt the Gaberlunzie  
