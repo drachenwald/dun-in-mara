@@ -132,7 +132,7 @@ This year, our visiting teacher at armoured combat will be Duke Timmur Jochan (K
 <a name="schedule"></a>
 ## Schedule
 
-The schedule will be available closer to the event time.
+<a href="https://docs.google.com/spreadsheets/d/1WfGMm7m0kk6eTzLW_u3Mfm-T9sboVz8H1zC7NEe81VY/edit">The Schedule is available as a live Google Sheet</a>.
 
 <a href="https://fienta.com/duninmara-strawberryraid-51557" class="btn btn-primary">Register Now</a>
 
