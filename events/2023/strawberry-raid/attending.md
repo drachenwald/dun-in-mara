@@ -18,7 +18,7 @@ Lady Aoife ni Aodhagain
 Brenna of Dun in Mara  
 Maestra Damiana Illaria d'Onde  
 Master Duncan Chaucer   
-Hugh Biqutous   
+Hugh de Belesduna  
 Sabrina of Dun in Mara  
 
 ### Royalty
