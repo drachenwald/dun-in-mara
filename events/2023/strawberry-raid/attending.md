@@ -68,7 +68,7 @@ Mícheál Breathnach
 Oriane d'Avallon  
 Órlaith Chaomhánach  
 Owen y Bwa ap Howell  
-Poppy of Dun in Mara  
+Poppy of Eplaheimr  
 Qamar  
 Ranulf li Norreis  
 Richard von Teck  
