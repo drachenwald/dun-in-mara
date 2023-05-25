@@ -21,7 +21,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### April 2023 Arts & Sciences Day  
 15 April 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-###[May 2023 Arts & Sciences Day]  
+### May 2023 Arts & Sciences Day  
 20 May 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### March 2023 Arts & Sciences Day
