@@ -40,6 +40,7 @@ Alex of Long Riston
 Alexandra  
 Alice de la Wode  
 Aoife of Eplaheimr  
+Apollo  
 Angharad Banadaspus Drakenhefd  
 Art of the Tower  
 Beornwyn the Gaberlunzie  
@@ -61,6 +62,7 @@ Gytha Ui Bhanain
 Igor of Dun in Mara  
 Isabetta de Pavonis  
 Isobel Fevre  
+Jahanara  
 James Douglass
 Jamil al'Wadi  
 Jezebelle  
