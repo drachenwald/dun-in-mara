@@ -31,11 +31,13 @@ Ursa the Minor, Princeps of Artemisia
 
 ### Attendees
 
+Ailean  
 Alays de Lunel  
 Alec of Dun in Mara  
 Alessandra di Riario  
 Alexander of Derlington  
 Alex of Long Riston  
+Alexandra  
 Alice de la Wode  
 Aoife of Eplaheimr  
 Angharad Banadaspus Drakenhefd  
@@ -48,6 +50,7 @@ Caitriona of the Ravens
 Catlin le Mareschale  
 Cernac the Navigator  
 Cheryl of Dun in Mara  
+Erin Volya  
 Esbiorn Jensson  
 Etienne Fevre  
 Etienne the Younger  
@@ -90,6 +93,7 @@ Seán Tully
 Sela de la Rosa  
 Sevati Chikkaya  
 Susannah of York  
+Tabitha of Dun in Mara  
 Theresa of Dun in Mara  
 Trygg  
 Vitus  
