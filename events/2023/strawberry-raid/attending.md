@@ -28,6 +28,9 @@ Alexandre d'Avignon, Prince of Insulae Draconis
 Tianna, Queen of Artemisia  
 Timmur Tarhun, King of Artemisia  
 Ursa the Minor, Princeps of Artemisia  
+Etienne Fevre, Baron of Eplaheimr  
+Melisende Fitzwalter, Baroness of Eplaheimr  
+
 
 ### Attendees
 
@@ -53,7 +56,6 @@ Cernac the Navigator
 Cheryl of Dun in Mara  
 Erin Volya  
 Esbiorn Jensson  
-Etienne Fevre  
 Etienne the Younger  
 Fergal  
 Fianna Rua Nic Mhathúna  
@@ -75,7 +77,6 @@ Lisette de la Rose
 Magatha of Dun in Mara  
 Marcella di Cavallino  
 Meadhbh Rois Ineagh Ui. Chaoimh  
-Melisende Fitzwalter      
 Meliton  
 Meri Baxter  
 Mícheál Breathnach  
