@@ -43,5 +43,5 @@ Look to our events page for the next Arts & Sciences Day!
 
 What to bring: questions, research, something to work on. If you let us know what you are interested in before the meeting, we might be able to bring supplies.
 
-Contact: Anneleyn Cornelisse (Hilary Donraadt) 
-hilary.donraadt@gmail.com
+Contact: Sarah of Dun in Mara (Sarah MacQueen)  
+artsandsciences@duninmara.org
