@@ -12,8 +12,24 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [PRIDE 🏳️‍🌈](/events/2023/pride/)  
 24 June 2023, Dublin.
 
+### <a href="https://fienta.com/arts-sciences-day-62624">July 2023 Arts & Sciences Day</a>
+8 July 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### August 2023 Arts & Sciences Day
+5 August 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
 ### Pen & Sword
 15-17 September 2023, Sigginstown Castle, Co. Wexford.
+
+### October 2023 Arts & Sciences Day
+7 October 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### November 2023 Arts & Sciences Day
+4 November 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### December 2023 Arts & Sciences Day
+9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
 
 ## Previous events
 
