@@ -18,7 +18,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### August 2023 Arts & Sciences Day
 5 August 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### Pen & Sword
+### [Pen & Sword](/events/2023/penandsword/)
 15-17 September 2023, Sigginstown Castle, Co. Wexford.
 
 ### October 2023 Arts & Sciences Day
