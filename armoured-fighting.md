@@ -5,7 +5,7 @@ featuredImage: /images/two-fighters.jpg
 ---
 Armoured combat, or “heavy combat”, in the SCA is a modern interpretation of the Medieval arts of tournaments and war. We use rattan weapons instead of steel, but as this form of combat is a full contact activity, we wear protective armour. The standards of armour and weaponry are strictly dictated by our rules. Official training sessions, as well as competitions, are supervised by trained people known as marshals.
 
-<img src="/images/sigginstown-fighters.jpg" alt="Armoured fight practice" />
+<img src="/images/sigginstown-fighters.jpg" alt="Armoured fight practice" width="600" height="400" />
 
 Armoured combat is practiced by people of all genders and we welcome everyone. We not only train together, but also compete against each other, rather than segregating the combatants according to gender. A great deal of skill in armoured combat in the SCA lies in technique rather than in strength or size.
 
@@ -43,15 +43,15 @@ Contact Agnes Boncuer at [armouredcombat@duninmara.org](mailto:armouredcombat@du
 
 <table>
     <tr>
-        <td><img src="/images/heavy1.jpg"></td>
-        <td><img src="/images/heavy2.jpg"></td>
+        <td><img src="/images/heavy1.jpg" width="300" height="200"></td>
+        <td><img src="/images/heavy2.jpg" width="300" height="200"></td>
     </tr>
     <tr>
-        <td><img src="/images/heavy3.jpg"></td>
-        <td><img src="/images/heavy4.jpg"></td>
+        <td><img src="/images/heavy3.jpg" width="300" height="200"></td>
+        <td><img src="/images/heavy4.jpg" width="300" height="200"></td>
     </tr>
     <tr>
-        <td><img src="/images/heavy5.jpg"></td>
-        <td><img src="/images/heavy6.jpg"></td>
+        <td><img src="/images/heavy5.jpg" width="300" height="200"></td>
+        <td><img src="/images/heavy6.jpg" width="300" height="200"></td>
     </tr>
 </table>
