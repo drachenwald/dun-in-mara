@@ -22,10 +22,9 @@ Our day and weekend events typically include armoured combat tourneys of various
 
 Cost:  
 
-Cost:
-€12 for non-members
-€10 for members [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
-€8 for student/unwaged
+€12 for non-members  
+€10 for members [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)  
+€8 for student/unwaged  
 
 There is no charge for your first time attending, but we would prefer if you contact us in advance so that we can advise you in case of a class cancellation.
 
