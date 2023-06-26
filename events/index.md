@@ -9,9 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [PRIDE 🏳️‍🌈](/events/2023/pride/)  
-24 June 2023, Dublin.
-
 ### <a href="https://fienta.com/arts-sciences-day-62624">July 2023 Arts & Sciences Day</a>
 8 July 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -32,6 +29,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 
 ## Previous events
+
+### [PRIDE 🏳️‍🌈](/events/2023/pride/)  
+24 June 2023, Dublin.
 
 ### [Strawberry Raid II](/events/2023/strawberry-raid/)
 1-5 June 2023, Sigginstown Castle, Co. Wexford.
