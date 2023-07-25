@@ -1,5 +1,5 @@
 ---
-title: "Strawberry Raid 2023"
+title: "Strawberry Raid 2024"
 featuredImage: ../../../../images/sigginstowncastlefireplace.jpg
 excerpt: "30 May-3 June 2024. Sigginstown Castle, Co. Wexford, Ireland."
 ---
