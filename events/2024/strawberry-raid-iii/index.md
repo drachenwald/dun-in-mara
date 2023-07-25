@@ -6,7 +6,7 @@ excerpt: "30 May-3 June 2024. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Welcome
 
-**1-5 June 2023**
+**30 May - 3 June 2024**
 
 The SCA Shire of Dun In Mara welcomes you to Strawberry Raid III, five days of medieval camping around the beautifully restored 15th-16th century tower house of [Sigginstown Castle](https://www.sigginstowncastle.com/), in the beautiful sunny South-East of Ireland.
 
