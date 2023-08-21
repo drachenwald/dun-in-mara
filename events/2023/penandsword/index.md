@@ -40,7 +40,7 @@ If you would like to know more, please consult our shire’s [Inclusivity Statem
 <a name="travel"></a>
 ## Travel
 
-The event is easily reachable from Dublin Airport via the M11, 20 minutes drive from Wexford railway station, and 15 minutes drive from Rosslare ferryport with connections to the UK and continental Europe. We may be able to provide pick-ups from Wexford and Rosslare on a case by case basis, please discuss your needs with the Reservations Steward. 
+The event is easily reachable from Dublin Airport via the M11, 20 minutes drive from Wexford railway station, and 15 minutes drive from Rosslare ferryport with connections to the UK and continental Europe. We may be able to provide pick-ups from Wexford and Rosslare on a case by case basis, please discuss your needs with the Reservations Steward.  
 
 Driving from Dublin Airport is straightforward via the M1, M50, M11/N11 and N25. It takes about two hours. The main roads are well kept and well signposted and foreign drivers generally don’t find driving on the main roads difficult, despite driving on the left. Some motorways have tolls. If you’re hiring a car, ask your rental agency what the protocol is concerning road tolls.    
 
