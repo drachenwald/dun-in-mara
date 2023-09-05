@@ -61,6 +61,137 @@ If you need a pick-up from Wexford town or from Rosslare, in the first instance 
 ## The Site
 
 Sigginstown Castle is owned by SCA members who very generously open their home for us. Please respect their generosity, their home and their neighbours at all times. Any requests from the site owners must be complied with immediately. Smoking is forbidden indoors including inside the barn. 
+
+## Schedule
+
+         <table border="1" cellpadding="0" cellspacing="0">
+                <colgroup>
+                    <col width="100" />
+                    <col width="100" />
+                    <col width="113" />
+                    <col width="158" />
+                    <col width="206" />
+                    <col width="100" />
+                    <col width="100" />
+                </colgroup>
+                <tr style="height:21px;">
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;"></td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;font-weight:bold;text-align:center;">Friday</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Saturday&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;font-weight:bold;text-align:center;">Saturday</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sunday&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;font-weight:bold;text-align:center;">Sunday</td>
+                </tr>
+                <tr style="height:21px;">
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scribal&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;font-weight:bold;">Scribal</td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fencing&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;font-weight:bold;">Fencing</td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scribal&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#c9daf8;font-weight:bold;">Scribal</td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Fencing&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;font-weight:bold;">Fencing</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.375}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">09:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#c9daf8;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Duncan &amp; Anneleyn - Warmup / Be Kind to your Knees&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Duncan &amp; Anneleyn - Warmup / Be Kind to your Knees</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Pack up, clean up, and get yourself home!&quot;}" rowspan="4" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#fff2cc;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span>
+                        <div style="max-height:114px">
+                            Pack up, clean up, and get yourself home!</div>
+                        </span></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4166666666666667}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">10:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Orlaith - Inks and Pigments for Science!&quot;}" rowspan="2" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;background-color:#c9daf8;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span>
+                        <div style="max-height:42px">
+                            Orlaith - Inks and Pigments for Science!</div>
+                        </span></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Duncan - Introduction to Italian Fencing&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Duncan - Introduction to Italian Fencing</td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.4583333333333333}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">11:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td colspan="1" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Cernac - Seize the Tempo! Or, how to use timing for victory.&quot;}" rowspan="2" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;background-color:#cfe2f3;wrap-strategy:4;white-space:normal;word-wrap:break-word;"><span>
+                        <div style="max-height:72px">
+                            Cernac - Seize the Tempo! Or, how to use timing for victory.</div>
+                        </span></td>
+                </tr>
+                <tr style="height:51px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">12:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mala - Quick and Dirty Scribal Abbreviations&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;background-color:#c9daf8;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Mala - Quick and Dirty Scribal Abbreviations</td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5416666666666666}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">13:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;LUNCH&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9d2e9;font-weight:bold;text-align:center;">LUNCH</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.5833333333333334}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">14:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Melisende - Fantastic Folds and How to Figure Them&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#c9daf8;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Melisende - Fantastic Folds and How to Figure Them</td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Petroc - Learn More about how to learn more&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;background-color:#cfe2f3;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Petroc - Learn More about how to learn more</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.625}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">15:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mala - Fourteen Great Pick-up Lines: Sonnets&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#c9daf8;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Mala - Fourteen Great Pick-up Lines: Sonnets</td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Provost Prize Play&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;">Provost Prize Play</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.6666666666666666}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">16:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Anneleyn - (Don't) Drink and Ink - drawing beasties from descriptions&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#c9daf8;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Anneleyn - (Don&#39;t) Drink and Ink - drawing beasties from descriptions</td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Freeplay until we get tired&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;background-color:#cfe2f3;">Freeplay until we get tired</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7083333333333334}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">17:00</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Site Opens&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;">Site Opens</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;COURT&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9d2e9;font-weight:bold;text-align:center;">COURT</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.75}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">18:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#c9daf8;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Duncan - A brief introduction to the sources &quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#cfe2f3;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Duncan - A brief introduction to the sources </td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.7916666666666666}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">19:00</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Freeplay if site setup and daylight allows&quot;}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;wrap-strategy:4;white-space:normal;word-wrap:break-word;">Freeplay if site setup and daylight allows</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dinner - Take Away&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:middle;background-color:#c9daf8;text-align:center;">Dinner - Take Away</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+                <tr style="height:21px;">
+                    <td data-sheets-numberformat="{&quot;1&quot;:6,&quot;2&quot;:&quot;hh:mm&quot;,&quot;3&quot;:1}" data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:0.8333333333333334}" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;font-weight:bold;text-align:right;">20:00</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Take Away&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;">Take Away</td>
+                    <td colspan="2" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Bardic circle!&quot;}" rowspan="1" style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#d9d2e9;font-weight:bold;text-align:center;">Bardic circle!</td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                    <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#fff2cc;"></td>
+                </tr>
+            </table>
  
 
 <a href="https://fienta.com/pen-sword" class="btn btn-primary">Book your place now</a>!
