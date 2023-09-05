@@ -64,7 +64,7 @@ Sigginstown Castle is owned by SCA members who very generously open their home f
 
 ## Schedule
 
-         <table border="1" cellpadding="0" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
                 <colgroup>
                     <col width="100" />
                     <col width="100" />
