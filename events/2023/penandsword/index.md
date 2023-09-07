@@ -195,3 +195,33 @@ Sigginstown Castle is owned by SCA members who very generously open their home f
  
 
 <a href="https://fienta.com/pen-sword" class="btn btn-primary">Book your place now</a>!
+
+## Attendees
+
+The following attendees have given permission for their names to be published:
+
+Eplaheimr-Jin Unegen  
+Clodagh of Eplaheimr  
+Petrc Monomachos  
+Cernac the Navigator  
+Gabrielle of Dun in Mara  
+David the Armourer  
+Sarah of Dun in Mara  
+Myriam of Dun in Mara  
+Mallymkun Rauði  
+Aodhan Dha Cheist  
+Cheryl of Dun in Mara  
+Katie of Dun in Mara  
+Daniel of Dun in Mara  
+Etienne Fevre  
+Melisende Fitzwalter  
+Isobel Fevre  
+Ciarán mac Cionaodha  
+Duncan Chaucer  
+Anneleyn Cornelisse  
+Gavin of Dun in Mara  
+Hugh de Belesduna  
+Alice de la Wode  
+Ari Mala  
+Órlaith Chamhánach  
+
