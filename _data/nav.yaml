@@ -9,3 +9,8 @@ top:
   - title: "Contact"
     url: /contact/
 
+crown2024:
+  - title: "Home"
+    url: /events/2024/crown/
+  - title: "News"
+    url: /events/2024/crown/news/

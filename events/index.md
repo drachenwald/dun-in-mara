@@ -9,9 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### <a href="https://fienta.com/arts-sciences-day-66495">August 2023 Arts & Sciences Day</a>
-5 August 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [Pen & Sword](/events/2023/penandsword/)
 15-17 September 2023, Sigginstown Castle, Co. Wexford.
 
@@ -24,8 +21,13 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### December 2023 Arts & Sciences Day
 9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
+### [Spring Crown 2024](/events/2024/crown/)
+5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
 ## Previous events
+
+### August 2023 Arts & Sciences Day
+5 August 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### July 2023 Arts & Sciences Day
 8 July 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
