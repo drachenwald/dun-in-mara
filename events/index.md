@@ -9,10 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Pen & Sword](/events/2023/penandsword/)
-15-17 September 2023, Sigginstown Castle, Co. Wexford.
-
-### October 2023 Arts & Sciences Day
+### [October 2023 Arts & Sciences Day](https://fienta.com/71849)
 7 October 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### November 2023 Arts & Sciences Day
@@ -25,6 +22,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
 ## Previous events
+
+### [Pen & Sword](/events/2023/penandsword/)
+15-17 September 2023, Sigginstown Castle, Co. Wexford.
 
 ### August 2023 Arts & Sciences Day
 5 August 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
