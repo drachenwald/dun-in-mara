@@ -6,7 +6,8 @@ excerpt: "24 June 2023. Dublin."
 
 ## November Fight Practice and Arts & Sciences Workshop
 
-**10 November 2023**
+**10-12 November 2023**
+Clara Scout Hall, County Offaly, Ireland 
 
 Get ready for Coronet and for the winter!
 
@@ -16,7 +17,7 @@ For the fighters - spend the weekend learning from Count Sir Krake, a well known
 
 For the artisans - Do a deep dive into the world of natural dyeing with THL Órlaith.
 
-"A workshop to explore the differences between wool nd silk fibres, to find out more about scouring and mordanting. Mordanting is best done an overnight process so this step will be done on the Friday night but we can recap it and discuss it with anyone who can't make that step on the Saturday. I will make up one large vat of a colour so we can see the effects of "exhaust" baths (we might also make a pigment lake from this just for the fun of it) and as usual there will be smaller pots for testing different colours. We will get longer to leave Materials in the dye baths so we can go for stronger colours this time. There will be a bit of waiting around for that, so make sure you bring projects you want to get sorted for Coronet with you to pass the downtime."
+"A workshop to explore the differences between wool and silk fibres, to find out more about scouring and mordanting. Mordanting is best done an overnight process so this step will be done on the Friday night but we can recap it and discuss it with anyone who can't make that step on the Saturday. I will make up one large vat of a colour so we can see the effects of "exhaust" baths (we might also make a pigment lake from this just for the fun of it) and as usual there will be smaller pots for testing different colours. We will get longer to leave Materials in the dye baths so we can go for stronger colours this time. There will be a bit of waiting around for that, so make sure you bring projects you want to get sorted for Coronet with you to pass the downtime."
 
 You can of course take advantage of the available space to work on other projects that may need large tables or otherwise a lot of space.
 
