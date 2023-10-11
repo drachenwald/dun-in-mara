@@ -32,3 +32,5 @@ The following statement must be posted at gate/troll at every SCA event in a siz
 > of anyone being harassed or bullied, contact a seneschal, President of the SCA, or
 > your Kingdom’s Board Ombudsman."
 
+For further details, please refer to the Kingdom of Drachenwald's Code of Conduct, available on the [Seneschal's Page](https://drachenwald.sca.org/offices/seneschal/).
+
