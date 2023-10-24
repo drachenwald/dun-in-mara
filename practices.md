@@ -4,6 +4,10 @@ title: Classes and Practices
 
 Would you like to try out some of our activities? Just come along to one of our classes or practices and we'll be delighted to get you started.
 
+## Dun in Mara Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FDublin&src=aTMxYmRkaTI1MWdsOWV2bzJvaXVhbGtuOTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y3Nha3IxdTQxY2dzZGVybW05MmRtamYyZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Armoured Combat
 
 [Scoil Sancta Maria, Synge Street](https://goo.gl/maps/WHAurpDwDMR2) every Thursday 18:30 to 21:00.
