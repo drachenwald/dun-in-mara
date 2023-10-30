@@ -9,10 +9,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [October 2023 Arts & Sciences Day](https://fienta.com/71849)
-7 October 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### November 2023 Arts & Sciences Day
+
+### [November 2023 Arts & Sciences Day](https://fienta.com/71849-73795)
 4 November 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Weekend Fight Practice and Arts & Sciences Workshop](/events/2023/november-practice/)
@@ -25,6 +24,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
 ## Previous events
+
+### October 2023 Arts & Sciences Day
+7 October 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Pen & Sword](/events/2023/penandsword/)
 15-17 September 2023, Sigginstown Castle, Co. Wexford.

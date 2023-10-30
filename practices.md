@@ -32,7 +32,7 @@ We're currently looking for a venue for our Archery practices. If you know of a 
 
 ## Fencing
 
-We're currently looking for a venue for our Fencing practices. If you know of a suitable place which is available on a weekday evening (ideally a Tuesday), let us know!
+We are running Fencing every 2 weeks on Thursdays, together with our Armoured Combat practice. We’re also looking for a new venue for our Fencing practices. If you know of a suitable place which is available on a weekday evening (ideally a Tuesday), let us know!
 
 <a href="/historical-fencing/" class="btn btn-primary">More info</a>
 
