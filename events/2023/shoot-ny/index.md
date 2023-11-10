@@ -1,10 +1,10 @@
 ---
 title: "Shoot into the New Year"
 featuredImage: ../../images/fire-bg.jpg
-excerpt: "24 June 2023. Dublin."
+excerpt: "30 December 2023. Blessington."
 ---
 
-## Pride
+## Shoot into the New Year
 
 **30 December 2023**
 
