@@ -9,11 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-
-
-### [November 2023 Arts & Sciences Day](https://fienta.com/71849-73795)
-4 November 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [Weekend Fight Practice and Arts & Sciences Workshop](/events/2023/november-practice/)
 10 November 2023, Jim Kirwan Scout Hall, Clara, Co. Offaly
 
@@ -27,6 +22,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
 ## Previous events
+
+### November 2023 Arts & Sciences Day
+4 November 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### October 2023 Arts & Sciences Day
 7 October 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
