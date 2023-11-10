@@ -20,6 +20,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### December 2023 Arts & Sciences Day
 9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
+### [Shoot into the New Year](/events/2023/shoot-ny/)
+30 December 2023, Blessington, Co. Wicklow.
+
 ### [Spring Crown 2024](/events/2024/crown/)
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
