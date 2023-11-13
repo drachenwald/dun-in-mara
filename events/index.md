@@ -9,10 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Weekend Fight Practice and Arts & Sciences Workshop](/events/2023/november-practice/)
-10 November 2023, Jim Kirwan Scout Hall, Clara, Co. Offaly
-
-### December 2023 Arts & Sciences Day
+### [December 2023 Arts & Sciences Day](https://fienta.com/71849-75403)
 9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Shoot into the New Year](/events/2023/shoot-ny/)
@@ -21,7 +18,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [Spring Crown 2024](/events/2024/crown/)
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
+
+
 ## Previous events
+
+### [Weekend Fight Practice and Arts & Sciences Workshop](/events/2023/november-practice/)
+10 November 2023, Jim Kirwan Scout Hall, Clara, Co. Offaly
 
 ### November 2023 Arts & Sciences Day
 4 November 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
