@@ -22,8 +22,8 @@ for the weekend bunk rate, bedlinen.
 |Adult, camping pod          |             €50|
 |Adult, camping in own tent  |             €35|
 |Day trip                    |             €30|
-|Child (under 18)            |50% of full rate|
-|Concession (unwaged/student)|20% of full rate|
+|Child (under 18)            |50% discount    |
+|Concession (unwaged/student)|20% discount    |
 |----------------------------|----------------|
 
 **Please note** these differences with previous events:
@@ -44,7 +44,7 @@ for the weekend bunk rate, bedlinen.
 **Head Cook:** Máistir Aodh Ó Siadhail  
 **Site Liaison:** Viscountess Caitriona of the Ravens  
 **Marshal in Charge:** Aodhan Dha Cheist  
-**Hall Steward:** Nadja of Dun in Mara
+**Hall Steward:** Nadja of Dun in Mara  
 **Herald in Charge:** Kytte of the Lake
 
 
