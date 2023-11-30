@@ -9,7 +9,34 @@ The Shire of Dun in Mara is delighted to announce that Drachenwald’s Spring Cr
 
 <a class="btn btn-primary" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt"></i> Find the site on Google Maps</a>
 
-More information to come very soon.
+<h2 class="mt-4">Pricing</h2>
+
+Tickets will go on sale in early 2024. Pricing includes all meals (Friday night-Sunday morning) and,
+for the weekend bunk rate, bedlinen.
+
+**This pricing is for members only.**
+
+|Booking                     |Cost            |
+|----------------------------|----------------|
+|Adult, weekend, bunk bed    |             €85|
+|Adult, camping pod          |             €50|
+|Adult, camping in own tent  |             €35|
+|Day trip                    |             €30|
+|Child (under 18)            |50% of full rate|
+|Concession (unwaged/student)|20% of full rate|
+|----------------------------|----------------|
+
+**Please note** these differences with previous events:
+
+- There is no family cap, but we have a discounted rate for children
+- There is now a concession rate for unwaged/students and others who need it
+  (we will not seek proof of this.)
+- We ask all attendees to be a member of SCA UK CIC, SCA Inc. or any affiliate
+
+<div class="text-center m-4">
+<a href="{% post_url 2023-11-30-crown-pricing %}" class="btn btn-primary text-center">Why do I have to be a member?</a>
+</div>
+
 
 <h2 class="mt-4">Event team</h2>
 
@@ -18,30 +45,22 @@ More information to come very soon.
 **Site Liaison:** Viscountess Caitriona of the Ravens  
 **Marshal in Charge:** Aodhan Dha Cheist  
 **Hall Steward:** Nadja of Dun in Mara
+**Herald in Charge:** Kytte of the Lake
 
 
 {% assign posts = site.posts | where_exp:"item", "item.categories contains 'crown2024'" %}
 
 <h2 class="mt-4">Latest news</h2>
 
- {% for post in posts limit:3 %}
+{% for post in posts limit:3 %}
 
-  <div class="mt-3">
-    <h3>{{ post.title }}</h3>
-    <h6 class="text-muted">{{ post.date | date_to_string }}</h6>
-    <p>
-      {{ post.excerpt }}
-      <a href="{{ post.url }}" class="btn btn-outline-primary">Read more...</a>
-    </p>
-  </div>
+<div class="mt-3">
+  <h3>{{ post.title }}</h3>
+  <h6 class="text-muted">{{ post.date | date_to_string }}</h6>
+  <p>
+    {{ post.excerpt }}
+    <a href="{{ post.url }}" class="btn btn-outline-primary">Read more...</a>
+  </p>
+</div>
 
-  {% endfor %}
-
-
-  <div class="row text-center">
-    <div class="col">
-      <a role="button" class="btn btn-primary" href="news/">More about Spring Crown 2024...</a>
-    </div>
-  </div>
-
-
+{% endfor %}
