@@ -1,6 +1,6 @@
 ---
 title:  "Pricing for Spring Crown"
-date:   2023-11-28 00:00:00 +0000
+date:   2023-11-30 09:00:00 +0000
 categories: event crown2024
 ---
 
@@ -9,7 +9,7 @@ Greetings all! We hope you are getting excited about our upcoming Spring Crown T
 Pricing for the event has been announced!
 
 <div class="text-center m-3">
-<a href="/events/2024/crown/" class="btn btn-primary text-center">See pricing</a>
+<a href="/events/2024/crown/" class="btn btn-primary text-center shadow">See pricing</a>
 </div>
 
 There's something important about pricing for this event that we'd like to note.
@@ -23,5 +23,5 @@ So our thinking is that we'll ask **everyone attending the tournament** to be an
 If you have any questions or concerns, please do not hesitate to contact Katie or myself as the co-event stewards at [springcrown@duninmara.org](mailto:springcrown@duninmara.org)
 
 <div class="text-center m-4">
-<a href="/events/2024/crown/" class="btn btn-primary text-center">More about Spring Crown 2024</a>
+<a href="/events/2024/crown/" class="btn btn-primary text-center shadow">More about Spring Crown 2024</a>
 </div>

@@ -15,7 +15,7 @@ sidebar: sidebar-crown2024
     <h6 class="text-muted">{{ post.date | date_to_string }}</h6>
     <p>
       {{ post.excerpt }}
-      <a href="{{ post.url }}" class="btn btn-outline-primary">Read more...</a>
+      <a href="{{ post.url }}" class="btn btn-outline-primary shadow">Read more...</a>
     </p>
   </div>
 
@@ -24,7 +24,7 @@ sidebar: sidebar-crown2024
 
   <div class="row text-center">
     <div class="col">
-      <a role="button" class="btn btn-primary" href="/events/2024/crown/">More about Spring Crown 2024...</a>
+      <a role="button" class="btn btn-primary shadow" href="/events/2024/crown/">More about Spring Crown 2024...</a>
     </div>
   </div>
 

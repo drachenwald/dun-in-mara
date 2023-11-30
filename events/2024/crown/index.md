@@ -7,7 +7,9 @@ sidebar: sidebar-crown2024
 The Shire of Dun in Mara is delighted to announce that Drachenwald’s Spring Crown 2024
 (AS 58) will take place on 5-7 April at Crawfordsburn, near Belfast, Northern Ireland.
 
-<a class="btn btn-primary" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt"></i> Find the site on Google Maps</a>
+<div class="text-center m-4">
+  <a class="btn btn-primary shadow" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt me-1"></i> Find the site on Google Maps</a>
+</div>
 
 <h2 class="mt-4">Pricing</h2>
 
@@ -34,7 +36,8 @@ for the weekend bunk rate, bedlinen.
 - We ask all attendees to be a member of SCA UK CIC, SCA Inc. or any affiliate
 
 <div class="text-center m-4">
-<a href="{% post_url 2023-11-30-crown-pricing %}" class="btn btn-primary text-center">Why do I have to be a member?</a>
+<a href="{% post_url 2023-11-30-crown-pricing %}" class="btn btn-primary text-center m-1 shadow"><i class="fas fa-address-card me-1"></i> Why do I have to be a member?</a>
+<a href="{% post_url 2023-11-30-crown-accom %}" class="btn btn-primary text-center m-1 shadow"><i class="fas fa-home me-1"></i> What are the accommodation options?</a>
 </div>
 
 
@@ -59,7 +62,7 @@ for the weekend bunk rate, bedlinen.
   <h6 class="text-muted">{{ post.date | date_to_string }}</h6>
   <p>
     {{ post.excerpt }}
-    <a href="{{ post.url }}" class="btn btn-outline-primary">Read more...</a>
+    <a href="{{ post.url }}" class="btn btn-outline-primary shadow">Read more...</a>
   </p>
 </div>
 
