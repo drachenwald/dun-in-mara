@@ -18,7 +18,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [Spring Crown 2024](/events/2024/crown/)
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
-### [Strawberry Raid III](events/2024/strawberry-raid-iii/)
+### [Strawberry Raid III](/events/2024/strawberry-raid-iii/)
 30 May - 3 June 2024, Sigginstown Castle, Co. Wexford.
 
 
