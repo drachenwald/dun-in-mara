@@ -3,6 +3,8 @@ title: Archery
 banner: /images/archers-bosco.jpg
 ---
 
+**NEW: [Shoot Into The New Year](/events/2023/shoot-ny/) - December 30 2023, Blessington, Co. Wicklow.**
+
 With archery we seek to foster the skills developed for entertainment,
 hunting, and combat as practiced across the medieval period. Archery
 equipment and techniques varied widely across the area from western

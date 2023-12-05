@@ -12,4 +12,4 @@ We have a potential new site for one day events that we want to test. There is e
 There is an outdoor firepit that we are planning to use.
 And there is a small indoor space with toilets and potentially a socket or two for a kettle.
 
-More details and booking link to cover costs for firewood will be announced closer to the time.
+<a href="https://fienta.com/shoot-into-the-new-year" class="btn btn-primary">Book your place now</a>
