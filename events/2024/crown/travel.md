@@ -7,9 +7,15 @@ sidebar: sidebar-crown2024
 Our site is **Crawforsburn Scout Camp** near Belfast, Northern Ireland.
 This venue is easy to reach by car, bus, rail, sea and air.
 
+Note that Northern Ireland is a part of the UK, and you will need to pay
+for taxis and other local items in pounds sterling.
+
 <div class="text-center m-4">
-  <a class="btn btn-primary shadow" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt me-1"></i> Find the site on Google Maps</a>
+  <a class="btn btn-primary shadow m-2" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt me-1"></i> Find the site on Google Maps</a>
+  <a class="btn btn-primary shadow m-2" href="https://discovernorthernireland.com/faqs"><i class="fas fa-info-circle"></i> Info on visiting Northern Ireland</a>
 </div>
+
+
 
 ## By air
 
@@ -94,6 +100,8 @@ Irish Rail and Translink operate the "Enterprise" rail service between
 Dublin Connolly Station and Belfast Lanyon place. This runs about every
 two hours, and takes about 2h10m.
 
+There are typically no passport checks or other border controls between Ireland and Northern Ireland. However, you must have permission to visit both Ireland and the UK.
+
 From Lanyon Place you can connect with a local train service to
 Helen's Bay about a 20 minute walk to the site, or take a taxi.
 A taxi from Lanyon Place will take about 20 minutes, and cost
@@ -115,6 +123,8 @@ Dublin Express runs services from Westland Row and Custom House Quay (near Conno
 Station) through Dublin Airport to Belfast Glengall St.
 
 A taxi from Glengall St to Crawfordsburn will cost about £30.
+
+There are typically no passport checks or other border controls between Ireland and Northern Ireland. However, you must have permission to visit both Ireland and the UK.
 
 The journey from Dublin City to Belfast takes about 2h30m, with the journey
 from Dublin Airport slightly shorter.
