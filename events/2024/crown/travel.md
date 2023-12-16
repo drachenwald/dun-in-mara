@@ -4,7 +4,7 @@ subtitle: Travel
 sidebar: sidebar-crown2024
 ---
 
-Our site is **Crawforsburn Scout Camp** near Belfast, Northern Ireland.
+Our site is **Crawfordsburn Scout Camp** near Belfast, Northern Ireland.
 This venue is easy to reach by car, bus, rail, sea and air.
 
 Note that Northern Ireland is a part of the UK, and you will need to pay
