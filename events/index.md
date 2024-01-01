@@ -9,11 +9,8 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [December 2023 Arts & Sciences Day](https://fienta.com/71849-75403)
-9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### [Shoot into the New Year](/events/2023/shoot-ny/)
-30 December 2023, Blessington, Co. Wicklow.
+### [January 2024 Arts & Sciences Day](https://fienta.com/71849-78515)  
+6 January 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Spring Crown 2024](/events/2024/crown/)
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
@@ -23,6 +20,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 
 ## Previous events
+
+### December 2023 Arts & Sciences Day
+9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Shoot into the New Year](/events/2023/shoot-ny/)
+30 December 2023, Blessington, Co. Wicklow.
 
 ### [Weekend Fight Practice and Arts & Sciences Workshop](/events/2023/november-practice/)
 10 November 2023, Jim Kirwan Scout Hall, Clara, Co. Offaly
