@@ -34,7 +34,7 @@ Event Fees will be announced in early 2024.
 
 ## Event News
 
-<a href="events/">Event News is here</a>! All the updates as they happen.
+Duke Brannos has been announced as the visiting armoured combat trainer! Brannos is one of the foremost heavy trainers in the world.
 
 ## Attendees
 
@@ -108,7 +108,7 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Visiting Teacher (Armoured Combat)
 
-Visiting teachers will be announced in early 2024.
+Duke Brannos will be attending as this year's Armoured Combat trainer. Brannos is one of the world's foremost heavy fighting trainers. You can see him on the <a href="https://www.youtube.com/c/SCACoachesCorner">Coaches Corner YouTube Channel</a>. 
 
 <a name="schedule"></a>
 ## Schedule
