@@ -19,13 +19,20 @@ We train in historical combat techniques, and do free fencing wearing protective
 
 ### Practice Details 
 
-**We're currently looking for a new venue for our fencing practice!**
+Tuesdays 19:00-21:00 (Please arrive c. 18:45 for setup)
 
-Cost, when we're running:  
-€13 for non-members (€10 student/unwaged)  
-€10 for members (€8 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
+The F2 Centre,
+3 Reuben Plaza,
+Saint James,
+Dublin D08 PVOH
 
-If it's your first time attending, there's no charge. Please email <b>fencing@duninmara.org</b> in advance.
+Bookings for non-SCA members need to be in three days in advance, for insurance reasons. SCA members can book up to the day before.
+
+€12 for non-members  
+€10 for members [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)  
+€8 for student/unwaged  
+
+If it's your first time attending, there's no charge. Please email **fencing@duninmara.org** in advance.
 
 ### What weapons do we fence with?
 
