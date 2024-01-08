@@ -28,9 +28,11 @@ Dublin D08 PVOH
 
 Bookings for non-SCA members need to be in three days in advance, for insurance reasons. SCA members can book up to the day before.
 
-€12 for non-members  
-€10 for members [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)  
-€8 for student/unwaged  
+
+€14 for non-members  
+€10 for student/unwaged non-members  
+€10 for SCA members [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)  
+€6 for student/unwaged SCA members  
 
 If it's your first time attending, there's no charge. Please email **fencing@duninmara.org** in advance.
 
