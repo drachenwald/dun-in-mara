@@ -43,5 +43,8 @@ Look to our events page for the next Arts & Sciences Day!
 
 What to bring: questions, research, something to work on. If you let us know what you are interested in before the meeting, we might be able to bring supplies.
 
-Contact: Sarah of Dun in Mara (Sarah MacQueen)  
-artsandsciences@duninmara.org
+<div class="dw-live-officers" lang="en" display=""
+  group="Insulae Draconis-Dun in Mara" office="moas">
+  Loading...
+</div>
+<script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"></script>
