@@ -9,17 +9,49 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [January 2024 Arts & Sciences Day](https://fienta.com/71849-78515)  
-6 January 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+### [February 2024 Arts & Sciences Day](https://fienta.com/71849-79191)  
+3 February 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### March 2024 Arts & Sciences Day
+23 March 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Spring Crown 2024](/events/2024/crown/)
 5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
 
+### April 2024 Arts & Sciences Day
+13 April 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### May 2024 Arts & Sciences Day
+18 May 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
 ### [Strawberry Raid III](/events/2024/strawberry-raid-iii/)
 30 May - 3 June 2024, Sigginstown Castle, Co. Wexford.
 
+### June 2024 Arts & Sciences Day
+15 June 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### July 2024 Arts & Sciences Day
+20 July 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### August 2024 Arts & Sciences Day
+10 August 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### September 2024 Arts & Sciences Day
+7 September 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### October 2024 Arts & Sciences Day
+5 October 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### November 2024 Arts & Sciences Day
+2 November 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### December 2024 Arts & Sciences Day
+14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ## Previous events
+
+### January 2024 Arts & Sciences Day
+6 January 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### December 2023 Arts & Sciences Day
 9 December 2023, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
