@@ -28,6 +28,16 @@ for the weekend bunk rate, bedlinen.
 |Concession (unwaged/student)|20% discount    |
 |----------------------------|----------------|
 
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/spring-crown-2024"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+  Use code <b>CONCESSION</b> for unwaged/student discount
+</div>
+
+<div class="text-center m-4">
+  Contact <a href="mailto:springcrown@duninmara.org">springcrown@duninmara.org</a> with any queries
+</div>
+
+
 **Please note** these differences with previous events:
 
 - There is no family cap, but we have a discounted rate for children
@@ -43,7 +53,7 @@ for the weekend bunk rate, bedlinen.
 
 <h2 class="mt-4">Event team</h2>
 
-**Event Stewards:** Sela de la Rosa and Katie of Dun in Mara  
+**Event Stewards:** Sela de la Rosa and Katie of Dun in Mara [springcrown@duninmara.org](mailto:springcrown@duninmara.org)  
 **Head Cook:** Máistir Aodh Ó Siadhail  
 **Site Liaison:** Viscountess Caitriona of the Ravens  
 **Marshal in Charge:** Aodhan Dha Cheist  
