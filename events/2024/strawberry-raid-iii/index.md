@@ -45,7 +45,7 @@ SCA member - Day Trip (Adult) €20.70
 SCA member - Day Trip (Youth, age 6-18) €15.52  
 SCA member - Day Trip (Child, under 6) Free  
 Non-member Day trip only (Adult - ADVANCE ONLY) €24.84  
-Non-member Day trip only (Youth, age 6- 18 - ADVANCE ONLY) €19.66
+Non-member Day trip only (Youth, age 6- 18 - ADVANCE ONLY) €19.66  
 Non-member Day trip only (Child, under 6 ADVANCE ONLY) €4.40
 
 <div class="text-center m-4">
