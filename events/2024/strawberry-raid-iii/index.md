@@ -141,16 +141,16 @@ The schedule will be announced a week or two before the event.
 Contact Master Agnes at <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a> with any queries.
 
 Head Steward: Master Agnes Boncuer <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a>  
-Deputy Event Steward: Aodhán Dha Ceist  
+Deputy Event Steward: Lord Aodhán Dha Ceist  
 Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a>  
-Reservations: Mallymkun Rauði  
-Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>, Gabrielle of Dun in Mara  
+Reservations: Noble Mallymkun Rauði  
+Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>, Lady Gabrielle of Dun in Mara  
 Facilities Team: Hugh de Belesduna, Nadja of Dun in Mara  
-Atmosphere & Decorations Team: Órlaith Caomhánach, Alays de Lunel  
+Atmosphere & Decorations Team: THL Órlaith Caomhánach, THL Alays de Lunel  
 Armoured Combat & Marshal in Charge: TBC  
 Rapier and Cut & Thrust (steel fencing): TBC  
-Archery & Thrown Weapons: Alays de Lunel, Gwerful an filí, Gabrielle of Dun in Mara  
-Arts & Sciences (arts & crafts activities): Melisende FitzWalter, Katie of Dun in Mara  
+Archery & Thrown Weapons: THL Alays de Lunel, Lady Gwerful an filí, Lady Gabrielle of Dun in Mara  
+Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Katie of Dun in Mara  
 Herald in Charge: TBC  
 Royal Liaison team: TBC  
 
