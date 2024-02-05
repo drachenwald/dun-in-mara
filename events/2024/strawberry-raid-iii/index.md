@@ -12,6 +12,10 @@ The SCA Shire of Dun In Mara welcomes you to Strawberry Raid III, five days of m
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
+
 ## Contents
 
 <a href="#eventfees">Event Fees</a>  
@@ -30,7 +34,23 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 <a name="eventfees"></a>
 ## Event Fees
 
-Event Fees will be announced in early 2024.
+All fees include Fienta's administration fee.  
+
+SCA member - Full event (Adult) €46.57  
+SCA member - Full event (Youth, age 6-18) €22.77  
+SCA member - Full event (Family: guardians and children) €108.67  
+SCA member - Full event (Child, under 6) Free  
+Duke Brannos Armoured Fighting Classes €10.40  
+SCA member - Day Trip (Adult) €20.70  
+SCA member - Day Trip (Youth, age 6-18) €15.52  
+SCA member - Day Trip (Child, under 6) Free  
+Non-member Day trip only (Adult - ADVANCE ONLY) €24.84  
+Non-member Day trip only (Youth, age 6- 18 - ADVANCE ONLY) €19.66  
+Non-member Day trip only (Child, under 6 ADVANCE ONLY) €4.40
+
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
 
 ## Event News
 
@@ -121,12 +141,19 @@ The schedule will be announced a week or two before the event.
 Contact Master Agnes at <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a> with any queries.
 
 Head Steward: Master Agnes Boncuer <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a>  
+Deputy Event Steward: Lord Aodhán Dha Ceist  
 Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a>  
-Reservations: TBC  
-Camping & Facilities team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>    
+Reservations: Noble Mallymkun Rauði  
+Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>, Lady Gabrielle of Dun in Mara  
+Facilities Team: Hugh de Belesduna, Nadja of Dun in Mara  
+Atmosphere & Decorations Team: THL Órlaith Caomhánach, THL Alays de Lunel  
 Armoured Combat & Marshal in Charge: TBC  
 Rapier and Cut & Thrust (steel fencing): TBC  
-Archery: TBC  
-Arts & Sciences (arts & crafts activities): TBC  
+Archery & Thrown Weapons: THL Alays de Lunel, Lady Gwerful an filí, Lady Gabrielle of Dun in Mara  
+Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Katie of Dun in Mara  
 Herald in Charge: TBC  
 Royal Liaison team: TBC  
+
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
