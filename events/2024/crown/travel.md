@@ -53,8 +53,9 @@ excellent selection of flights, including from a number of low cost
 carriers.
 
 There are a number of coaches to Belfast that leave from Dublin Airport;
-see "by bus" below. You can also travel into Dublin City Centre and then
-proceed by bus or rail.
+see "by bus" below. These services run comfortable buses, often with USB
+power, and take about 1h50m to reach Belfast. You can also travel into
+Dublin City Centre and then proceed by bus or rail.
 
 You can also hire a car at Dublin Airport, though if
 you do so, check that you are allowed to take it across the border to
@@ -88,7 +89,8 @@ Stena Line and Irish Ferries also have services from Holyhead to Dublin (approx 
 There are also exceptionally good value Sail & Rail prices from all stations in the UK
 to Dublin, from where you can continue your journey by bus or rail.
 
-Dublin port is 113 miles (182km) from Crawfordsburn by road, most of which is motorway or dual carraigeway.
+Dublin port is 113 miles (182km) from Crawfordsburn by road, most of which is motorway
+or dual carraigeway.
 
 <div class="text-center m-4">
   <a class="btn btn-primary shadow" href="https://maps.app.goo.gl/CpSKrE6QKNzrbmBu9"><i class="fas fa-map-marker-alt me-1"></i> Google Maps directions from Dublin Ferry Port</a>
@@ -100,7 +102,9 @@ Irish Rail and Translink operate the "Enterprise" rail service between
 Dublin Connolly Station and Belfast Lanyon place. This runs about every
 two hours, and takes about 2h10m.
 
-There are typically no passport checks or other border controls between Ireland and Northern Ireland. However, you must have permission to visit both Ireland and the UK.
+There are typically no passport checks or other border controls between
+Ireland and Northern Ireland. However, you must have permission to visit
+both Ireland and the UK.
 
 From Lanyon Place you can connect with a local train service to
 Helen's Bay about a 20 minute walk to the site, or take a taxi.
@@ -124,10 +128,11 @@ Station) through Dublin Airport to Belfast Glengall St.
 
 A taxi from Glengall St to Crawfordsburn will cost about £30.
 
-There are typically no passport checks or other border controls between Ireland and Northern Ireland. However, you must have permission to visit both Ireland and the UK.
+There are typically no passport checks or other border controls between Ireland and
+Northern Ireland. However, you must have permission to visit both Ireland and the UK.
 
 The journey from Dublin City to Belfast takes about 2h30m, with the journey
-from Dublin Airport slightly shorter.
+from Dublin Airport about 1h50m.
 
 <div class="text-center m-4">
   <a class="btn btn-primary shadow m-2" href="https://www.aircoach.ie/timetables/705X"><i class="fas fa-bus"></i> Aircoach route 705X timetable</a>
