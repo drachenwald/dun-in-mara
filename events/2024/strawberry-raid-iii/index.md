@@ -143,7 +143,7 @@ Contact Master Agnes at <a href="mailto:agneslaverte@gmail.com">agneslaverte@gma
 Head Steward: Master Agnes Boncuer <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a>  
 Deputy Event Steward: Lord Aodhán Dha Ceist  
 Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a>  
-Reservations: Noble Mallymkun Rauði  
+Reservations: Noble Mallymkun Rauði <a href="mailto:Fromsabrina@gmail.com">Fromsabrina@gmail.com</a>  
 Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>, Lady Gabrielle of Dun in Mara  
 Facilities Team: Hugh de Belesduna, Nadja of Dun in Mara  
 Atmosphere & Decorations Team: THL Órlaith Caomhánach, THL Alays de Lunel  
