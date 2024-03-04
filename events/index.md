@@ -9,10 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [February 2024 Arts & Sciences Day](https://fienta.com/71849-79191)  
-3 February 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### March 2024 Arts & Sciences Day
+### [March 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-84212)
 23 March 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Spring Crown 2024](/events/2024/crown/)
@@ -49,6 +46,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ## Previous events
+
+### February 2024 Arts & Sciences Day
+3 February 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### January 2024 Arts & Sciences Day
 6 January 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
