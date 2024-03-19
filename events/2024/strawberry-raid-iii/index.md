@@ -126,6 +126,10 @@ It is impossible to predict what the weather is going to be like until a couple 
 
 Watch this space for details on our organised activities during the event. We expect to have classes, practice and tourneys in our martial pursuits, as well as plenty of classes and fun projects in our arts & sciences. 
 
+### Arts & Sciences Classes
+
+A preliminary list of [classes](classes/) is now available.
+
 ### Visiting Teacher (Armoured Combat)
 
 Duke Brannos will be attending as this year's Armoured Combat trainer. Brannos is one of the world's foremost heavy fighting trainers. You can see him on the <a href="https://www.youtube.com/c/SCACoachesCorner">Coaches Corner YouTube Channel</a>. 
