@@ -49,7 +49,7 @@ Rodrigo Bernardez
 Sela de la Rosa  
 Teresa of Dun In Mara  
 Trygg of Eplaheimr  
-Victoria Piera Rosselli 
+Victoria Piera Rosselli  
 Viscountess Susannah of york  
 Vitus  
 
