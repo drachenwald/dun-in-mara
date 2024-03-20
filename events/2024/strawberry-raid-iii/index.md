@@ -54,11 +54,13 @@ Non-member Day trip only (Child, under 6 ADVANCE ONLY) €4.40
 
 ## Event News
 
+The initial <a href="attending/">attendees list</a> is live.   
+
 Duke Brannos has been announced as the visiting armoured combat trainer! Brannos is one of the foremost heavy trainers in the world.
 
 ## Attendees
 
-A list of people who have already booked, and given consent for their names to appear will appear here after bookings open:   
+A list of people who have already booked, and given consent for their names to appear is here:   
 <a href="attending/" class="btn btn-primary">Attending</a>
 
 <a name="accessibility"></a>
