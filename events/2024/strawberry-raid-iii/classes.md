@@ -148,7 +148,8 @@ Class Limit: 8 people
 *Bardic Circles*  
 Ad hoc Bardic gatherings held every evening in the Tower – no specific time, grab friends and go!  
 
-*Peerage Symposium with Dame Genevieve la Flechiere*  
+*Peerage Symposium*  
+with Dame Genevieve la Flechiere   
 So: why do we need peers, exactly? I Have Views. Do you have views? Come chat over a drink. BYO seating. Wine provided.  
 Class Limit: None  
 
