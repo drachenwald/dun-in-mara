@@ -59,6 +59,21 @@ Ever wanted to Learn how to do a delicious but simple lunch for events? Want to 
 Class Limit: None  
 Charge: Cost of Ingredients – will be advised on the day  
 
+*All the Tea in China*   
+with Maestra Damiana d’Onde  
+Join us in the Cafe for a little journey into China and the first teas imported into Europe. We will do a little Chinese tea ceremony, and taste a few different sorts of Black and Green tea. Food with History!   
+Class Limit: 10 people  
+
+*The Ethiopian Coffee Trail*   
+with Maestra Damiana d’Onde  
+Join us in the Cafe for a little journey into the land of Ethiopia which is thought to be the origin of Arabica coffee, and the voyage through Mocha into Turkey and then time travel forward to Europe. We will do a little Ethiopian coffee ceremony, and taste coffee with cardamon. Food with History!   
+Class Limit: 10 people  
+
+*Food of the Gods - Hot Chocolat in 1591*  
+with Maestra Damiana d’Onde  
+join us in the Cafe to experience xocolatl (“Chocolat”) in 1591 when first being brought to Europe from Mexico. The first recipes used “New World” ingredients and then quickly incorporated sugar and other Old World spices. Food with History!  
+Class Limit: 10 people  
+
 
 **C&I and Bookbinding**
 
@@ -121,6 +136,21 @@ with Mistress Catherine Weaver OL
 In this class we will look at some of the ways you can introduce brocade into your tablet weaving, with examples drawn from a variety of extant examples. We will also look at controlling your metallic brocade weft to make it easier to work with and improving the appearance of the final band.   
 Class Limit: 8 people  
 Will have some metallic threads suitable for brocade available to purchase  
+
+*Weaving on and off a loom*  
+with Milady Eibhlís af Luimneach  
+In this class you will weave a mug rug on a Rigid heddle loom and learn how to finish it off with the hemstitch. There will also be weaving on weaving sticks to make a bracelet and you can try out weaving on peglooms.  
+Class Limit: 8 people  
+
+
+**Evening Entertainment**
+
+*Bardic Circles*  
+Ad hoc Bardic gatherings held every evening in the Tower – no specific time, grab friends and go!  
+
+*Peerage Symposium with Dame Genevieve la Flechiere*  
+So: why do we need peers, exactly? I Have Views. Do you have views? Come chat over a drink. BYO seating. Wine provided.  
+Class Limit: None  
 
 
 <a href="/events/2024/strawberry-raid-iii/">Back to Event Page</a>
