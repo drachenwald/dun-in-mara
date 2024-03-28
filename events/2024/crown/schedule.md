@@ -15,7 +15,7 @@ sidebar: sidebar-crown2024
 **Friday 5 April** |
 17:00 | Site opens
 19:00 | Travellers Fare begins
-20:00 | Court
+20:00 | Court, followed by pre-curia meeting
 **Saturday 6 April** |
 08:00 | Breakfast
 09:30 | Armour inspection
