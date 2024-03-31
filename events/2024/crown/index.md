@@ -8,8 +8,16 @@ The Shire of Dun in Mara is delighted to announce that Drachenwald’s Spring Cr
 (AS 58) will take place on 5-7 April at Crawfordsburn, near Belfast, Northern Ireland.
 
 <div class="text-center m-4">
-  <a class="btn btn-primary shadow" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt me-1"></i> Find the site on Google Maps</a>
+  <a class="btn btn-primary shadow mx-2" href="https://goo.gl/maps/8uu821gQU5bRg1uf9"><i class="fas fa-map-marker-alt me-1"></i> Find the site on Google Maps</a>
+  <a class="btn btn-danger shadow mx-2" href="{% link events/2024/crown/arrival.md %}"><i class="fas fa-car me-1"></i> Important information for arrival</a>
 </div>
+
+## Important: arriving after 19:00?
+
+If you are arriving by car/taxi after 19:00 (7:00 pm), _the gate to the site will be closed._
+When you are close by, call the event phone on **+353 87 483 0611** and someone will come down to
+let you in.
+
 
 <h2 class="mt-4">Pricing</h2>
 
@@ -29,11 +37,7 @@ for the weekend bunk rate, bedlinen.
 |----------------------------|----------------|
 
 <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/spring-crown-2024"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-  Use code <b>CONCESSION</b> for unwaged/student discount
-</div>
-
-<div class="text-center m-4">
+  Booking has now closed.<br />
   Contact <a href="mailto:springcrown@duninmara.org">springcrown@duninmara.org</a> with any queries
 </div>
 
