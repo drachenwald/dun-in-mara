@@ -21,10 +21,10 @@ sidebar: sidebar-crown2024
 09:30 | Armour inspection
 10:00 | Tournament
 13:00 | Lunch
-13:30 |                              |  Order of Defence meeting
-14:00 | Fencing, Archery begins      |  Order of Chivalry meeting
-14:30 | Fighting pickups begin       |  Order of the Laurel meeting
-15:00 |                              |  Order of the Pelican meeting
+13:30 |                                |  Order of Defence meeting
+14:00 | Fencing, Thrown Weapons begins |  Order of Chivalry meeting
+14:30 | Fighting pickups begin         |  Order of the Laurel meeting
+15:00 |                                |  Order of the Pelican meeting
 15:30 | Guild meetings
 17:00 | Court
 19:00 | Feast
