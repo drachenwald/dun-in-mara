@@ -9,13 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Spring Crown 2024](/events/2024/crown/)
-5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.
-
-### [April 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-85337)
-13 April 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### May 2024 Arts & Sciences Day
+### [May 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-85339)
 18 May 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Strawberry Raid III](/events/2024/strawberry-raid-iii/)
@@ -43,6 +37,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ## Previous events
+
+### [April 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-85337)
+13 April 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin  
+
+### [Spring Crown 2024](/events/2024/crown/)
+5-7 April 2024, Crawfordsburn, Belfast, Northern Ireland.  
 
 ### March 2024 Arts & Sciences Day
 23 March 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
