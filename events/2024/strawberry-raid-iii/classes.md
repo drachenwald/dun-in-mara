@@ -22,20 +22,6 @@ with Viscountess Kareina Talventytär
 The SCA encourages all of its members "to have made every effort to learn and practice those skills desirable at and worthy of a civilized court" (especially those who would advance to the highest ranks; see Coropra section VIII. A. I. g.). Of these skills dance is one of the most important ones listed. Why? Because dancing is not only an opportunity to practice cultural ritual, it also increases our coordination and stamina (thereby increasing our prowess on and off the field), and it is even a perfect opportunity to become better acquainted with potential flirting partners. Come join us for a session of dances from a handful of times and locations in Europe. No experience necessary, and the difficulty level of the dances undertaken will be adapted to the wishes and abilities of the dancers participating. Flirting not required.  
 Class Limit: None  
 
-
-**Combat & Martial**
-
-*Hanging with your headweasals, dining with your demons*  
-with Lady Alessandra di Riario  
-Confronting and integrating what causes you to self sabotage, get to know your mind monster and turn it from enemy to ally. Interactive class with exercises.  
-Class Limit: 15 people  
-
-*Warriors of the Change; breaking the silence round perimenopause,menopause and postmenopause and slaying it in all three*   
-with Lady Alessandra di Riario  
-Physical and mental aspects of menopause and menopause-friendly training, interactive open space to share experiences and battle stories with no taboos, mutual support and advice sharing.  If anyone wants to do this as a panel discussion please volunteer now in pm to Lesley McIntee on Facebook, or on the day.  
-Class Limit: None  
-
-
 **Cookery**
 
 *Viking age cooking Ireland*  
@@ -48,16 +34,16 @@ with Baroness Christine Bess Duvaunt OL
 Meal planning can often be daunting. Some people really want to do it and get involved, but they don’t know where to start. Learn tips and tricks, quantities and helpful ways to make something scary into something awesome and doable.   
 Class Limit: None  
 
-*Roman Salt Manufacturing*  
+*The Many Flavours of Salt*  
 with Mistress Lissette de la Rose OP  
-A discussion of the top three techniques used in roman salt manufacturing.   
-Class Limit: None  
+A discussion on the factors that impact the taste of that ancient and revered mineral.  
+Class limit: No limit  
 
 *Practical cooking for a lunch….and you get to eat it!*    
 with Baroness Christine Bess Duvaunt OL  
 Ever wanted to Learn how to do a delicious but simple lunch for events? Want to see how to organise the time and also how to make it? Come and make lunch on the Saturday, you will get all the notes, quantities, instructions and recipes to take away, as well as lunch!  
 Class Limit: None  
-Charge: Cost of Ingredients – will be advised on the day  
+Charge: €5    
 
 *All the Tea in China*   
 with Maestra Damiana d’Onde  
@@ -92,6 +78,11 @@ Charge: €5 each for materials
 with THL Órlaith Chaomhánach  
 In this class I will demonstrate some of the plants that can be used to extract colour from to make pigment lakes, we will also be demonstrating the beginning part of the process up to filtration. The final step - drying - can be started but the material is unlikely to be dried enough for final product to be seen before we head home, but it will be underway at least.  
 Class Limit: 8 people  
+
+*Get that medieval look*  
+with Mistress Oriane d'Avallon  
+Lots of tips & tricks so your scroll looks like a page out of a medieval manuscript. Will include Pimp your Nib.  
+Class Limit: 12  
 
 **Sciences**
 
@@ -142,6 +133,30 @@ with Milady Eibhlís af Luimneach
 In this class you will weave a mug rug on a Rigid heddle loom and learn how to finish it off with the hemstitch. There will also be weaving on weaving sticks to make a bracelet and you can try out weaving on peglooms.  
 Class Limit: 8 people  
 
+*Make a nålbinding hat, mittens or neck cowl*  
+with Baroness Melisende Fitzwalter OL  
+Keep warm at outdoor or winter events by making a nalbinding hat, gloves or cowl. Bring your preferred yarn (preferrably 100% wool, but blends and acrylic can be worked with too) and nalbinding needle (needles will be available to borrow and/or purchase). A basic knowledge of nalbinding will be an advantage, but beginners are welcome!  
+Class Limit: 6 people  
+Charges: No charge for class, but will have nålbinding needles available to puchase for €5
+each  
+
+*Introduction to tablet weaving*  
+with Nadja of Dun in Mara  
+This class will give an introduction to tablet weaving - how it works mechanically, some (non-exhaustive) examples of its use in period, what you can do with it and how to read a pattern. Participants will set up their warp and begin weaving a band with a threaded pattern. We will all be making the same band (TBD which one).If you've never tablet woven before and want to give it a go, or you would like a refresher, this is the class for you. Weaving cards (enough for the pattern we will be making), other tools and warp and weft threads will be provided. I will have a few colour options for people to choose from.You do not need to bring anything, but if you have your own cards or small weaving shuttles, or you have a particular colour combination in mind and want to bring your own threads, you are welcome to. Also if you have an inkle loom that you are bringing to the event, feel free to bring that, it can be used for tablet weaving as well.  
+Class limit: 10 people  
+
+*Beginners Bobbinlace*  
+with Lady Marina Claudia Alessandra de Grado  
+Suitable for absolute beginners. You will learn the 4 main stitches which will be used to create a bookmark.  
+Class Limit: 5 people  
+Charges: €3 per person  
+
+**General**
+
+*The Imposter Phenomenon: Are you affected?*  
+with Duchess Angharad Banadaspus Drakenhefd
+Do you wrestle with feelings of self-doubt? Are you afraid that people will discover that you're not really as capable as they think you are? Do you use self-limiting language? Do you give credit to luck, timing or others for your accomplishments? If you answered yes to any of these questions, you may be afflicted with Imposter Phenomenon (also known as the Imposter Syndrome). Learn how to: become more aware of these behaviours, reframe the conversation in your head and with others, embrace your strengths and commit to a change that moves you forward. You are invited to engage in activities geared towards this phenomenon with other attendees, to work on changing your mindset and to develop strategies for becoming more confident in your endeavours.  
+Class Limit: 20 people  
 
 **Evening Entertainment**
 
