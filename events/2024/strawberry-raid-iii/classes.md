@@ -151,6 +151,10 @@ Suitable for absolute beginners. You will learn the 4 main stitches which will b
 Class Limit: 5 people  
 Charges: €3 per person  
 
+*The Insulae Draconis Fibre Arts Guild*  
+with HH Princess Jahanara of Insulae Draconis  
+This class will cover the history of the guild, the rank structure, projects, how to participate, and an opportunity to give input!  
+
 **General**
 
 *The Imposter Phenomenon: Are you affected?*  
