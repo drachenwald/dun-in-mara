@@ -18,7 +18,7 @@ Have you ever wanted to sing or tell a story in a bardic circle or during a feas
 Class Limit: 5 people  
 
 *Dancing: for Culture, Prowess, or Flirting?*  
-with Viscountess Kareina Talventytär  
+with Varakreivitär Kareina Talventytär  
 The SCA encourages all of its members "to have made every effort to learn and practice those skills desirable at and worthy of a civilized court" (especially those who would advance to the highest ranks; see Coropra section VIII. A. I. g.). Of these skills dance is one of the most important ones listed. Why? Because dancing is not only an opportunity to practice cultural ritual, it also increases our coordination and stamina (thereby increasing our prowess on and off the field), and it is even a perfect opportunity to become better acquainted with potential flirting partners. Come join us for a session of dances from a handful of times and locations in Europe. No experience necessary, and the difficulty level of the dances undertaken will be adapted to the wishes and abilities of the dancers participating. Flirting not required.  
 Class Limit: None  
 
