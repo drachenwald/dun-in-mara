@@ -4,9 +4,13 @@ featuredImage: ../../../../images/sigginstowncastlefireplace.jpg
 excerpt: "30 May-3 June 2024. Sigginstown Castle, Co. Wexford, Ireland."
 ---
 
+## Schedule
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhRhayXIT3e-bEBijtcuRwg6BswiNjzM2eShXi-0IVtAFnbYu_vMIK7JQa7ARX8mvaMft-QcmMz1gc/pubhtml?widget=true&headers=false"></iframe>
+
 ## Classes
 
-<p>This is the list of classes for Strawberry Raid in order of category. This list will continue to be added to as teachers generously volunteer their time, so keep checking back.</p>
+<p>This is the list of classes for Strawberry Raid in order of category.</p>
 
 <p>Some of these classes have set attendance numbers and/or a small charge for materials.  Once the class schedule has been published, we will open online booking for these classes.</p>
 

@@ -130,7 +130,7 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A preliminary list of [classes](classes/) is now available.
+A finalised list of [classes](classes/) is now available.
 
 ### Visiting Teacher (Armoured Combat)
 
