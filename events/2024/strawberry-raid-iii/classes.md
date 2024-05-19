@@ -6,7 +6,7 @@ excerpt: "30 May-3 June 2024. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Schedule
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhRhayXIT3e-bEBijtcuRwg6BswiNjzM2eShXi-0IVtAFnbYu_vMIK7JQa7ARX8mvaMft-QcmMz1gc/pubhtml?widget=true&headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhRhayXIT3e-bEBijtcuRwg6BswiNjzM2eShXi-0IVtAFnbYu_vMIK7JQa7ARX8mvaMft-QcmMz1gc/pubhtml?widget=true&headers=false" width="600" height="400"></iframe>
 
 ## Classes
 
