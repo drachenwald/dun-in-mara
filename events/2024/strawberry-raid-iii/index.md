@@ -139,7 +139,7 @@ Duke Brannos will be attending as this year's Armoured Combat trainer. Brannos i
 <a name="schedule"></a>
 ## Schedule
 
-The schedule will be announced a week or two before the event.
+The schedule is <a href="https://docs.google.com/spreadsheets/d/1HzCIMse8etcE8C72AXuQWK6zSjAglFycaJlrP-9cXxI/edit?usp=sharing">now available</a>. Some small changes may occur; there will be people shouting about it if anything changes.  
 
 <a name="eventteam"></a>
 ## Event Team
