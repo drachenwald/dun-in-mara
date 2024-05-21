@@ -153,12 +153,11 @@ Reservations: Noble Mallymkun Rauði <a href="mailto:Fromsabrina@gmail.com">From
 Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>, Lady Gabrielle of Dun in Mara  
 Facilities Team: Hugh de Belesduna, Nadja of Dun in Mara  
 Atmosphere & Decorations Team: THL Órlaith Caomhánach, THL Alays de Lunel  
-Armoured Combat & Marshal in Charge: TBC  
-Rapier and Cut & Thrust (steel fencing): TBC  
+Armoured Combat & Marshal in Charge: Master Agnes Boncuer <a href="mailto:agneslaverte@gmail.com">agneslaverte@gmail.com</a>  
+Rapier and Cut & Thrust (steel fencing): Lord Aodhán Dha Ceist  
 Archery & Thrown Weapons: THL Alays de Lunel, Lady Gwerful an filí, Lady Gabrielle of Dun in Mara  
 Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Katie of Dun in Mara  
-Herald in Charge: TBC  
-Royal Liaison team: TBC  
+Royal Liaison team: Dame Lissette de le Rose  
 
 <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
