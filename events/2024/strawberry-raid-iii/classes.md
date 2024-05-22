@@ -41,12 +41,12 @@ Class Limit: None
 *The Many Flavours of Salt*  
 with Mistress Lissette de la Rose OP  
 A discussion on the factors that impact the taste of that ancient and revered mineral.  
-Class limit: No limit  
+Class limit: 15  
 
 *Practical cooking for a lunch….and you get to eat it!*    
 with Baroness Christine Bess Duvaunt OL  
 Ever wanted to Learn how to do a delicious but simple lunch for events? Want to see how to organise the time and also how to make it? Come and make lunch on the Saturday, you will get all the notes, quantities, instructions and recipes to take away, as well as lunch!  
-Class Limit: None  
+Class Limit: 5    
 Charge: €5    
 
 *All the Tea in China*   
