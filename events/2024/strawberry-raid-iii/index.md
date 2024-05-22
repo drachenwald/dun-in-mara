@@ -130,7 +130,7 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A finalised list of [classes](classes/) is now available.
+A finalised list of [classes](classes/) is now available. Once the signup goes live (Wednesday 22nd May at 18:00 Irish Time), you can <a href="https://fienta.com/strawberry-raid-iii-class-signup">book classes</a>.
 
 ### Visiting Teacher (Armoured Combat)
 

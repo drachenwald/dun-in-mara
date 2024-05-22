@@ -12,7 +12,7 @@ excerpt: "30 May-3 June 2024. Sigginstown Castle, Co. Wexford, Ireland."
 
 <p>This is the list of classes for Strawberry Raid in order of category.</p>
 
-<p>Some of these classes have set attendance numbers and/or a small charge for materials.  Once the class schedule has been published, we will open online booking for these classes.</p>
+<p>Some of these classes have set attendance numbers and/or a small charge for materials.  Once the signup goes live (Wednesday 22nd May at 18:00 Irish Time), you can <a href="https://fienta.com/strawberry-raid-iii-class-signup">book classes</a>.</p>
 
 **Bardic**
 
