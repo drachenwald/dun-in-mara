@@ -12,7 +12,7 @@ The SCA Shire of Dun In Mara will participate in Dublin's Pride Parade. Email Ao
 
 The March usually takes about 3 hours to complete. Wear shoes in which you can both stand for a while and walk. Otherwise, please wear your brightest coloured garb. If you need loaner garb, please let Aodh know!
 
-Afterwards, we'll hang out for a while in the Pride Village at Merrion Square, and then move on to a pub or the like.
+Afterwards, we'll hang out for a while in the Pride Village at Merrion Square, and then move on to a gathering at the house of some of our members in Crumlin - contact some of us for details.
 
 If you'd like to come along, but have mobility issues which would prevent you from marching, let us know and we'll sort out access - we're also happy to push a wheelchair if that helps!
 

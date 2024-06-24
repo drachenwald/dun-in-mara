@@ -9,14 +9,17 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [June 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-85340)
-15 June 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+## [Pride](/events/2024/pride/)
+29 June 2024, Dublin City Centre  
 
 ### July 2024 Arts & Sciences Day
 20 July 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### August 2024 Arts & Sciences Day
 10 August 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Duck! A fun day of throwing sticks at targets](/events/2024/duck/)  
+24 August 2024, Clara Scout Den, Clara, Co. Offaly  
 
 ### September 2024 Arts & Sciences Day
 7 September 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
