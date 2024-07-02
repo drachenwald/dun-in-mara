@@ -24,6 +24,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### September 2024 Arts & Sciences Day
 7 September 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
+### [Champions of Lough Devnaree](/events/2024/cold/)
+27-29 September 2024, Clara Scout Den, Clara, Co. Offaly  
+
 ### October 2024 Arts & Sciences Day
 5 October 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
