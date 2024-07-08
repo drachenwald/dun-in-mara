@@ -9,10 +9,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-## [Pride](/events/2024/pride/)
-29 June 2024, Dublin City Centre  
-
-### July 2024 Arts & Sciences Day
+### [July 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-97100)
 20 July 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### August 2024 Arts & Sciences Day
@@ -38,6 +35,8 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Previous events
 
+## [Pride](/events/2024/pride/)
+29 June 2024, Dublin City Centre  
 
 ### May 2024 Arts & Sciences Day
 18 May 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
