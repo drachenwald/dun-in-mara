@@ -32,6 +32,8 @@ R35 HT67
 ### Site Information  
 The Site allows for camping and crash space. No bedding or sheets will be provided.
 
+There might be dogs at this event. They are allowed outdoors and indoors if they are on a leash. We ask all dog owners to control their dog´s behaviour.
+
 ### Schedule  
 To be determined.   
 Will include Armoured Combat, Archery, Fencing, and Arts and Sciences. 
