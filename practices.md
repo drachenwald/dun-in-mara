@@ -2,7 +2,7 @@
 title: Classes and Practices
 ---
 
-Would you like to try out some of our activities? Just come along to one of our classes or practices and we'll be delighted to get you started.
+Would you like to try out some of our activities? You can come along to a practice for free and have a go - although because of the way our insurance works, you'll need to book in advance. Contact any of us to get a booking link for the relevant practice!
 
 ## Dun in Mara Calendar
 
@@ -32,7 +32,17 @@ We're currently looking for a venue for our Archery practices. If you know of a 
 
 ## Fencing
 
-We are running Fencing every 2 weeks on Thursdays, together with our Armoured Combat practice. We’re also looking for a new venue for our Fencing practices. If you know of a suitable place which is available on a weekday evening (ideally a Tuesday), let us know!
+[F2 Centre, Rialto](https://maps.app.goo.gl/sTfLasVUbuZxnufN9) every Tuesday 18:45 to 21:00.
+
+Cost:  
+€10 for non-members (€6 student/unwaged)  
+€8 for members (€5 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
+
+If it's your first time attending, there's no charge.
+
+You must be over 14. 
+
+What to bring: Clothing that allows you to move easily and training shoes such as runners. Bringing water to drink is a good idea.
 
 <a href="/historical-fencing/" class="btn btn-primary">More info</a>
 
