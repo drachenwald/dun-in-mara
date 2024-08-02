@@ -13,8 +13,8 @@ Would you like to try out some of our activities? You can come along to a practi
 [Scoil Sancta Maria, Synge Street](https://goo.gl/maps/WHAurpDwDMR2) every Thursday 18:30 to 21:00.
 
 Cost:  
-€10 for non-members (€6 student/unwaged)  
-€8 for members (€5 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
+€14 for non-members (€10 student/unwaged)  
+€10 for members (€8 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
 
 If it's your first time attending, there's no charge.
 
@@ -35,12 +35,12 @@ We're currently looking for a venue for our Archery practices. If you know of a 
 [F2 Centre, Rialto](https://maps.app.goo.gl/sTfLasVUbuZxnufN9) every Tuesday 18:45 to 21:00.
 
 Cost:  
-€10 for non-members (€6 student/unwaged)  
-€8 for members (€5 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
+€14 for non-members (€10 student/unwaged)  
+€10 for members (€8 student/unwaged). [Join SCA UK & Ireland](https://membermojo.co.uk/scauk)
 
 If it's your first time attending, there's no charge.
 
-You must be over 14. 
+You must be over 14. A parent or guardian must accompany any minor on their first visit and observe the activity so they can sign off on participation.
 
 What to bring: Clothing that allows you to move easily and training shoes such as runners. Bringing water to drink is a good idea.
 
