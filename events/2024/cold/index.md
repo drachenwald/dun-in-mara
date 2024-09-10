@@ -39,7 +39,22 @@ To be determined.
 Will include Armoured Combat, Archery, Fencing, and Arts and Sciences. 
 
 ### Arts and Sciences competition  
-To be determined. 
+
+The theme for this year´s Arts and Sciences competition is "Autumn".
+
+All the obvious things for such a theme will spring easily to mind - things that have autumn colours, items for Autumn pursuits, cookery using harvest fruits  and so on - BUT if you're worried that you can't make something fit that you've been working on already, don't worry, everything is possible! Working on armour?  Another word for Autumn is Fall, and armour is good in a fall, right?  A really clever way to make something fit with the theme will likely earn you brownie points with your judges, and I will have a special prize for the most inventive connection to the theme just to get you thinking.
+
+If you have something already made that can be argued to fit the theme and hasn´t been entered in a competition before, we´d love to see it.
+
+#### What can I enter
+
+Anything made, created, researched, constructed, cooked, assembled, performed, written, composed, crafted or otherwise brought into existence. There will be a time set aside for performance pieces, short presentations of research etc. before closing of the competition, so that everyone gets a fair shot to get their work out to as big an audience as possible. (You can hire an extrovert for this as desired.) You can enter more than one item.
+
+So that everybody gets to know your entry, we ask for a small amount of documentation, minimum a small index card with a line about what inspired the artist/scientist about their work, what period it could roughly be attributed to, and where in the world work like it was done.
+
+#### Judging
+
+Everyone coming to Champions will be issued with two special tokens, so you get two votes each.  The boxes to vote for your favourites will be closed, so you can't see who has voted for what already.  There will also be a little section for each entry where you can add a little note or treat of your own for anyone you think did a great job.  Feedback is awesome. And remember that all our Artists and Scientists want to know how they are progressing in their chosen areas of interest too, and we don't get the more straightforward result of a fight or hitting a target.
 
 
 ### Costs and food  
