@@ -10,20 +10,19 @@ There are also other events across Ireland and Britain - see the [Principality C
 ## Upcoming Events
 
 
-
-### [Champions of Lough Devnaree](/events/2024/cold/)
-27-29 September 2024, Clara Scout Den, Clara, Co. Offaly  
-
-### [October 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-97104)
-5 October 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### November 2024 Arts & Sciences Day
+### [November 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-97105)
 2 November 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### December 2024 Arts & Sciences Day
 14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ## Previous events
+
+### October 2024 Arts & Sciences Day
+5 October 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Champions of Lough Devnaree](/events/2024/cold/)
+27-29 September 2024, Clara Scout Den, Clara, Co. Offaly  
 
 ### September 2024 Arts & Sciences Day
 7 September 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
