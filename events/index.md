@@ -9,6 +9,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
+### [Hastiludes Hibernia](https://duninmara.org/events/2024/hastiludes-hibernia/)
+15-17 November 2024, Clara Scout Den, Clara, Co. Offaly  
+
 ### [December 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-97106)
 14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
