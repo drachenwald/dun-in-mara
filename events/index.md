@@ -9,12 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Hastiludes Hibernia](https://duninmara.org/events/2024/hastiludes-hibernia/)
-15-17 November 2024, Clara Scout Den, Clara, Co. Offaly  
-
-### [December 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-97106)
-14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [January 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109985)
 18 January 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -33,7 +27,14 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [June 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109991)
 21 June 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
+
 ## Previous events
+
+### December 2024 Arts & Sciences Day
+14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Hastiludes Hibernia](https://duninmara.org/events/2024/hastiludes-hibernia/)
+15-17 November 2024, Clara Scout Den, Clara, Co. Offaly  
 
 ### November 2024 Arts & Sciences Day
 2 November 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
