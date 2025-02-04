@@ -9,9 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [January 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109985)
-18 January 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [February 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109987)
 22 February 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -29,6 +26,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 
 ## Previous events
+
+### January 2025 Arts & Sciences Day
+18 January 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### December 2024 Arts & Sciences Day
 14 December 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
