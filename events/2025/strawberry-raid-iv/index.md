@@ -143,7 +143,7 @@ The schedule will be published closer to the event date.
 <a name="eventteam"></a>
 ## Event Team
 
-Contact THL Aodhán Dha Cheist at <a href="aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.
+Contact THL Aodhán Dha Cheist at <a href="aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.  
 
 Head Steward: THL Aodhán Dha Ceist <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>  
 Deputy Event Steward: TBA   
@@ -153,8 +153,8 @@ Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com"
 Herald in Charge: Viscount Master Alexandre Lerot d'Avignon  
 Facilities Team: TBA   
 Atmosphere & Decorations Team: Órlaith Ildánach Caomhánach  
-Marshal in Charge: THL Alays de Lunel
-Armoured Combat Marshal: TBA
+Marshal in Charge: THL Alays de Lunel  
+Armoured Combat Marshal: TBA  
 Rapier and Cut & Thrust (steel fencing): Lord Etienne the Younger  
 Archery & Thrown Weapons: TBA  
 Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Gertrude Hood  
