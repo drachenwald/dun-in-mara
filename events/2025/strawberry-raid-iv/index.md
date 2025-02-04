@@ -150,8 +150,8 @@ Deputy Event Steward: TBA
 Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a>  
 Reservations: Noble Malymkun Raudi <a href="mailto:fromsabrina@gmail.com">fromsabrina@gmail.com</a>  
 Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>  
-Herald in Charge: TBA
-Facilities Team: TBA  
+Herald in Charge: Viscount Master Alexandre Lerot d'Avignon  
+Facilities Team: TBA   
 Atmosphere & Decorations Team: Órlaith Ildánach Caomhánach  
 Marshal in Charge: THL Alays de Lunel
 Armoured Combat Marshal: TBA
