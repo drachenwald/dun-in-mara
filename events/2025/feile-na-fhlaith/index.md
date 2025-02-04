@@ -22,8 +22,8 @@ We regret that this site is not wheelchair accessible due to a gravelled courtya
 
 <table align="center">
 <tr>
-<td><img src="../../../images/drimnagh/faf1.jpg"></td>
-<td><img src="../../../images/drimnagh/faf2.jpg"></td>
+<td><img src="../../../images/drimnagh/faf1.jpg" height="400" width="300"></td>
+<td><img src="../../../images/drimnagh/faf2.jpg" height="400" width="300"></td>
 </tr>
 </table>
 
@@ -37,8 +37,8 @@ If you, or your friends or family, are curious about what we do in the SCA, but 
 
 <table align="center">
 <tr>
-<td><img src="../../../images/drimnagh/faf3.jpg"></td>
-<td><img src="../../../images/drimnagh/faf4.jpg"></td>
+<td><img src="../../../images/drimnagh/faf3.jpg" height="400" width="300"></td>
+<td><img src="../../../images/drimnagh/faf4.jpg" height="400" width="300"></td>
 </tr>
 </table>
 
@@ -62,8 +62,8 @@ Our feast for the day will be a potluck (everybody brings something to contribut
 
 <table align="center">
 <tr>
-<td><img src="../../../images/drimnagh/faf5.jpg"></td>
-<td><img src="../../../images/drimnagh/faf6.jpg"></td>
+<td><img src="../../../images/drimnagh/faf5.jpg" height="400" width="300"></td>
+<td><img src="../../../images/drimnagh/faf6.jpg" height="400" width="300"></td>
 </tr>
 </table>
 
