@@ -12,9 +12,9 @@ The SCA Shire of Dun In Mara welcomes you to Strawberry Raid IV, five days of me
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
-<!--- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> --->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
 
 ## Contents
 
@@ -49,9 +49,9 @@ Fighters Class Fee €10
 
 You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, who will be Duke Connor Weisszahn, from the Kingdom of the West. We are very much looking forward to His Grace meeting you all.
 
-<!--- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> --->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
 
 ## Event News
 
@@ -160,6 +160,6 @@ Archery & Thrown Weapons: TBA
 Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Gertrude Hood  
 Promotion: Lady Gwerful an Fili  
 
-<!--- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-79085"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> --->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
