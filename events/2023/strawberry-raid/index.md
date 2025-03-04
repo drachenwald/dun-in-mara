@@ -6,6 +6,10 @@ excerpt: "1-5 June 2023. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Welcome
 
+**You're probably looking for <a href="/events/2025/strawberry-raid-iv/">Strawberry Raid IV</a>, in 2025**
+
+(The rest of this page is about the 2023 event)
+
 **1-5 June 2023**
 
 The SCA Shire of Dun In Mara welcomes you back to Strawberry Raid, five days of medieval camping around the beautifully restored 15th-16th century tower house of [Sigginstown Castle](https://www.sigginstowncastle.com/), in the beautiful sunny South-East of Ireland.
