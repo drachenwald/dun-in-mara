@@ -131,6 +131,8 @@ Watch this space for details on our organised activities during the event. We ex
 
 A list of [classes](classes/) will be added closer to the event date.
 
+Do you want to teach an A&S class at Strawberry Raid? [Sign up to be a teacher](https://forms.gle/gZ9PExvaKbmcPYQG9)!
+
 ### Visiting Teacher (Armoured Combat)
 
 Duke Conor Weisszahn will be attending as this year's Armoured Combat trainer. Conor is one of the world's foremost heavy fighting trainers.  
