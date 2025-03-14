@@ -35,6 +35,7 @@ There's also a good spot to hang out by the fire and engage in Arts & Sciences i
 €20 — SCA Member  
 €15 — Unwaged SCA Member   
 €25 — SCA Non-member
+Free - Children 12 and under
 
 (You can get [https://membermojo.co.uk/scauk](SCA Membership) easily - it costs £UK15 for a year's membership, so you'll recoup the cost quickly with a few practices or events!)
 
