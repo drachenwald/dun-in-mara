@@ -25,6 +25,8 @@ Right now, you can also find us on:
 
 [Facebook](https://facebook.com/duninmara)
 [Twitter](http://twitter.com/duninmara)
+[Bluesky](https://bsky.app/profile/duninmara.bsky.social)
+[Instagram](https://www.instagram.com/duninmara/)
 
 We have classes and practices throughout the week:
 
