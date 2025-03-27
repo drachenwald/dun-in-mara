@@ -20,7 +20,7 @@ Primarily, we are a community-run and community-focused group and we encourage o
 <a name="timeandplace"></a>
 **Come train with us!**
 
-[Scoil Sancta Maria, Synge Street](https://goo.gl/maps/WHAurpDwDMR2) (Schoolyard behind the school building) every Thursday at 7pm - 9pm.
+[Scoil Sancta Maria, Synge Street](https://goo.gl/maps/WHAurpDwDMR2) (Schoolyard behind the school building) **every Thursday at 7pm - 9pm.**
 
 Cost:  
 
