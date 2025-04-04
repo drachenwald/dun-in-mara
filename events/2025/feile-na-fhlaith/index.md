@@ -7,10 +7,11 @@ excerpt: "12 April 2025. Drimnagh Castle, Dublin"
 ## Féile an Fhlaith - Springtime Revel
 
 **12 April 2025**
+**<div class="text-center m-4">Tickets have been sold out!</div>**
 
-<div class="text-center m-4">
+<!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/springtimerevel"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>
+</div> -->
 
 Dun in Mara invites you to Drimnagh Castle on Saturday 12th of April for a very special one-day event. We will have this wonderful, moated, 13th century Norman castle to ourselves from 10:30 to 17:30.
 
