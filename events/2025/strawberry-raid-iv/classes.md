@@ -29,7 +29,7 @@ Learn how to forage for materials that will give you colour for inks, pigments a
 Class limit: None  
 
 *I'm in Danger! - Fighting with Sword and Buckler*  
-Witht Yannick or Normandy  
+With Yannick or Normandy  
 Fighting with Sword and Buckler, will be taught from an armoured combat perspective, but there will likely be enough cross over to prove useful for fencers.  
 Class limit: None  
 

@@ -129,7 +129,7 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A list of [classes](classes/) will be added closer to the event date.
+A list of classes and their descriptions can be found [here](classes/). More classes may be added closer to the event date.
 
 Do you want to teach an A&S class at Strawberry Raid? [Sign up to be a teacher](https://forms.gle/gZ9PExvaKbmcPYQG9)!
 

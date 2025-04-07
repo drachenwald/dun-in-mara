@@ -7,7 +7,7 @@ excerpt: "12 April 2025. Drimnagh Castle, Dublin"
 ## Féile an Fhlaith - Springtime Revel
 
 **12 April 2025**  
-<div class="text-center m-4">Tickets have been sold out!</div>
+<div class="text-center m-4"> Tickets have been sold out! </div>
 
 <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/springtimerevel"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
