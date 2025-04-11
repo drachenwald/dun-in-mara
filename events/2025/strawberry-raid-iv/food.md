@@ -6,7 +6,7 @@ excerpt: "28 May-2 June 2025. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Food & Other Supplies
 
-The site has a coffee shop which sells some sandwiches and baked goods, and may have more by the summer. We'll keep you posted.
+The site's Coach House has a coffee shop which sells some hot beverages, sandwiches and baked goods throughout the day. In addition they also offer meals especially for the event this year! If you want to enjoy this service, please note that you **must book your meals in advance**. For more information, prices and booking your meals, please visit **[Sigginstown Castle's website](https://www.sigginstowncastle.com/category/all-products)**. 
 
 Otherwise, please be prepared to cook your own meals. You may wish to consider banding together with friends to arrange food. Camp fires must be off the ground and supervised at all times. Please contact the camping/facilities coordinator (Máistir Aodh Ó Siadhail at <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>) to arrange firewood.  
 
