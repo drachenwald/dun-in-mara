@@ -9,9 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Féile an Fhlaith](/events/2025/feile-na-fhlaith/)  
-12 April 2025, Drimnagh Castle, Co. Dublin.
-
 ### [April 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109989)
 26 April 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -27,7 +24,10 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [Duck Too!](/events/2025/duck-too/)
 30 August 2025, Clara Scout Den, Clara, Co. Offaly 
 
-## Previous events
+## Previous events  
+
+### [Féile an Fhlaith](/events/2025/feile-na-fhlaith/)
+12 April 2025, Drimnagh Castle, Co. Dublin.  
 
 ### [March 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109988)
 22 March 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
