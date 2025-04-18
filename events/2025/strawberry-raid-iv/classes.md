@@ -94,5 +94,29 @@ With Contessa Saxa
 Weave yourself a pair of Språng garters using basic Språng interlinking   
 Class limit: 5 (although more are welcome if they bring their own materials)  
 
+*Introduction to spindle spinning*  
+With Ingemar of Dun in Mara  
+A beginner-friendly introduction to spinning wool on a medieval spindle.   
+Class limit: 7  
+
+*Spinning on a handheld spindle*  
+With Eibhlís af Luimneach   
+Learn to spin wool on a handheld spindle, to create your own unique yarns. Then for the adventurous, learn to spin flax fibres into linen thread, all while being regaled with facts and some fictions about spinning and textile history by Eibhlís af Luimneach. 
+Class limit: 8   
+
+*Bordering on Lace: an Introduction to 16th Century Blackwork Embroidery*  
+With Saskia of Dun in Mara  
+In this beginner friendly class we will cover some styles of blackwork embroidery and you will be able to try your hand at making a counted-stitch blackwork border for your garb!  
+Class limit: 10 (additional people can join if you bring your own small embroidery hoop)  
+
+*Dyeing the Medieval Rainbow -- 	in four parts*  
+With Órlaith Chaomhánach and Gertrude Hoode  
+- Part one: Fibre Preparation and Mordanting
+- Part two: Red
+- Part three: Blue
+- Part four: Yellow
+Join us around our cauldrons as we attempt to achieve a rainbow of historical, naturally-dyed colours on protein and cellulose fibres. We will show you some of the amazing variety of colours that could have been achieved in medieval times and help teach you how to get even, colourfast results with your natural dyeing.  
+Each day we will start new dye vats, focusing on a primary colour, and we will be able to create secondary colours by overdyeing. By the end of the event, our rainbow of colours will include red, orange, yellow, green, blue, purple, and brown.  
+
 
 <a href="/events/2025/strawberry-raid-iv/">Back to Event Page</a>
