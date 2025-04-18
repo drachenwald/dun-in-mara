@@ -114,7 +114,7 @@ With Órlaith Chaomhánach and Gertrude Hoode
 - Part one: Fibre Preparation and Mordanting
 - Part two: Red
 - Part three: Blue
-- Part four: Yellow
+- Part four: Yellow<br/>
 Join us around our cauldrons as we attempt to achieve a rainbow of historical, naturally-dyed colours on protein and cellulose fibres. We will show you some of the amazing variety of colours that could have been achieved in medieval times and help teach you how to get even, colourfast results with your natural dyeing.  
 Each day we will start new dye vats, focusing on a primary colour, and we will be able to create secondary colours by overdyeing. By the end of the event, our rainbow of colours will include red, orange, yellow, green, blue, purple, and brown.  
 
