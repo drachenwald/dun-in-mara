@@ -100,7 +100,8 @@ If you’re driving from Rosslare ferryport, just follow Google or another map p
 **Public transport** from Dublin is available via bus and train. 
 
    **Bus**:  
-   [Bus Eireann](https://www.buseireann.ie/) Bus: Bus Eireann route 2-X2  from Zone 13 or Wexford Bus route 740 or 740x from Zone 13 Dublin Airport - Wexford Town. Do NOT take bus all the way to Rosslare unless you prearrange a taxi as there are none waiting usually. We recommend Nessa or Oz Taxi which is based in Rosslare (tel: 087 113 1340 or 087 130 3193)  In Wexford town, you can take a taxi from the stand in front of Dunnes Stores in Redmond Square near both bus stations.  
+   [Bus Eireann](https://www.buseireann.ie/) route 2-X2 from Zone 13 or Wexford Bus route 740 or 740x from Zone 13 Dublin Airport - Wexford Town. Do NOT take bus all the way to Rosslare unless you prearrange a taxi as there are none waiting usually. We recommend Nessa or Oz Taxi which is based in Rosslare (tel: 087 113 1340 or 087 130 3193)  In Wexford town, you can take a taxi from the stand in front of Dunnes Stores in Redmond Square near both bus stations.
+   
    Local Bus: there is a Local link bus Door to Door service that runs at limited times between Tacumshane and Wexford town. It would drop you at the main gate of the castle. Wednesday at 17:20 pm from Wexford to Tacumshane , Saturday at 10:20 am  to Wexford, and Saturday 14:55 pm from Wexford Town to Tacumshane. Possibly a Friday service also. Call Local Link for more info Tel: 053 901 1828 or email wexford@locallink.ie . https://locallinkwexford.ie/rural-wexford-timetable/  
 
    **Train**: [Irish Rail](https://www.irishrail.ie/en-ie/) route [Dublin Connolly Station - Rosslare Europort](https://www.irishrail.ie/IrishRail/media/Timetable-PDF-s/Connolly-DART-timetables/08_dublin-rosslare.pdf). We recommend that you get off in Wexford town to maximise the availability of taxis, if you need one.  
