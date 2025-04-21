@@ -99,7 +99,9 @@ If you’re driving from Rosslare ferryport, just follow Google or another map p
 
 **Public transport** from Dublin is available via bus and train. 
 
-   **Bus**: [Bus Eireann](https://www.buseireann.ie/) route 2-X2 Dublin Airport - Wexford Town. From Wexford town, you should take a taxi or arrange a lift.
+   **Bus**:  
+   [Bus Eireann](https://www.buseireann.ie/) Bus: Bus Eireann route 2-X2  from Zone 13 or Wexford Bus route 740 or 740x from Zone 13 Dublin Airport - Wexford Town. Do NOT take bus all the way to Rosslare unless you prearrange a taxi as there are none waiting usually. We recommend Nessa or Oz Taxi which is based in Rosslare (tel: 087 113 1340 or 087 130 3193)  In Wexford town, you can take a taxi from the stand in front of Dunnes Stores in Redmond Square near both bus stations.  
+   Local Bus: there is a Local link bus Door to Door service that runs at limited times between Tacumshane and Wexford town. It would drop you at the main gate of the castle. Wednesday at 17:20 pm from Wexford to Tacumshane , Saturday at 10:20 am  to Wexford, and Saturday 14:55 pm from Wexford Town to Tacumshane. Possibly a Friday service also. Call Local Link for more info Tel: 053 901 1828 or email wexford@locallink.ie . https://locallinkwexford.ie/rural-wexford-timetable/  
 
    **Train**: [Irish Rail](https://www.irishrail.ie/en-ie/) route [Dublin Connolly Station - Rosslare Europort](https://www.irishrail.ie/IrishRail/media/Timetable-PDF-s/Connolly-DART-timetables/08_dublin-rosslare.pdf). We recommend that you get off in Wexford town to maximise the availability of taxis, if you need one.  
 
@@ -148,17 +150,17 @@ The schedule will be published closer to the event date.
 Contact THL Aodhán Dha Cheist at <a href="aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.  
 
 Head Steward: THL Aodhán Dha Ceist <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>  
-Deputy Event Steward: TBA   
+Deputy Event Steward: Mistress Melisende Fitzwalter  
 Site Coordinator: Maestra Damiana Illaria d'Onde <a href="mailto:Lizjones429@earthlink.net">Lizjones429@earthlink.net</a>  
 Reservations: Noble Malymkun Raudi <a href="mailto:fromsabrina@gmail.com">fromsabrina@gmail.com</a>  
 Camping Team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadhail@gmail.com">aodhosiadhail@gmail.com</a>  
 Herald in Charge: Viscount Master Alexandre Lerot d'Avignon  
-Facilities Team: TBA   
+Facilities Team Coordinator: MiLord Hugh Biquitous     
 Atmosphere & Decorations Team: Órlaith Ildánach Caomhánach  
 Marshal in Charge: THL Alays de Lunel  
-Armoured Combat Marshal: TBA  
+Armoured Combat Marshal: Lord Thomas of Dun in Mara  
 Rapier and Cut & Thrust (steel fencing): Lord Etienne the Younger  
-Archery & Thrown Weapons: TBA  
+Archery & Thrown Weapons: THL Alays de Lunel  
 Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Gertrude Hood  
 Promotion: Lady Gwerful an Fili  
 
