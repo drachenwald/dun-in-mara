@@ -113,7 +113,7 @@ If you need a pick-up from Wexford town or from Rosslare, in the first instance 
 
 Sigginstown Castle is owned by SCA members who very generously open their home for us. Please respect their generosity, their home and their neighbours at all times. Any requests from the site owners must be complied with immediately. Smoking is forbidden indoors including inside the barn. 
 
-<a href="camping/" class="btn btn-primary">Camping</a> <a href="food/" class="btn btn-primary">Food & Other Supplies</a>
+<a href="camping/" class="btn btn-primary">Camping</a> <a href="food/" class="btn btn-primary">Food & Other Supplies</a> <a href="https://www.sigginstowncastle.com/category/all-products" class="btn btn-primary">Food Plan</a>
 
 <a name="weather"></a>
 ## Weather
@@ -158,7 +158,7 @@ Herald in Charge: Viscount Master Alexandre Lerot d'Avignon
 Facilities Team Coordinator: MiLord Hugh Biquitous     
 Atmosphere & Decorations Team: Órlaith Ildánach Caomhánach  
 Marshal in Charge: THL Alays de Lunel  
-Armoured Combat Marshal: Lord Thomas of Dun in Mara  
+Armoured Combat Coordinator: Lord Thomas of Dun in Mara  
 Rapier and Cut & Thrust (steel fencing): Lord Etienne the Younger  
 Archery & Thrown Weapons: THL Alays de Lunel  
 Arts & Sciences (arts & crafts activities): Mistress Melisende FitzWalter, Lady Gertrude Hood  
