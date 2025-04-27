@@ -67,11 +67,7 @@ Class limit: None
 With Magnifica Marcella di Cavallino  
 Understand how to paint on silk according to Cennino Cennini's 15th c. treatise "Il Libro dell'Arte", including the methods, tools and supplies you'll need to do it yourself at home.   
 Class limit: None  
-
-*Peerage Symposium*  
-With Aodh Ó Siadhail  
-An open discussion of peerage in the SCA.  
-Class limit: None  
+ 
 
 *Perfectly Period Party Platters*  
 With Magnifica Marcella di Cavallino  
@@ -106,7 +102,7 @@ Class limit: 8
 
 *Bordering on Lace: an Introduction to 16th Century Blackwork Embroidery*  
 With Saskia of Dun in Mara  
-In this beginner friendly class we will cover some styles of blackwork embroidery and you will be able to try your hand at making a counted-stitch blackwork border for your garb!  
+In this beginner friendly class we will cover some styles of blackwork embroidery and you will be able to try your hand at making a counted-stitch blackwork border for your garb! If you have garb (smock, apron, partlet, cuffs/ruffs or a pouch) you'd like to decorate, bring it along. Just make sure it has an even-weave fabric (most linen has, but we can't do counted stitch on satin, for example). If you don't have garb ready to bring, we can work on a piece you can later add to your garb, or maybe a decorative item like a bookmark. 
 Class limit: 10 (additional people can join if you bring your own small embroidery hoop)  
 
 *Dyeing the Medieval Rainbow -- 	in four parts*  
@@ -118,5 +114,19 @@ With Órlaith Chaomhánach and Gertrude Hoode
 Join us around our cauldrons as we attempt to achieve a rainbow of historical, naturally-dyed colours on protein and cellulose fibres. We will show you some of the amazing variety of colours that could have been achieved in medieval times and help teach you how to get even, colourfast results with your natural dyeing.  
 Each day we will start new dye vats, focusing on a primary colour, and we will be able to create secondary colours by overdyeing. By the end of the event, our rainbow of colours will include red, orange, yellow, green, blue, purple, and brown.  
 
+*Bardic Circle*  
+With Alays de Lunel   
+Sitting around a light source and singing together. We´ll follow the system: perform, request or skip.  
+Class limit: None   
+
+*Introduction to Brick-Stitch Embroidery*  
+With Mistress Catherine Weaver  
+We will be covering the basics of brick-stitch and the things it was used for during our period of historical interest. We will make a small sample piece which could be turned into a badge, pincushion or needlebook.    
+Class limit: None  
+
+*Bardic Circle*  
+With Mistress Catherine Weaver    
+If the time needed to set up a warp has ever put you off tablet weaving, this is the class for you! We will be covering 3 different ways of warping as well as a host of tips and tricks to make things smoother and faster.    
+Class limit: None  
 
 <a href="/events/2025/strawberry-raid-iv/">Back to Event Page</a>
