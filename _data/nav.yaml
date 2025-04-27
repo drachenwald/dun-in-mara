@@ -1,7 +1,9 @@
 top:
 
+  - title: "Strawberry Raid"
+    url: /events/2025/strawberry-raid-iv/
   - title: "News"
-    url: /posts/
+    url: /posts/   
   - title: "Classes & Practices"
     url: /practices/
   - title: "Events"
