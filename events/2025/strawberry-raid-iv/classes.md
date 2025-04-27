@@ -124,7 +124,7 @@ With Mistress Catherine Weaver
 We will be covering the basics of brick-stitch and the things it was used for during our period of historical interest. We will make a small sample piece which could be turned into a badge, pincushion or needlebook.    
 Class limit: None  
 
-*Bardic Circle*  
+*Warping at Warp-Speed*  
 With Mistress Catherine Weaver    
 If the time needed to set up a warp has ever put you off tablet weaving, this is the class for you! We will be covering 3 different ways of warping as well as a host of tips and tricks to make things smoother and faster.    
 Class limit: None  
