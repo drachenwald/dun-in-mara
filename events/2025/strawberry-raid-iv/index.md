@@ -144,6 +144,7 @@ Duke Conor Weisszahn will be attending as this year's Armoured Combat trainer. C
 ## Schedule
 
 The schedule will be published closer to the event date.  
+The schedule is <a href="https://docs.google.com/spreadsheets/d/1HzCIMse8etcE8C72AXuQWK6zSjAglFycaJlrP-9cXxI/edit?usp=sharing">now available</a>. This document will be updated in the event of any changes. Please consult the noticeboards at the event for the most up to date information.  
 
 <a name="eventteam"></a>
 ## Event Team
