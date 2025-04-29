@@ -132,8 +132,9 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A list of classes and their descriptions can be found [here](classes/). 
-Sign-up for *attending* classes will open on 30 April at 18:00 Irish Standard Time. Sign up for classes [here](https://fienta.com/strawberry-raid-iv-class-signup) 
+A list of classes and their descriptions can be found [here](classes/).  
+Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time.   
+**Sign up for classes [here](https://fienta.com/strawberry-raid-iv-class-signup).**  
 
 Sign-up for *teaching* classes has now closed.
 

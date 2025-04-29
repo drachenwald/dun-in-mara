@@ -8,7 +8,7 @@ excerpt: "28 May-2 June 2025. Sigginstown Castle, Co. Wexford, Ireland."
 
 The schedule for classes has been published. Please find it on the [main event page](/events/2025/strawberry-raid-iv/) under Schedule.
 
-Sign-up for *attending* classes will open on 30 April at 18:00 Irish Standard Time. Please sign up for classes [here](https://fienta.com/strawberry-raid-iv-class-signup).
+Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time. **Please sign up for classes [here](https://fienta.com/strawberry-raid-iv-class-signup).**  
 
 Sign-up for *teaching* classes has now closed.
 
