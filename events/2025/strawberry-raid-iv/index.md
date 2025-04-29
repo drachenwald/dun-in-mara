@@ -132,9 +132,10 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A list of classes and their descriptions can be found [here](classes/). More classes may be added closer to the event date.
+A list of classes and their descriptions can be found [here](classes/). 
+Sign-up for *attending* classes will open on 30 April at 18:00 Irish Standard Time. Sign up for classes [here](https://fienta.com/strawberry-raid-iv-class-signup) 
 
-Do you want to teach an A&S class at Strawberry Raid? [Sign up to be a teacher](https://forms.gle/gZ9PExvaKbmcPYQG9)!
+Sign-up for *teaching* classes has now closed.
 
 ### Visiting Teacher (Armoured Combat)
 

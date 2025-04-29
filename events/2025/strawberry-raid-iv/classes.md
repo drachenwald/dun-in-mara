@@ -6,9 +6,11 @@ excerpt: "28 May-2 June 2025. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Classes
 
-More classes and teachers will be announced as we go, and a schedule will be published in the weeks before the event.  
+The schedule for classes has been published. Please find it on the [main event page](/events/2025/strawberry-raid-iv/) under Schedule.
 
-Do you want to teach an A&S class at Strawberry Raid? [Sign up to be a teacher](https://forms.gle/gZ9PExvaKbmcPYQG9)!
+Sign-up for *attending* classes will open on 30 April at 18:00 Irish Standard Time. Please sign up for classes [here](https://fienta.com/strawberry-raid-iv-class-signup).
+
+Sign-up for *teaching* classes has now closed.
 
 
 **Duke Conor Weisszahn** from the Kingdom of the West will be the visiting Armoured Combat trainer.
