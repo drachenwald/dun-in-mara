@@ -2,7 +2,7 @@
 title: Archery
 banner: /images/archers-bosco.jpg
 ---
-**Next event to feature archery: [Strawberry Raid](/events/2025/strawberry-raid-iv/)**
+**Next event to feature archery: [Duck Too!](/events/2025/duck-too/)**
 
 With archery we seek to foster the skills developed for entertainment,
 hunting, and combat as practiced across the medieval period. Archery
