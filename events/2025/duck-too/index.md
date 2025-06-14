@@ -8,7 +8,7 @@ excerpt: "30 August 2025. Jim Kirwan Scout Hall, Clara, Co. Offaly"
 
 **30 August 2025**
 
-Bookings opening soon!
+Bookings are open now!
 
 <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duck-a-fun-day-of-throwing-sticks-at-targets-125566"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
