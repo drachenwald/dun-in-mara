@@ -18,7 +18,9 @@ Duck Too! is a daylong event serving the archery community in Lough Devnaree - b
 
 **Pre-booking is essential.** 
 
-The site is moderately accessible, with some bumpy doorways. 
+### Location ###
+The event will take place at the Jim Kirwan Scout Hall in Clara
+The site is moderately accessible, with some bumpy doorways. Parking is available on site.
 
 ### Planned Activities
 
