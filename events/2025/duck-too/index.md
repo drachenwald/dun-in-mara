@@ -10,9 +10,9 @@ excerpt: "30 August 2025. Jim Kirwan Scout Hall, Clara, Co. Offaly"
 
 Bookings opening soon!
 
-<!-- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/springtimerevel"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> -->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duck-a-fun-day-of-throwing-sticks-at-targets-125566"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
 
 Duck Too! is a daylong event serving the archery community in Lough Devnaree - but open to all in the Kingdom! Doors will open at 8:30am to facilitate early arrivals from the train station - please check the train schedule well in time to make your travel plans. We will have snacks available and will be serving a hearty lunch.
 
@@ -34,7 +34,7 @@ There's also a good spot to hang out by the fire and engage in Arts & Sciences i
 
 €20 — SCA Member  
 €15 — Unwaged SCA Member   
-€25 — SCA Non-member
+€25 — Non-member
 Free - Children 12 and under
 
 (You can get [https://membermojo.co.uk/scauk](SCA Membership) easily - it costs £UK15 for a year's membership, so you'll recoup the cost quickly with a few practices or events!)
