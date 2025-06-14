@@ -3,8 +3,6 @@ title:  "Coronet Tourney at Strawberry Raid"
 date:   2025-04-27 21:00:00 +0000
 categories: event strawberry raid
 ---
-*27 April 2025*
-
 Join us for the Insulae Draconis Coronet at [Strawberry Raid IV](/events/2025/strawberry-raid-iv/) and a panoply of delightful activities.
 
 This year at Strawberry Raid, Prince Alexander and Princess Agnes will be hosting the Coronet Tournament to determine the next highnesses of Insulae Draconis.
