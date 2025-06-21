@@ -152,6 +152,6 @@ Camping & Facilities team: Máistir Aodh Ó Siadhail <a href="mailto:aodhosiadha
 Armoured Combat & Marshal in Charge: Lord Aodhan Dha Cheist <a href="mailto:Aidanbarron1@gmail.com">Aidanbarron1@gmail.com</a>  
 Rapier and Cut & Thrust (steel fencing): Master Duncan Chaucer <a href="mailto:p.macfad@gmail.com">p.macfad@gmail.com</a>  
 Archery: TBC  
-Arts & Sciences (arts & crafts activities): Lady Anneleyn Cornelisse <a href="mailto:hilary.donraadt@gmail.com">hilary.donraadt@gmail.com</a>  
+Arts & Sciences (arts & crafts activities): Lady Anneleyn Cornelisse 
 Herald in Charge: Dame Lisette de la Rose <a href="mailto:areshawna@gmail.com">areshawna@gmail.com</a>  
 Royal Liaison team: Sabrina of Dun In Mara & Brenna of Dun In Mara  
