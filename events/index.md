@@ -9,9 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [June 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-109991)
-21 June 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [July 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137030)
 19 July 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -33,10 +30,13 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [December 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137035)
 13 December 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### [Imbolc]()
+### Imbolc
 1 February 2026, location TBA 
 
 ## Previous events  
+
+### June 2025 Arts & Sciences Day
+21 June 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Strawberry Raid IV](/events/2025/strawberry-raid-iv/)
 28 May - 2 June 2025, Sigginstown Castle, Co. Wexford
@@ -95,7 +95,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [Strawberry Raid III](/events/2024/strawberry-raid-iii/)
 30 May - 3 June 2024, Sigginstown Castle, Co. Wexford.
 
-### [April 2024 Arts & Sciences Day](https://fienta.com/arts-sciences-day-85337)
+### April 2024 Arts & Sciences Day
 13 April 2024, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin  
 
 ### [Spring Crown 2024](/events/2024/crown/)
