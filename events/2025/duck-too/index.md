@@ -50,6 +50,7 @@ We'll be providing a hearty lunch, courtesy of a kitchen run by Máistir Aodh Ó
 Event Steward: Aoife ní Aodhagain (Eva Mulhause)  
 Marshal-in-charge : Gabriella della Luna (Kate Kaller)  
 Cook: Aodh Ó Siadhail (Drew Shiel)
+Herald in Charge: Ingemar of Dun in Mara
  
 <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/springtimerevel"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
