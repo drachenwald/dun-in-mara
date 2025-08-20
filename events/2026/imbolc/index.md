@@ -4,7 +4,7 @@ title: "Imbolc"
 # excerpt: "28 May-2 June 2025. Sigginstown Castle, Co. Wexford, Ireland."
 ---
 
-## Welcome
+## Imbolc
 
 **1 February, 2026**
 
