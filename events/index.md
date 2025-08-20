@@ -27,7 +27,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [December 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137035)
 13 December 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### Imbolc
+### [Imbolc](/events/2026/imbolc/)
 1 February 2026, location TBA 
 
 ## Previous events  
