@@ -26,11 +26,22 @@ The site is moderately accessible, with some bumpy doorways. Parking is availabl
 
 Archery! We will have a field shoot along the river in the grounds of Clara House, next door - bring appropriate footwear for possibly damp woodland conditions. We'll also have target shooting at the venue itself.
 
-Specific details and a schedule of activities will be announced closer to the event.  
-
 If you, or your friends or family, are interested in archery in the SCA, this one-day event is an ideal time to come along and have a look! We will be wearing medieval clothing (garb), but don’t worry if you don’t have anything that looks historical. We are happy to lend you clothing for the day if you let us know on the booking form. 
 
 There's also a good spot to hang out by the fire and engage in Arts & Sciences if you're not into shooting, or just accompanying an archer. Tea, coffee, and the odd snack will be available through the day.
+
+**Schedule for the Day:**
+08:30am Gates Open
+09:00am Inspection
+09:45am Drawing Class (How to draw a bow)
+10:45am Break
+11:00pm Portsmouth/Field Shoot
+01:00pm Lunch
+02:00pm Field Shoot/Portsmouth
+04:30pm Drachenwald Round
+06:00pm Court
+If there is interest after Court Free Shoot 
+Last Train 09:00pm
 
 ### Costs
 
