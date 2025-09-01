@@ -9,12 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [August 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137031)
-23 August 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### [Duck Too!](/events/2025/duck-too/)
-30 August 2025, Clara Scout Den, Clara, Co. Offaly 
-
 ### [September 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137032)
 20 September 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -31,6 +25,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 1 February 2026, location TBA 
 
 ## Previous events  
+
+### [Duck Too!](/events/2025/duck-too/)
+30 August 2025, Clara Scout Den, Clara, Co. Offaly 
+
+### [August 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137031)
+23 August 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [July 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137030)
 19 July 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin  
