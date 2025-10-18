@@ -36,7 +36,10 @@ Any questions can be directed to the event stewards, Gwerful an Filí and Mallym
 ## Event Fees
 
 All fees include Fienta's administration fee.  
-Prices TBA
+SCA Member: €20.00   
+SCA Member - Unwaged/Student: €15.00  
+Non-SCA Member: €25.00   
+Children 12 and under: €0.00   
 
 
 ### Directions
