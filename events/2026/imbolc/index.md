@@ -26,9 +26,9 @@ We would love to highlight the foods that remained in February, those that were 
 We will update the calendar when further details are secured, but we want to light the spark of creativity and give time for the preserving of food stuffs.   
 Any questions can be directed to the event stewards, Gwerful an Filí and Mallymkun Rauði.  
 
-<!-- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> -->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/imbolc"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
 
 **Pre-booking is essential.** 
 
@@ -42,15 +42,21 @@ Non-SCA Member: €25.00
 Children 12 and under: €0.00   
 
 
-### Directions
+### Location:
+The event will be held at the Jim Kirwan Scout Hall in Clara, County Offaly.  
+The site is moderately accessible, with some bumpy doorways. There is plenty of parking space for those driving, and it is also only a 5 minute walk from the nearest train station with connections to Dublin Heuston.   
+**Site Address:** 
+Jim Kirwan Scout Hall  
+Clara  
+Co. Offaly  
+R35 HT67   
 
-Location TBA
 
 
 ### Staff
 
 Event Stewards: Gwerful an Filí & Mallymkun Rauði
 
-<!-- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> -->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/imbolc"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>
