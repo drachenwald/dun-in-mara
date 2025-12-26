@@ -9,16 +9,32 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [November 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137034)
-15 November 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+### [January 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162140)
+17 January 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Imbolc](/events/2026/imbolc/)
+1 February 2026, Clara Scout Den, Clara, Co. Offaly 
+
+### [February 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162161)
+7 February 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [March 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162162)
+21 March 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [April 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162163)
+18 April 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [May 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164)
+16 May 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+
+## Previous events  
 
 ### [December 2025 Arts & Sciences Day](https://fienta.com/arts-sciences-day-137035)
 13 December 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### [Imbolc](/events/2026/imbolc/)
-1 February 2026, location TBA 
-
-## Previous events  
+### November 2025 Arts & Sciences Day
+15 November 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### October 2025 Arts & Sciences Day
 18 October 2025, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
