@@ -27,7 +27,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [May 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164)
 16 May 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### [Strawberry Raid IV]()
+### [Strawberry Raid V](/events/2026/strawberry-raid-v/)
 27 May - 12 June 2026, Sigginstown Castle, Co. Wexford
 
 
