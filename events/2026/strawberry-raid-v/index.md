@@ -61,7 +61,7 @@ Sir Helga brings a wealth of knowledge, coaching experience and technical insigh
 
 ## Event News
 
-See updates and event news on our dedicated discord server, or here on our [Strawberry Raid news page](/events/2026/strawberry-raid-v/news.md)
+See updates and event news on our dedicated discord server, or here on our  <a href="news/">Strawberry Raid news page</a>  
 
 ## Attendees
 
