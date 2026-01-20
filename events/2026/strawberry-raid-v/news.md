@@ -36,6 +36,18 @@ Baron Etienne OP, OL, OD.
 Viscount Cernac OP, OL, OD.  
 
 ### January 14, 2026
+**Market announcement**
+
+Are you an artisan with handiwork to sell, or perchance a merchant with stock to offer, or even simply clearing your coffers, all are welcome at the Strawberry Raid Market.   
+Bring forth thy wares! 
+(Reeve of the Market: Ildanach Órlaith Chaomhánach)  
+<img src="/images/Market-announcement.jpg" height="400" width="300">
+
+Reminder: Booking opens on the 23rd at 8pm Dublin/London time.  
+(Photo credit: Liz Jones)
+
+
+### January 14, 2026
 **Heavy Class Announcement**
 
 Strawberry Raid is delighted to announce that the Heavy Armoured Combat trainer for this year will be………   
