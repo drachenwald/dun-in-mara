@@ -18,7 +18,8 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 
 ## Contents
 
-<a href="#eventfees">Event Fees</a>  
+<a href="#eventfees">Event Fees</a> 
+<a href="#featuredtrainer">Featured Trainer</a> 
 <a href="news/">Event News</a>  
 <a href="attending/">Attendees</a>  
 <a href="#accessibilty">Accessibility</a>  
@@ -36,31 +37,36 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 
 All fees include Fienta's administration fee.  
 
-SCA member - Full event (Adult)    TBD 
-SCA member - Full event (Youth, age 6-18)    TBD  
-SCA member - Full event (Family: guardians and children)   TBD  
-SCA member - One day (Adult)    TBD  
-SCA member - One day (Youth, age 6-18)    TBD  
-SCA member - Full event or Day trip (Child, under 6)    TBD  
-Non-member Day trip only (Adult - IN ADVANCE ONLY)   TBD  
-Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY)  TBD  
-Non-member Day trip only (Child, under 6 IN ADVANCE ONLY)    TBD  
+Sir Helga´s classes €20 
+SCA member - Full event (Adult): €46
+SCA member - Full event (Youth, age 6-18):  €23  
+SCA member - Full event (Family: guardians and children): €105    
+SCA member - One day (Adult): €21   
+SCA member - One day (Youth, age 6-18): €16 
+SCA member - Full event or Day trip (Child, under 6): FREE  
+Non-member Day trip only (Adult - IN ADVANCE ONLY): €25  
+Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20  
+Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5 
 
-You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, who will be Sir Helga Skjaldmær, from the Kingdom of An Tir. 
+<a name="featuredtrainer"></a>
+## Featured Trainer
+You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, Sir Helga Skjaldmær OP, KSCA, OL, Duchess of the Kingdom of An Tir. (She/They)  
+Sir Helga brings a wealth of knowledge, coaching experience and technical insight and we are so excited that she has agreed to be the guest trainer for Strawberry Raid V and we are busy coordinating with them to bring you all the best of their expertise.  
+<img src="/images/Sir_Helga_announcement.webp" height="400" width="300">
 
 <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
 </div> -->
 
-<!--
+
 ## Event News
 
-Duke Conor Weisszahn has been announced as the visiting armoured combat trainer! Conor comes from the Kingdom of the West, and is one of the foremost heavy trainers in the world.
+See updates and event news on our dedicated discord server, or here on our [Strawberry Raid news page](/events/2026/strawberry-raid-v/news.md)
 
 ## Attendees
 
-A list of people who have already booked, and given consent for their names to appear is here:   
-<a href="attending/" class="btn btn-primary">Attending</a> -->
+A list of people who have already booked, and given consent for their names to appear will be published closer to the event date.  
+<a href="attending/" class="btn btn-primary">Attending</a> 
 
 <a name="accessibility"></a>
 ## Accessibility
@@ -146,20 +152,23 @@ The schedule will be published closer to the date. <!--This document will be upd
 
 Contact THL Aodhán Dha Cheist at <a href="aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.  
 
-Head Steward: THL Aodhán Dha Ceist <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>  , Mistress Melisende Fitzwalte
-Deputy Event Steward: TBD  
-Site Coordinator: TBD   
-Reservations: TBD  
-Camping Team: TBD  
+Head Stewards: THL Aodhán Dha Ceist <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>  , Mistress Melisende Fitzwalter   
+Reservations: THL Alays de Lunel <a href="events@duninmara.org">events@duninmara.org</a>   
+Camping Coordinator: Máistir Aodh Ó Siadhail  
 Herald in Charge: TBD  
-Facilities Team Coordinator: TBD      
-Atmosphere & Decorations Team: TBD    
-Marshal in Charge: TBD  
-Armoured Combat Coordinator: TBD   
-Rapier and Cut & Thrust (steel fencing): TBD   
-Archery & Thrown Weapons: TBD  
-Arts & Sciences (arts & crafts activities): TBD   
-Promotion: TBD    
+Facilities Coordinator: Lord Hugh de Belesduna  
+Volunteer Coordinator: Noble Ingemar of Dun in Mara       
+Marshal in Charge:  Lady Gwerful an Filí    
+Armoured Combat Coordinator: Viscountess Agnes Boncuer    
+Rapier and Cut & Thrust (steel fencing): Baron Robert of Eplaheimr  
+Archery/Thrown Weapons: Lady Gwerful an Filí  
+Arts & Sciences (arts & crafts activities) Coordinator: Lady Gertrude Hoode   
+Royal Liaison: TBD  
+Transport Coordinator: TBD  
+Vibe/LSPD/Market: Órlaith Ildánach Caomhánach  
+Hype: Mistress Melisende Fitzwalter    
+
+
 
 <!--<div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
