@@ -26,12 +26,12 @@ We would love to highlight the foods that remained in February, those that were 
 
 Our main meal will be a **potluck** and will feature foods that have been preserved, or would have remained at this liminal time between the depth of winter and the resurgence of Spring.
 If you don’t preserve anything, we would love for you to join us as well! Here are some ideas to how you can contribute to the feast.
-• Cold meats and cheeses are excellent.
-• Fruits (fresh or dried) and pickles of any kind (from fish to gherkins).
-• German-style sausages are ideal.
-• Boiled eggs and pies are good.
-• Baklava isn’t quite period, but there are very similar period desserts so we welcome it!
-• Halwa, barfi, and almost all Middle Eastern sweet things are great!
+• Cold meats and cheeses are excellent.  
+• Fruits (fresh or dried) and pickles of any kind (from fish to gherkins).  
+• German-style sausages are ideal.  
+• Boiled eggs and pies are good.  
+• Baklava isn’t quite period, but there are very similar period desserts so we welcome it!  
+• Halwa, barfi, and almost all Middle Eastern sweet things are great!  
 
 **Activities**
 During the day there will be the following activities:  
