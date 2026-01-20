@@ -39,12 +39,12 @@ All fees include Fienta's administration fee.
 SCA member - Full event (Adult)    TBD 
 SCA member - Full event (Youth, age 6-18)    TBD  
 SCA member - Full event (Family: guardians and children)   TBD  
-SCA member - One day (Adult)    TBD 
-SCA member - One day (Youth, age 6-18)    TBD 
-SCA member - Full event or Day trip (Child, under 6)    TBD 
-Non-member Day trip only (Adult - IN ADVANCE ONLY)   TBD 
+SCA member - One day (Adult)    TBD  
+SCA member - One day (Youth, age 6-18)    TBD  
+SCA member - Full event or Day trip (Child, under 6)    TBD  
+Non-member Day trip only (Adult - IN ADVANCE ONLY)   TBD  
 Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY)  TBD  
-Non-member Day trip only (Child, under 6 IN ADVANCE ONLY)    TBD 
+Non-member Day trip only (Child, under 6 IN ADVANCE ONLY)    TBD  
 
 You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, who will be Duke Connor Weisszahn, from the Kingdom of the West. We are very much looking forward to His Grace meeting you all.
 
@@ -147,19 +147,19 @@ The schedule will be published closer to the date. <!--This document will be upd
 Contact THL Aodhán Dha Cheist at <a href="aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.  
 
 Head Steward: THL Aodhán Dha Ceist <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>  , Mistress Melisende Fitzwalte
-Deputy Event Steward: TBD
-Site Coordinator: TBD 
-Reservations: TBD
-Camping Team: TBD
-Herald in Charge: TBD
-Facilities Team Coordinator: TBD    
-Atmosphere & Decorations Team: TBD  
-Marshal in Charge: TBD
-Armoured Combat Coordinator: TBD 
-Rapier and Cut & Thrust (steel fencing): TBD 
-Archery & Thrown Weapons: TBD
-Arts & Sciences (arts & crafts activities): TBD 
-Promotion: TBD  
+Deputy Event Steward: TBD  
+Site Coordinator: TBD   
+Reservations: TBD  
+Camping Team: TBD  
+Herald in Charge: TBD  
+Facilities Team Coordinator: TBD      
+Atmosphere & Decorations Team: TBD    
+Marshal in Charge: TBD  
+Armoured Combat Coordinator: TBD   
+Rapier and Cut & Thrust (steel fencing): TBD   
+Archery & Thrown Weapons: TBD  
+Arts & Sciences (arts & crafts activities): TBD   
+Promotion: TBD    
 
 <!--<div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
