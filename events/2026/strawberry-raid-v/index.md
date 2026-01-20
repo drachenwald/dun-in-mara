@@ -18,8 +18,8 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 
 ## Contents
 
-<a href="#eventfees">Event Fees</a> 
-<a href="#featuredtrainer">Featured Trainer</a> 
+<a href="#eventfees">Event Fees</a>  
+<a href="#featuredtrainer">Featured Trainer</a>  
 <a href="news/">Event News</a>  
 <a href="attending/">Attendees</a>  
 <a href="#accessibilty">Accessibility</a>  
