@@ -46,7 +46,7 @@ Non-member Day trip only (Adult - IN ADVANCE ONLY)   TBD
 Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY)  TBD  
 Non-member Day trip only (Child, under 6 IN ADVANCE ONLY)    TBD  
 
-You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, who will be Duke Connor Weisszahn, from the Kingdom of the West. We are very much looking forward to His Grace meeting you all.
+You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, who will be Sir Helga Skjaldmær, from the Kingdom of An Tir. 
 
 <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
