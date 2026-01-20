@@ -37,12 +37,12 @@ We will enjoy a range of medieval activities from the arts, crafts and camp cook
 
 All fees include Fienta's administration fee.  
 
-Sir Helga´s classes €20  
-SCA member - Full event (Adult): €46  
-SCA member - Full event (Youth, age 6-18):  €23  
-SCA member - Full event (Family: guardians and children): €105    
-SCA member - One day (Adult): €21   
-SCA member - One day (Youth, age 6-18): €16  
+Sir Helga´s classes €20    
+SCA member - Full event (Adult): €46    
+SCA member - Full event (Youth, age 6-18):  €23    
+SCA member - Full event (Family: guardians and children): €105     
+SCA member - One day (Adult): €21    
+SCA member - One day (Youth, age 6-18): €16   
 SCA member - Full event or Day trip (Child, under 6): FREE  
 Non-member Day trip only (Adult - IN ADVANCE ONLY): €25  
 Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20  
