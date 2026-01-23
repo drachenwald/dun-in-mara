@@ -6,6 +6,18 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## News
 
+### January 21, 2026
+**Our theme for the arts and sciences at Strawberry Raid V is ‘Be (un)Seen’.**  
+
+<img src="drachenwald/dun-in-mara/images/SR-AS-announcement.png" height="248" width="407">
+
+We’re going to be focusing on the exciting, flashy side of our arts and science practices. We are planning a red carpet style runway show where everyone can wear their fanciest garb, be photographed if you want, and answer questions about what you’re wearing. We are also planning a dedicated tent in the social area of the campground for arts and sciences; a place for everyone to sit and craft together, ask each other questions, share materials, and try out new techniques and tools. And as always, our teachers will be publicly sharing their research and expertise with the group. Let’s shout about our projects from the top of the tower!   
+
+But, what about the other side of A&S? The side that is usually more quiet and potentially secretive? What are those historical undergarments that you’re wearing under your fabulous garb? Tell me about the solo hours of research you’ve done before you ever got a finished product that you could share with others. What does your craft space look like in your home?   
+I’ve even heard rumours that there may be a darker side to the A&S this year; some code breaking, black markets, and more…   
+
+If you’re interested in teaching a class at this year’s Strawberry Raid the link for teacher sign-ups is now live: https://forms.gle/EEVjPvAZ9Qv2akFLA ! If you have any questions at all, feel free to reach out to me and ask.  
+
 ### January 20, 2026
 A message from Baron Etienne:
 

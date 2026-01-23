@@ -12,9 +12,9 @@ The SCA Shire of Dun In Mara welcomes you to Strawberry Raid V, five days of med
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
-<!-- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> -->
+ <div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div> 
 
 ## Contents
 
@@ -54,9 +54,9 @@ You’ll see we have a Fee for the Fighters class. This is in relation to the tr
 Sir Helga brings a wealth of knowledge, coaching experience and technical insight and we are so excited that she has agreed to be the guest trainer for Strawberry Raid V and we are busy coordinating with them to bring you all the best of their expertise.  
 <img src="/images/Sir_Helga_announcement.webp" height="400" width="300">
 
-<!-- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> -->
+ <div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div> 
 
 
 ## Event News
@@ -163,13 +163,13 @@ Armoured Combat Coordinator: Viscountess Agnes Boncuer
 Rapier and Cut & Thrust (steel fencing): Baron Robert of Eplaheimr  
 Archery/Thrown Weapons: Lady Gwerful an Filí  
 Arts & Sciences (arts & crafts activities) Coordinator: Lady Gertrude Hoode   
-Royal Liaison: TBD  
+Royal Liaison:Lady Kytte of the Lake    
 Transport Coordinator: TBD  
 Vibe/LSPD/Market: Órlaith Ildánach Caomhánach  
 Hype: Mistress Melisende Fitzwalter    
 
 
 
-<!--<div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-119918"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> -->
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div> 
