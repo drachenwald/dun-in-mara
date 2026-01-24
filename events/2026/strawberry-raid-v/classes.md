@@ -8,6 +8,8 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 The schedule for classes will be published closer to the date. Please stay tuned.
 
+If you wish to teach a class, please sign up using this form: https://forms.gle/EEVjPvAZ9Qv2akFLA   
+
 **Sir Helga Skjaldmær** (She/They) from the Kingdom of An Tir will be the visiting Armoured Combat trainer.
 
 

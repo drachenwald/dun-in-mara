@@ -48,6 +48,8 @@ Non-member Day trip only (Adult - IN ADVANCE ONLY): €25
 Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20  
 Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5  
 
+Please find our [cancellation policy here](https://duninmara.org/about/cancellation.md).
+
 <a name="featuredtrainer"></a>
 ## Featured Trainer
 You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, Sir Helga Skjaldmær OP, KSCA, OL, Duchess of the Kingdom of An Tir. (She/They)  
@@ -138,7 +140,9 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A list of classes and their descriptions will be published closer to the event.  
+A list of classes and their descriptions will be published closer to the event. 
+Want to teach a class? Sign up via this form: https://forms.gle/EEVjPvAZ9Qv2akFLA  
+
 <!--Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time.   -->
 
 
@@ -163,7 +167,7 @@ Armoured Combat Coordinator: Viscountess Agnes Boncuer
 Rapier and Cut & Thrust (steel fencing): Baron Robert of Eplaheimr  
 Archery/Thrown Weapons: Lady Gwerful an Filí  
 Arts & Sciences (arts & crafts activities) Coordinator: Lady Gertrude Hoode   
-Royal Liaison:Lady Kytte of the Lake    
+Royal Liaison: Lady Kytte of the Lake    
 Transport Coordinator: TBD  
 Vibe/LSPD/Market: Órlaith Ildánach Caomhánach  
 Hype: Mistress Melisende Fitzwalter    
