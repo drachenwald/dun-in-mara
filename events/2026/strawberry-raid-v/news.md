@@ -18,14 +18,14 @@ A space is prepared by Laurels for anyone to set out their A&S work (finished or
 It was a joy to listen to the enthusiasm of the artisans getting to talk about their interests, as well as their ongoing research and learning journey. They also inspired many people on the day too.   
 So this is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!   
 
-<img src="drachenwald/dun-in-mara/images/LaurelPrizeDisplay.jpg" height="400" width="565">
+<img src="/images/LaurelPrizeDisplay.jpg" height="400" width="565">
 
 
 ### January 20, 2026
 
 **Our theme for the arts and sciences at Strawberry Raid V is ‘Be (un)Seen’.**  
 
-<img src="drachenwald/dun-in-mara/images/SR-AS-announcement.png" height="248" width="407">
+<img src="/images/SR-AS-announcement.png" height="248" width="407">
 
 We’re going to be focusing on the exciting, flashy side of our arts and science practices. We are planning a red carpet style runway show where everyone can wear their fanciest garb, be photographed if you want, and answer questions about what you’re wearing. We are also planning a dedicated tent in the social area of the campground for arts and sciences; a place for everyone to sit and craft together, ask each other questions, share materials, and try out new techniques and tools. And as always, our teachers will be publicly sharing their research and expertise with the group. Let’s shout about our projects from the top of the tower!   
 
