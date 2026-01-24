@@ -7,18 +7,19 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 ## News
 
 ### January 23, 2026
-**Booking is now open**
-Good gentles, bokoing has opened for Strawberry Raid. Please find the booking link on the main event page. 
+**Booking is now open**  
+Good gentles, booking has opened for Strawberry Raid. Please find the booking link on the main event page.   
 
 ### January 21, 2026
-**Laurel Prize Display**
+**Laurel Prize Display**  
+
+<img src="/images/LaurelPrizeDisplay.jpg" height="400" width="565">
 After the enormous success of last year’s Laurel-Sponsored Prize Display, Strawberry Raid is delighted to announce that it will be held this year too.   
 What is an LSPD you ask?   
 A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
 It was a joy to listen to the enthusiasm of the artisans getting to talk about their interests, as well as their ongoing research and learning journey. They also inspired many people on the day too.   
 So this is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!   
 
-<img src="/images/LaurelPrizeDisplay.jpg" height="400" width="565">
 
 
 ### January 20, 2026
