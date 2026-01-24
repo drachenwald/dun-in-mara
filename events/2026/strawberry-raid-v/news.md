@@ -6,7 +6,23 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## News
 
+### January 23, 2026
+**Booking is now open**
+Good gentles, bokoing has opened for Strawberry Raid. Please find the booking link on the main event page. 
+
 ### January 21, 2026
+**Laurel Prize Display**
+After the enormous success of last year’s Laurel-Sponsored Prize Display, Strawberry Raid is delighted to announce that it will be held this year too.   
+What is an LSPD you ask?   
+A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
+It was a joy to listen to the enthusiasm of the artisans getting to talk about their interests, as well as their ongoing research and learning journey. They also inspired many people on the day too.   
+So this is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!   
+
+<img src="drachenwald/dun-in-mara/images/LaurelPrizeDisplay.jpg" height="400" width="565">
+
+
+### January 20, 2026
+
 **Our theme for the arts and sciences at Strawberry Raid V is ‘Be (un)Seen’.**  
 
 <img src="drachenwald/dun-in-mara/images/SR-AS-announcement.png" height="248" width="407">
@@ -17,6 +33,9 @@ But, what about the other side of A&S? The side that is usually more quiet and p
 I’ve even heard rumours that there may be a darker side to the A&S this year; some code breaking, black markets, and more…   
 
 If you’re interested in teaching a class at this year’s Strawberry Raid the link for teacher sign-ups is now live: https://forms.gle/EEVjPvAZ9Qv2akFLA ! If you have any questions at all, feel free to reach out to me and ask.  
+
+
+
 
 ### January 20, 2026
 A message from Baron Etienne:
