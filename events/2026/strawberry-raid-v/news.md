@@ -13,9 +13,10 @@ Good gentles, booking has opened for Strawberry Raid. Please find the booking li
 ### January 21, 2026
 **Laurel Prize Display**  
 
-<img src="/images/LaurelPrizeDisplay.jpg" height="400" width="565">
+<img src="/images/LaurelPrizeDisplay.jpg" height="400" width="565">  
 After the enormous success of last year’s Laurel-Sponsored Prize Display, Strawberry Raid is delighted to announce that it will be held this year too.   
-What is an LSPD you ask?   
+
+***What is an LSPD you ask?***   
 A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
 It was a joy to listen to the enthusiasm of the artisans getting to talk about their interests, as well as their ongoing research and learning journey. They also inspired many people on the day too.   
 So this is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!   
@@ -33,7 +34,8 @@ We’re going to be focusing on the exciting, flashy side of our arts and scienc
 But, what about the other side of A&S? The side that is usually more quiet and potentially secretive? What are those historical undergarments that you’re wearing under your fabulous garb? Tell me about the solo hours of research you’ve done before you ever got a finished product that you could share with others. What does your craft space look like in your home?   
 I’ve even heard rumours that there may be a darker side to the A&S this year; some code breaking, black markets, and more…   
 
-If you’re interested in teaching a class at this year’s Strawberry Raid the link for teacher sign-ups is now live: https://forms.gle/EEVjPvAZ9Qv2akFLA ! If you have any questions at all, feel free to reach out to me and ask.  
+If you’re interested in teaching a class at this year’s Strawberry Raid, the link for teacher sign-ups is now live: **https://forms.gle/EEVjPvAZ9Qv2akFLA !**
+If you have any questions at all, feel free to reach out to me and ask.  
 
 
 
