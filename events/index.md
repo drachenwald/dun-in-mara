@@ -27,7 +27,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [Strawberry Raid V](/events/2026/strawberry-raid-v/)
 27 May - 1 June 2026, Sigginstown Castle, Co. Wexford
 
-### [Dublin Pride](https://dublinpride.ie/) 
+### [Dublin Pride](/events/2026/pride-2026/) 
 *Note, this is not an SCA-organised event. Dun in Mara will be participating in the parade organised by Dublin LGBTQ Pride.*
 27 June, 2026, Dublin city center
 
