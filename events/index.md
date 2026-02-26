@@ -9,12 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Imbolc](/events/2026/imbolc/)
-1 February 2026, Clara Scout Den, Clara, Co. Offaly 
-
-### [February 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162161)
-7 February 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [March 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162162)
 21 March 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -34,6 +28,12 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 
 ## Previous events  
+
+### [February 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162161)
+7 February 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin  
+
+### [Imbolc](/events/2026/imbolc/)
+1 February 2026, Clara Scout Den, Clara, Co. Offaly   
 
 ### [January 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162140)
 17 January 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
