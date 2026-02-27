@@ -140,7 +140,7 @@ Watch this space for details on our organised activities during the event. We ex
 
 ### Arts & Sciences Classes
 
-A list of classes and their descriptions can be found [here](classes/).
+A list of classes and their descriptions can be found [here](classes/).  
 Do you have a class you would like to share at Strawberry Raid? Sign up [here](https://forms.gle/EEVjPvAZ9Qv2akFLA) to be a teacher!  
 
 <!--Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time.   -->
