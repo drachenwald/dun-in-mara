@@ -1,6 +1,6 @@
 ---
 title:  "Dun in Mara will participate in Pride 2026"
-date:   2026-01-20 21:00:00 +0000
+date:   2026-01-29 21:00:00 +0000
 categories: event
 ---
 
