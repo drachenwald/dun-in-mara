@@ -73,6 +73,34 @@ Description: Are you interested in getting involved in running an event whether 
 Limit: no  
 Cost for class: no  
 
+*Rapier 101, Introduction to Rapier*  
+Teacher: Alexandre d'Avigné  
+Description: For absolute beginners, anyone with an interest, or those looking for a refresher. Basic footwork, basic parries, basic attacks.  
+Limit: no  
+Cost for class: no  
+
+*Make your own Paternoster*  
+Teacher: Viscountess Susannah of York  
+Description: The history of the paternoster and construction of a beaded paternoster.  
+Limit: 6  
+Cost for class: 5 euro  
+
+*Peer Garden*  
+Teacher: Magdelena Grace Vane  
+Description: Do you have questions about peerage? How it works? What we do? Come, bring a drink, and ask us what you want to know.   
+Limit: no  
+Cost for class: no  
+
+*Mentioning Unmentionables*  
+Teacher: Lady Gertrude Hoode  
+Description: This class will peek under history’s skirt to examine various styles of undergarments throughout history, focusing on medieval artworks and some spectacular archaeological finds. We will also talk about how you might use these historical pieces to help recreate your own historically inspired tightie whities, with practical details like the most comfortable kinds of fabrics to use, and how to sew your smocks to make them easily washable and incredibly durable.   
+
+Attendees are encouraged (but not required!) to arrive scantily clad in only their shirts, chemises, and braies. We will have a fun chat about historical underwear, wearing our historical underwear!   
+Limit: no  
+Cost for class: no  
+
+
+
 
 
 <a href="/events/2026/strawberry-raid-v/">Back to Event Page</a>
