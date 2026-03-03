@@ -50,4 +50,4 @@ Hall Steward: TBD
 Herald in Charge: Viscountess Agnes Boncuer, OP
 Royal Liaison: TBC
 
-<img src="images/glendalough-banner.jpg" height="671" width="1200"> 
+<img src="/images/glendalough-banner.jpg" height="671" width="1200"> 
