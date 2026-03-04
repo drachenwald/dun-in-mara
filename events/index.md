@@ -25,7 +25,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 *Note, this is not an SCA-organised event. Dun in Mara will be participating in the parade organised by Dublin LGBTQ Pride.*  
 27 June, 2026, Dublin city center
 
-### [Dublin Pride](/events/2026/kingdom-university/)  
+### [Kingdom University](/events/2026/kingdom-university/)  
 6-8 November, 2026, Glendalough International Hostel, Co. Wicklow
 
 ## Previous events  
