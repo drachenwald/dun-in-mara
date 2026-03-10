@@ -99,6 +99,29 @@ Attendees are encouraged (but not required!) to arrive scantily clad in only the
 Limit: no  
 Cost for class: no  
 
+*Poison or food? Identifying plants while foraging*  
+Teacher: Ingemar of Dun in Mara  
+Description: We will look at methods for identifying plants in the field, how to use a field guide or modern technologies and what to be aware of when foraging. If weather allows we may do a short foraging walk around the site to put theory into practice, you are welcome to bring containers if you so wish. I am approaching this from a botanist's point of view more so than a forager's, so expect random tangents about the science of botany now and in period.   
+Limit: No  
+Cost for class: No  
+
+*What to serve your enemies - Poisonous plants, poisons and their use in period*  
+Teacher: Ingemar of Dun in Mara  
+Description: This is purely a talk/workshop, not a practical class. (There may be biscuits, which will definitely be safe to eat.) We will be talking about poisonous plants and mushrooms, maybe also minerals, and their various uses in the Middle Ages (possibly with several tangents on how the toxins work). No toxic substances will actually be handled; use your newfound knowledge responsibly and honourably.   
+Limit: No  
+Cost for class: No  
+
+*Bliauts for Beginners*  
+Teacher: Angharad Banadaspus Drakenhefd   
+Description: This class will cover some of the history of the bliaut, what materials you should use, and easy ways to get started to make them.  
+Limit: No  
+Cost for class: No  
+
+*Bright colours, mixed materials, no standards and high expectations: early 14th century knightly fashion*  
+Teacher: Etienne the Younger  
+Description: When mail armour found itself wanting, simple plates started supplementing it in some places, and quickly improved. It could have been purely practical and plain. But fortunately it was not so, and in the early 14th century, plate armour experiments were in full swing, heraldry was ubiquitous and the best way for a knight to stay alive was to look splendid and ransomable. In this class we will have a look at the military fashion changes in that time around 1300-1350 as cloth, metal and leather mix in every armour but never twice in the same manner.  
+Limit: no  
+Cost for class: no  
 
 
 
