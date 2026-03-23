@@ -123,6 +123,35 @@ Description: When mail armour found itself wanting, simple plates started supple
 Limit: no  
 Cost for class: no  
 
+*The Confident Court Herald*  
+Teacher: Agnes Boncuer  
+Description: Are you interested in court heralding or would you like to improve your court heralding game? Are you a current or a future Royal who wants to hold the best possible courts? In this class we will talk about preparation, organising your notes and your items, physical positioning, interaction between the Royals and the herald as well as between the herald and the court, timing, and whether and when to inject humour.   
+Limit: No  
+Cost for Class: No  
+
+*Bawdy or Base, attitudes to sex and sex work in medieval Europe*  
+Teacher: Amber of Dun in Mara  
+Description: A look into the way societal attitudes around sexuality, sex, and sex work changed and developed from the Romans to the Tudors, and the way these attitudes showed in both literature and practice.  
+Limit: No  
+Cost for class: No  
+
+*Essentials of Camp Cooking*  
+Teacher: Aodh Ó Siadhail  
+Description: Follow through the production of a meal from lighting the fire to eating the food at Aodh's camp kitchen.  
+Limit: 6  
+Cost for class: No  
+
+*See a Pin and Pick it Up: A Brick-Stitch Pin Case*  
+Teacher: Catherine Weaver  
+Description: Many of our garments and headgear in the SCA are secured with pins, so it’s important to have somewhere secure to keep them. In this class we will practice the brick-stitch technique and use it to make the cover for a small rolled pin case. All materials needed for making the pin case other than scissors and pins will be provided as a kit for a small fee.  
+Limit: 6  
+Cost for class: 3 euro  
+
+*Tying it All Together: Tablet Woven Cord*  
+Teacher: Catherine Weaver  
+Description: In our period of interest, cords were the unsung heroes of the dressing process, attaching sleeves to bodices, hose to doublets and securing the fronts of kirtles. In this class we will look at setting up tablets for such cords and practice weaving them. Please bring a belt to attach the beginning of your warp to. Everything else will be provided.  
+Limit: 6  
+Cost for class: no  
 
 
 
