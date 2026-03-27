@@ -67,7 +67,8 @@ See updates and event news on our dedicated discord server, or here on our  <a h
 
 ## Attendees
 
-A list of people who have already booked, and given consent for their names to appear will be published closer to the event date.  
+A list of people who have already booked, and given consent for their names to appear can be found here: 
+
 <a href="attending/" class="btn btn-primary">Attending</a> 
 
 <a name="accessibility"></a>
@@ -150,7 +151,9 @@ Sign up **to teach** closes on April 19.
 <a name="schedule"></a>
 ## Schedule
 
-The schedule will be published closer to the date. <!--This document will be updated in the event of any changes. Please consult the noticeboards at the event for the most up to date information.  -->
+<!-- The schedule can be found [here](https://docs.google.com/spreadsheets/d/1-3RdDvTJRx--GGSJGmM3QBHH-NcpLKf9-ClDiVTDGIs/edit?usp=sharing).  -->
+Please note that the schedule is currently **under construction** and will be updated in the lead up to the event. Check back later to see more info. 
+<!-- This document will be updated in the event of any changes. Please consult the noticeboards at the event for the most up to date information.  -->
 
 <a name="eventteam"></a>
 ## Event Team
