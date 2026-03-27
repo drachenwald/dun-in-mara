@@ -151,8 +151,8 @@ Sign up **to teach** closes on April 19.
 <a name="schedule"></a>
 ## Schedule
 
-<!-- The schedule can be found [here](https://docs.google.com/spreadsheets/d/1-3RdDvTJRx--GGSJGmM3QBHH-NcpLKf9-ClDiVTDGIs/edit?usp=sharing).  -->
-Please note that the schedule is currently **under construction** and will be updated in the lead up to the event. Check back later to see more info. 
+The schedule can be found [here](https://docs.google.com/spreadsheets/d/17pAFgeigC4eoSV9vbc1e45x9Q_eiFPKaEM0sB7ENdtQ/edit?usp=sharing).   
+Please note that the schedule is currently **under construction** and will be updated in the lead up to the event. Check back later to see more info.   
 <!-- This document will be updated in the event of any changes. Please consult the noticeboards at the event for the most up to date information.  -->
 
 <a name="eventteam"></a>
