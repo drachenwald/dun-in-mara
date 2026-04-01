@@ -166,7 +166,7 @@ Camping Coordinator: Máistir Aodh Ó Siadhail
 Herald in Charge: TBD  
 Facilities Coordinator: Lord Hugh de Belesduna  
 Volunteer Coordinator: Noble Ingemar of Dun in Mara       
-Marshal in Charge:  Lady Gwerful an Filí    
+Marshal in Charge: THL Alays de Lunel    
 Armoured Combat Coordinator: Viscountess Agnes Boncuer    
 Rapier and Cut & Thrust (steel fencing): Baron Robert of Eplaheimr  
 Archery/Thrown Weapons: Lady Gwerful an Filí  
