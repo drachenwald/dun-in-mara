@@ -153,6 +153,30 @@ Description: In our period of interest, cords were the unsung heroes of the dres
 Limit: 6  
 Cost for class: no  
 
+*Improve your Archery*  
+Teacher: Yannick of Normandy  
+Description: Bring your bow & 3 arrows. We will look at where each archer can improve their technique.  
+Limit: No  
+Cost for Class: No  
+
+*Telling the Tale: Using the Bardic Arts in Presentations*  
+Teacher: Rodrigo Bernardez  
+Description: Want to teach a class but are too nervous? Learn how thinking like a bard can help you get over your fear and help you give a great presentation. Already teaching? Come learn ideas and techniques that can help improve your presentations.  
+Limit: No  
+Cost for Class: No  
+
+*Secrets of a Saloon Singer Entertaining in the SCA*  
+Teacher: Rodrigo Bernardez  
+Description: Like to sing or tell a story? Recite poetry in obscure languages? Maybe enjoy the occasional drink while you entertain? You might have the makings of a bard! Come learn the secrets of entertaining in the SCA, from spontaneous campfire sing-alongs to formal performances.  
+Limit: No  
+Cost for Class: No  
+
+*Introduction to sprang*  
+Teacher: Johanna aff Hucka  
+Description: Sprang is a technique of braiding stretched threads into a netted or interlaced structure. It is know from various cultures during our period, and it survived in Scandinavia both as sprang lace and as narrow wares, in Finland and the Baltic countries only as narrow wares like garters and belts. This is an introductory class going through the very basics and giving you a base for expanding further, whether you want to do wider sprang fabrics and sprang lace or narrow wares like garters. We will be practicing the techniques with simple frames: instructions will be available later, but a medium to large embroidery frame, a crate with holes on the side, a picture frame or something else similar can be converted into a sprang frame with a few dowels and/or long sturdy knitting needles and a few pieces of string. I'll be bringing a "real" sprang frame to show as well as a few makeshift practice frames, but you do not need any expensive or hard-to-get equipment to do sprang. You will also need a ball of smooth wool or cotton yarn and some light-weight double-ended knitting needles (bamboo, wood) or wooden barbecue skewers (I may be able to arrange for a bag of 100 to be shared). If you wish to start a pair of simple Scandinavian garters, bring a pair of G clamps or separate warping posts and we'll see if we can find a place for the warp. Depending on when the class is during the event, you might be able to start and finish a small pouch or a pair of garters at the event. If using a frame of your own to explore sprang in advance, see Carol James' website at https://www.spranglady.com/sprang.html and Sharon Wichman's website at https://www.sprangart.com. Both include examples of reconstructions from our period(s).  
+Limit: 8  
+Cost for Class: No  
+
 
 
 <a href="/events/2026/strawberry-raid-v/">Back to Event Page</a>
