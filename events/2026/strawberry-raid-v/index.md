@@ -169,7 +169,7 @@ Volunteer Coordinator: Noble Ingemar of Dun in Mara
 Marshal in Charge: THL Alays de Lunel    
 Armoured Combat Coordinator: Viscountess Agnes Boncuer    
 Rapier and Cut & Thrust (steel fencing): Baron Robert of Eplaheimr  
-Archery/Thrown Weapons: Lady Gabriella della Luna & Lady Saskia de Quaasteniet
+Archery/Thrown Weapons: Lady Gabriella della Luna & Lady Saskia de Quaasteniet  
 Arts & Sciences (arts & crafts activities) Coordinator: Lady Gertrude Hoode   
 Royal Liaison: Lady Kytte of the Lake    
 Transport Coordinator: TBD  
