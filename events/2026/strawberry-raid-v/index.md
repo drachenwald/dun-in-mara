@@ -158,10 +158,10 @@ Please note that the schedule is currently **under construction** and will be up
 <a name="eventteam"></a>
 ## Event Team
 
-Contact THL Aodhán Dha Cheist at <a href="aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.  
+Contact THL Aodhán Dha Cheist at <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.  
 
 Head Stewards: THL Aodhán Dha Ceist (<a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>), Mistress Melisende Fitzwalter   
-Reservations: THL Alays de Lunel (<a href="events@duninmara.org">events@duninmara.org</a>)   
+Reservations: THL Alays de Lunel (<a href="mailto:events@duninmara.org">events@duninmara.org</a>)   
 Camping Coordinator: Máistir Aodh Ó Siadhail  
 Herald in Charge: TBD  
 Facilities Coordinator: Lord Hugh de Belesduna  
