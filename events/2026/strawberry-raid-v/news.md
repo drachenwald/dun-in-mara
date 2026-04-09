@@ -12,7 +12,7 @@ At Strawberry Raid V, we will hold a joint charity tournament of armoured combat
 
 **Daffodil Tournament**  
 
-Each competitor is asked to donate at least 10 euro as a fee to enter the tournament, payable either directly on the [ICS website](www.cancer.ie) or in cash or via Revolut at the event. All entrants must pre-register using the [form](https://forms.gle/2N5LBHoayH92kjxg6) or at the event up to the evening before the tournament. Please note that the pre-registration form requires you to sign in to Google, so if you don't have a Google account, please email agneslaverte@gmail.com instead.  
+Each competitor is asked to donate at least 10 euro as a fee to enter the tournament, payable either directly on the [ICS website](https://www.cancer.ie/) or in cash or via Revolut at the event. All entrants must pre-register using the [form](https://forms.gle/2N5LBHoayH92kjxg6) or at the event up to the evening before the tournament. Please note that the pre-registration form requires you to sign in to Google, so if you don't have a Google account, please email agneslaverte@gmail.com instead.  
 
 Depending on the number of entrants, we will run the armoured and rapier lists either simultaneously but taking turns (an armoured pair followed by a rapier pair, and so on), or, if this is not possible, one list after another. If you wish to compete in both lists, please indicate this in the pre-registration and we will try to accommodate this.  
 
