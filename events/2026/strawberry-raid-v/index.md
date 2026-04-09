@@ -147,6 +147,12 @@ Sign up **to teach** closes on April 19.
 
 <!--Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time.   -->
 
+### Laurel Prize Display 
+A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
+This is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!   
+
+### Market
+There will be market on the weekend, if you're looking to sell some bits & bobs, or are in the market for some nicknacks, this is the perfect opportunity!  
 
 <a name="schedule"></a>
 ## Schedule
