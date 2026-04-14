@@ -57,12 +57,9 @@ Mug of Regular tea or coffee, lemonade or secunjavin
 
 If you want to participate in the meal service, please note that you **must book your meals in advance. Once bookings close, it will no longer be possible to participate.**   
 
-
-**Presale of meals start on April 9 for those who indicated on their ticket purchase that they would be interested in the meal plan.**  
-**Meal plan booking opens up to the general populace on Monday 12 April.**   
 **You must have purchased tickets to Strawberry Raid in order to purchase meals.**
 
-<!-- Please order before the 14th of May. For prices and booking your meals, please visit  **[Sigginstown Castle's website](https://www.sigginstowncastle.com/online-ordering)**.  -->
+Bookings for the foodp lan will close on the 20th of May or when capacity is reached, whichever comes first. For prices and booking your meals, please visit  **[Sigginstown Castle's website](https://www.sigginstowncastle.com/online-ordering)**.  
 
 ### In the neighbourhood
 
