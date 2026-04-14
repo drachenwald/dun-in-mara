@@ -59,7 +59,10 @@ If you want to participate in the meal service, please note that you **must book
 
 **You must have purchased tickets to Strawberry Raid in order to purchase meals.**
 
-Bookings for the foodp lan will close on the 20th of May or when capacity is reached, whichever comes first. For prices and booking your meals, please visit  **[Sigginstown Castle's website](https://www.sigginstowncastle.com/online-ordering)**.  
+Bookings for the food plan will close on the 20th of May or when capacity is reached, whichever comes first. For prices and booking your meals, please visit  **[Sigginstown Castle's website](https://www.sigginstowncastle.com/online-ordering)**, or click:
+ <div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://www.sigginstowncastle.com/online-ordering"><i class="fas fa-ticket-alt me-1 m"></i> Book the food plan here</a><br />
+</div> 
 
 ### In the neighbourhood
 
