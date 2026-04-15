@@ -55,9 +55,12 @@ Sunday Social in the Barn (6-8 pm): €12
 Make your own pizza in our brick oven with A variety of toppings. Maybe some celebratory sweet!  
 Mug of Regular tea or coffee, lemonade or secunjavin  
 
-If you want to participate in the meal service, please note that you **must book your meals in advance. Once bookings close, it will no longer be possible to participate.**   
+If you want to participate in the meal service, please note that you **must book your meals in advance. Once bookings close, it will no longer be possible to participate. Also note that bookings are non-refundable.**  
+The Coach House could use some help in the cafe for general serving if you are interested in trading your time for food.
+Please contact Damiana at lizjones429@earthlink.net to discuss options.   
 
-**You must have purchased tickets to Strawberry Raid in order to purchase meals.**
+**You must have purchased tickets to Strawberry Raid in order to purchase meals.**  
+**When booking make sure you change the "Dine in" Date to the 27th of May in order to be able to book your meals.**  
 
 Bookings for the food plan will close on the 20th of May or when capacity is reached, whichever comes first. For prices and booking your meals, please visit  **[Sigginstown Castle's website](https://www.sigginstowncastle.com/online-ordering)**, or click:
  <div class="text-center m-4">
