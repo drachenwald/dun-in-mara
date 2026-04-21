@@ -6,6 +6,13 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## News
 
+### April 19, 2026  
+
+*Sign up for A&S teachers has now closed,* thank you all for an amazing number of submissions! We have a stunning offering of classes, see the dedicated [classes page](/events/2026/strawberry-raid-v/classes.md) for an overview.  
+With sign up closed, the Strawberry Raid team will be working hard behind the scenes to schedule them all. 
+Teachers: you will receive communication about when and where your class is scheduled before the event. 
+Students: prior to the event you will be able to sign up for specific classes via Fienta. More information on this will be communicated at a later stage. 
+
 ### March 16, 2026  
 
 At Strawberry Raid V, we will hold a joint charity tournament of armoured combat and rapier combat, in aid of Irish Cancer Society, the major cancer support agency in Ireland.   
