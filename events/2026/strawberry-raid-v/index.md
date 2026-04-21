@@ -47,8 +47,10 @@ SCA member - Full event or Day trip (Child, under 6): FREE
 Non-member Day trip only (Adult - IN ADVANCE ONLY): €25  
 Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20  
 Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5  
+--> Not a member yet? Become one! [Click here to sign up](https://membermojo.co.uk/scauk)  
 
 Please find our [cancellation policy here](https://duninmara.org/about/cancellation.md).
+
 
 <a name="featuredtrainer"></a>
 ## Featured Trainer
@@ -142,8 +144,7 @@ Watch this space for details on our organised activities during the event. We ex
 ### Arts & Sciences Classes
 
 A list of classes and their descriptions can be found [here](classes/).  
-Do you have a class you would like to share at Strawberry Raid? Sign up [here](https://forms.gle/EEVjPvAZ9Qv2akFLA) to be a teacher!  
-Sign up **to teach** closes on April 19.   
+Teacher sign up has now closed.    
 
 <!--Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time.   -->
 
@@ -169,7 +170,7 @@ Contact THL Aodhán Dha Cheist at <a href="mailto:aidanbarron1@gmail.com">aidanb
 Head Stewards: THL Aodhán Dha Ceist (<a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a>), Mistress Melisende Fitzwalter   
 Reservations: THL Alays de Lunel (<a href="mailto:events@duninmara.org">events@duninmara.org</a>)   
 Camping Coordinator: Máistir Aodh Ó Siadhail  
-Herald in Charge: TBD  
+Herald in Charge: Master Agnes Boncuer   
 Facilities Coordinator: Lord Hugh de Belesduna  
 Volunteer Coordinator: Noble Ingemar of Dun in Mara       
 Marshal in Charge: THL Alays de Lunel    
@@ -178,8 +179,8 @@ Rapier and Cut & Thrust (steel fencing): Baron Robert of Eplaheimr
 Archery/Thrown Weapons: Lady Gabriella della Luna & Lady Saskia de Quaasteniet  
 Arts & Sciences (arts & crafts activities) Coordinator: Lady Gertrude Hoode   
 Royal Liaison: Lady Kytte of the Lake    
-Transport Coordinator: TBD  
-Vibe/LSPD/Market: Órlaith Ildánach Caomhánach  
+Transport Coordinator: THL Alays de Lunel      
+Vibe/Laurel Sponsored Prize Display/Market: Órlaith Ildánach Caomhánach  
 Hype: Mistress Melisende Fitzwalter    
 
 
