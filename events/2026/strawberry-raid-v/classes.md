@@ -178,5 +178,52 @@ Limit: 8
 Cost for Class: No  
 
 
+*Writing the Medieval Way*  
+Teacher: Oriane d‘Avallon  
+Description: How to make your calligraphy look more period through some technical bits and the use of the right letters, ligatures and abbreviations  
+Limit: No  
+Cost for Class: No  
+
+*Making 15th century dress pins*  
+Teacher: Caitriona of the Ravens   
+Description: In this hands on class, people will make a set of 15th century dress pins.  
+Limit: 10  
+Cost for Class: €7  
+
+*Madrigal-Polyphonic Singalong*  
+Teacher: M. Damiana d’Onde  
+Description: Not a Class! Let’s sing some period madrigals and songs in parts. We will pick 8 or so songs that are more well known and (hopefully) tell you ahead of time so you can practice your part. We are NOT teaching these songs at all. It is a pop-up singing session and you should already know your part. We don’t know what parts will join so we will do the best we can. We will run through each song once or twice. Suggestions taken for songs and they won’t all be madrigals.   
+Limit: No  
+Cost for Class: No  
+
+*Think you cant? Lbh pna!*  
+Teacher: Dainéil an Bithiúnach  
+Description: From Caesar to cock-sure, take a journey through the history of codes and obfuscation. Learn how to win wars and influence history through classical cryptography and embrace thieves' cant to earn your place among the cursitors. And remember: we nggnpx ng qnja.  
+Limit: No  
+Cost for Class: No  
+
+*Currency Conversion for Fun and Profit*  
+Teacher: Dainéil an Bithiúnach  
+Description: Flush with bronze but short on silver? Find out how–with a little ingenuity–you can turn your inexpensive metals into cold, hard coins. Nope, the secret isn't alchemy–it's crime! Step into the world of historical counterfeiting with minimal risk to life, limb, or freedom. Learn how it was done, why it mattered, and how you might have gotten caught.  
+Limit: No  
+Cost for Class: No  
+
+*Conscious Touch Massage with Flówan Temple*  
+Teacher: Alice de la Wode   
+Description: Long before physic and surgeon plied their trade with steel and remedy, the laying on of hands was a sacred and trusted art. In the ancient traditions of Hinduism and Buddhism, touch was woven into spiritual practice — a means of guiding energy, restoring balance, and honouring the unity of body and spirit. Practices of ritual oil massage were offered not merely for the flesh, but for the harmony of the whole being.   
+Likewise, in the isles of the great ocean, the flowing art of Lomi Lomi arose — a dance of hands, breath, and intention, echoing the rhythms of nature herself.   
+Thus, from many corners of the world, a common knowing emerges: that mindful touch may soothe not only the body, but the spirit within.   
+
+Good gentles, this Strawberry Raid, Flówan Temple combines these wholesome practices, not offering the rough kneading of sore muscles, nor the craft of bone-setters, but the soft and attentive laying on of hands. A listening through conscious touch. A quiet space where the body may rest and restore.   
+Should you choose to receive, expect an individually tailored experience of:   
+Slow, flowing strokes inspired by Lomi Lomi’s wave-like motion   
+A sense of warmth, grounding, and gentle ease A deep restfulness, like drifting upon calm waters   
+
+Limited 60 or 90 minute slots. Book with Alice de la Wode of Flówan Temple on site or ahead of time.  
+Limit: One to one. A maximum of two per day.  
+Cost for Class: The offering is given from the heart. Pay what you feel is fair as coin, kindness or gratitude allows  
+
+
+
 
 <a href="/events/2026/strawberry-raid-v/">Back to Event Page</a>
