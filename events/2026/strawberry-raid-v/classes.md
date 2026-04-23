@@ -6,9 +6,7 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Classes
 
-The schedule for classes will be published closer to the date. Please stay tuned.  
-
-If you wish to teach a class, please sign up using [this form](https://forms.gle/AqF8NAg7o4PTvxKr5)   
+The schedule for classes will be published closer to the date. Please stay tuned.   
 
 **Sir Helga Skjaldmær** (She/They) from the Kingdom of An Tir will be the visiting Armoured Combat trainer.  
 
@@ -144,7 +142,7 @@ Cost for class: No
 *See a Pin and Pick it Up: A Brick-Stitch Pin Case*  
 Teacher: Catherine Weaver  
 Description: Many of our garments and headgear in the SCA are secured with pins, so it’s important to have somewhere secure to keep them. In this class we will practice the brick-stitch technique and use it to make the cover for a small rolled pin case. All materials needed for making the pin case other than scissors and pins will be provided as a kit for a small fee.  
-Limit: 6  
+Limit: 8  
 Cost for class: 3 euro  
 
 *Tying it All Together: Tablet Woven Cord*  
