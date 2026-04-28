@@ -155,6 +155,12 @@ This is an open invitation for you to show off the great work you have been doin
 ### Market
 There will be market on the weekend, if you're looking to sell some bits & bobs, or are in the market for some nicknacks, this is the perfect opportunity!  
 
+
+### Daffodil Tournament
+This year Strawberry Raid will host the Daffodil tournament, which is in support of the Irish Cancer Foundation. Both heavy armour fighters and fencers can compete, as this is a mixed tournament. Depending on the number of entrants, we will run the armoured and rapier lists either simultaneously but taking turns (an armoured pair followed by a rapier pair, and so on), or, if this is not possible, one list after another.  
+Each competitor is asked to donate at least 10 euro as a fee to enter the tournament, payable either directly on the [ICS website](https://www.cancer.ie/) or in cash or via Revolut at the event. All entrants must pre-register using the [form](https://forms.gle/2N5LBHoayH92kjxg6) or at the event up to the evening before the tournament. Please note that the pre-registration form requires you to sign in to Google, so if you don't have a Google account, please email agneslaverte@gmail.com instead.  
+The top 4 fighters in each list will be offered a choice of prizes donated by our artisans and other members of our community.  
+
 <a name="schedule"></a>
 ## Schedule
 
