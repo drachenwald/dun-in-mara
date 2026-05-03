@@ -6,7 +6,10 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Classes
 
-The schedule for classes will be published closer to the date. Please stay tuned.   
+The schedule for classes will be published closer to the date. Please stay tuned.
+
+Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time. [https://fienta.com/arts-sciences-classes-strawberry-raid-2026 
+](Sign up here).
 
 **Sir Helga Skjaldmær** (She/They) from the Kingdom of An Tir will be the visiting Armoured Combat trainer.  
 
@@ -222,6 +225,8 @@ Limit: One to one. A maximum of two per day.
 Cost for Class: The offering is given from the heart. Pay what you feel is fair as coin, kindness or gratitude allows  
 
 
+Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time. [https://fienta.com/arts-sciences-classes-strawberry-raid-2026 
+](Sign up here).
 
 
 <a href="/events/2026/strawberry-raid-v/">Back to Event Page</a>
