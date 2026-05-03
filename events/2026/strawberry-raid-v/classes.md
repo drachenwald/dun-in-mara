@@ -225,8 +225,7 @@ Limit: One to one. A maximum of two per day.
 Cost for Class: The offering is given from the heart. Pay what you feel is fair as coin, kindness or gratitude allows  
 
 
-Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time. [https://fienta.com/arts-sciences-classes-strawberry-raid-2026 
-](Sign up here).
+Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time. [https://fienta.com/arts-sciences-classes-strawberry-raid-2026](Sign up here).
 
 
 <a href="/events/2026/strawberry-raid-v/">Back to Event Page</a>
