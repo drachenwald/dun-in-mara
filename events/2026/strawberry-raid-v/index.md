@@ -146,7 +146,7 @@ Watch this space for details on our organised activities during the event. We ex
 A list of classes and their descriptions can be found [here](classes/).  
 Teacher sign up has now closed.    
 
-Sign-up for *attending* classes will open on **30 April at 18:00** Irish Standard Time. [https://fienta.com/arts-sciences-classes-strawberry-raid-2026](Sign up here).
+Sign-up for *attending* classes will open on **30 April at 18:00** GMT. [https://fienta.com/arts-sciences-classes-strawberry-raid-2026](Sign up here).
 
 ### Laurel Prize Display 
 A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
