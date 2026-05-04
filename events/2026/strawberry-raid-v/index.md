@@ -49,7 +49,7 @@ Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20
 Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5  
 --> Not a member yet? Become one! [Click here to sign up](https://membermojo.co.uk/scauk)  
 
-Please find our [cancellation policy here](https://duninmara.org/about/cancellation.md).
+Please find our [cancellation policy here](https://duninmara.org/about/cancellation/).
 
 
 <a name="featuredtrainer"></a>
