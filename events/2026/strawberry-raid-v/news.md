@@ -8,7 +8,7 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ### May 2, 2026
 
-Sign-up for *attending* classes will open on **30 April at 18:00** GMT. [Sign up here](https://fienta.com/arts-sciences-classes-strawberry-raid-2026).
+Sign-up for *attending* classes will open on **4 May at 18:00** GMT. [Sign up here](https://fienta.com/arts-sciences-classes-strawberry-raid-2026).
 
 ### April 19, 2026  
 
