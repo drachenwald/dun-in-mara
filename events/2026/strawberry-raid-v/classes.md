@@ -6,9 +6,7 @@ excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
 
 ## Classes
 
-The schedule for classes will be published closer to the date. Please stay tuned.
-
-Sign-up for *attending* classes will open on **4 May at 18:00** GMT. [Sign up here](https://fienta.com/arts-sciences-classes-strawberry-raid-2026).
+Online A&S class sign-ups have now closed. We will have paper sign-up sheets at registration for anyone who still wants to sign-up to attend A&S classes.  
 
 **Sir Helga Skjaldmær** (She/They) from the Kingdom of An Tir will be the visiting Armoured Combat trainer.  
 
