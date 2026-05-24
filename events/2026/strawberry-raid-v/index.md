@@ -117,7 +117,12 @@ If you’re driving from Rosslare ferryport, just follow Google or another map p
 
    **Train**: [Irish Rail](https://www.irishrail.ie/en-ie/) route [Dublin Connolly Station - Rosslare Europort](https://www.irishrail.ie/IrishRail/media/Timetable-PDF-s/Connolly-DART-timetables/08_dublin-rosslare.pdf). We recommend that you get off in Wexford town to maximise the availability of taxis, if you need one.  
 
-   A taxi from Wexford town should take about 20 minutes to the site. 
+   A taxi from Wexford town should take about 20 minutes to the site.  
+   In Wexford across the square from Wexford train station at the Dunnes store, there are usually taxis.  
+   Or you can pre-arrange with:   
+   Nessa /Oz Taxi +353 (87) 113 1340  
+   Oz taxi 0871303193  
+   The odd FreeNow and Uber has also been seen in Wexford.  
 
 If you need a pick-up from Wexford town or from Rosslare, in the first instance please talk to your friends about arranging a car pool. If this is not possible, please talk to the Reservations Steward about a pick-up. Please note that these are strictly subject to available vehicles and available drivers. We need to know about any pick-ups required at least one week before the event. A pick-up may incur a small charge due to the high cost of fuel. 
 
