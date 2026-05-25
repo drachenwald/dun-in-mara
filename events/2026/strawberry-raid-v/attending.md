@@ -57,7 +57,7 @@ Gruffydd Belwyn\
 Gytha Ui Bhanain\
 Haesel de Berneslai\
 Helga Skjaldmaer\
-Hughdebelesduna@gmail.com\
+Hugh de belesduna\
 Imaigne de Brysele\
 Ingemar of Dun in Mara\
 Irma vom Ende\
