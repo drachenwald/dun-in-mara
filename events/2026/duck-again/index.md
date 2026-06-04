@@ -1,10 +1,10 @@
 ---
-title: "Duck Too! - More Shooting!"
+title: "Duck Again?"
 featuredImage: ../../../../images/sigginstowncastlefireplace.jpg
-excerpt: "30 August 2025. Jim Kirwan Scout Hall, Clara, Co. Offaly"
+excerpt: "15 August 2026. Jim Kirwan Scout Hall, Clara, Co. Offaly"
 ---
 
-## Duck Too - More Shooting!
+## Duck Again? A fun day of throwing sticks at targets 
 
 **15 August 2026**
 
