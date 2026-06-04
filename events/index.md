@@ -9,45 +9,42 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Strawberry Raid V](/events/2026/strawberry-raid-v/)
-27 May - 1 June 2026, Sigginstown Castle, Co. Wexford
-
-### June 2026 Arts & Sciences Day   
-<!-- ### [June 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+ 
+### [June 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188274)  
 21 (Sunday) June 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### [Dublin Pride](/events/2026/pride-2026/) 
+### [Dublin Pride](/events/2026/pride-2026/)   
 *Note, this is not an SCA-organised event. Dun in Mara will be participating in the parade organised by Dublin LGBTQ Pride.*  
 27 June, 2026, Dublin city center
 
-### July 2026 Arts & Sciences Day   
-<!-- ### [July 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+### [July 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188285)  
 25 July 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### August 2026 Arts & Sciences Day   
-<!-- ### [August 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+### [Duck Again? A fun day of throwing sticks at targets.](/events/2026/duck-again/index.md)  
+24 August 2024, Clara Scout Den, Clara, Co. Offaly  
+
+### [August 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188286)  
 22 August 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### September 2026 Arts & Sciences Day   
-<!-- ### [September 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+### [September 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188287)  
 26 September 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### October 2026 Arts & Sciences Day   
-<!-- ### [October 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+### [October 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188288)  
 17 October 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Kingdom University](/events/2026/kingdom-university/)  
 6-8 November, 2026, Glendalough International Hostel, Co. Wicklow
 
-### November 2026 Arts & Sciences Day   
-<!-- ### [November 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+### [November 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188289). 
 21 November 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
-### December 2026 Arts & Sciences Day   
-<!-- ### [December 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164) -->
+### [December 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188290)  
 12 December 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ## Previous events  
+
+### [Strawberry Raid V](/events/2026/strawberry-raid-v/)
+27 May - 1 June 2026, Sigginstown Castle, Co. Wexford
 
 ### [May 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-162164)
 16 May 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
