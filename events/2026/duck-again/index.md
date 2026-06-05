@@ -58,10 +58,9 @@ We'll be providing a hearty lunch, courtesy of a kitchen run by Máistir Aodh Ó
 ### Staff
 
 Event Steward: Aoife ní Aodhagain (Eva Mulhause)  
-Marshal-in-charge: 
-Cook: 
-Herald in Charge: 
- 
+Marshal-in-charge: TBD  
+Cook: TBD  
+Herald in Charge: TBD  
 <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/springtimerevel"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
 </div> -->
