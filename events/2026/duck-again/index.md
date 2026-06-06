@@ -60,9 +60,9 @@ We'll be providing a hearty lunch, courtesy of a kitchen run by Lady Gytha Ui Bh
 ### Staff
 
 Event Steward: Aoife ní Aodhagain (Eva Mulhause)  
-Marshal-in-charge: TBD  
+Marshal-in-charge: Saskia de Quaasteniet  
 Cook: Lady Gytha Ui Bhanain  
-Herald in Charge: TBD  
+Herald in Charge: Etienne the Younger  
 <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/springtimerevel"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
 </div> -->
