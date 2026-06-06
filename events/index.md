@@ -21,7 +21,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 25 July 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Duck Again? A fun day of throwing sticks at targets.](/events/2026/duck-again/)  
-24 August 2024, Clara Scout Den, Clara, Co. Offaly  
+15 August 2026, Clara Scout Den, Clara, Co. Offaly  
 
 ### [August 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188286)  
 22 August 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
