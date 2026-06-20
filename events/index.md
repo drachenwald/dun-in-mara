@@ -41,6 +41,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 ### [December 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188290)  
 12 December 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
+### [Imbolc](/events/2027/imbolc/)
+30 January 2027, Clara Scout Den, Clara, Co. Offaly  
+
 ## Previous events  
 
 ### [Strawberry Raid V](/events/2026/strawberry-raid-v/)
