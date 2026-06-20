@@ -157,10 +157,12 @@ Watch this space for details on our organised activities during the event. We ex
 ### Arts & Sciences Classes
 
 Sign up for teaching classes will open closer to the event.
+
+
 <!-- A list of classes and their descriptions can be found [here](classes/).  
 Teacher sign up has now closed.    
 
-Online A&S class sign-ups have now closed. We will have paper sign-up sheets at registration for anyone who still wants to sign-up to attend A&S classes.   -->
+Online A&S class sign-ups have now closed. We will have paper sign-up sheets at registration for anyone who still wants to sign-up to attend A&S classes.-->
 
 <!-- ### Laurel Prize Display 
 A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
