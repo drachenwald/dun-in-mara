@@ -12,9 +12,9 @@ The SCA Shire of Dun In Mara welcomes you to Strawberry Raid VI, five days of me
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
- <div class="text-center m-4">
+ <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div> 
+</div>  -->
 
 ## Contents
 
@@ -46,8 +46,8 @@ SCA member - One day (Youth, age 6-18): €16
 SCA member - Full event or Day trip (Child, under 6): FREE  
 Non-member Day trip only (Adult - IN ADVANCE ONLY): €25  
 Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20  
-Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5  
---> Not a member yet? Become one! [Click here to sign up](https://membermojo.co.uk/scauk)   -->
+Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5--> 
+Not a member yet? Become one! [Click here to sign up](https://membermojo.co.uk/scauk)
 
 Please find our [cancellation policy here](https://duninmara.org/about/cancellation/).
 
@@ -62,7 +62,7 @@ Sir Helga brings a wealth of knowledge, coaching experience and technical insigh
 
  <!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>  --> -->
+</div>  -->
 
 
 ## Event News
