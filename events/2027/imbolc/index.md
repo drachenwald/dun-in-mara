@@ -57,9 +57,9 @@ All attendees are cordially invited to view the display, discuss their entries w
 If you wish to participate in the display, please contact Ingemar of Dun in Mara on Discord, email (nadja@ef.gy) or at the event so we can allocate a table to you.  -->
 
 
-<div class="text-center m-4">
+<!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/imbolc"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>
+</div> -->
 
 **Pre-booking is essential. Last day to purchase tickets will be 27 January** 
 
@@ -89,6 +89,6 @@ R35 HT67
 
 Event Stewards: Gwerful an Filí
 
-<div class="text-center m-4">
+<!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/imbolc"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>
+</div> -->
