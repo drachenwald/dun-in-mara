@@ -1,0 +1,230 @@
+---
+title: "Classes at Strawberry Raid 2026"
+featuredImage: ../../../../images/sigginstowncastlefireplace.jpg
+excerpt: "27 May-1 June 2026. Sigginstown Castle, Co. Wexford, Ireland."
+---
+
+## Classes
+
+More will be shared closer to the event
+
+<!-- Online A&S class sign-ups have now closed. We will have paper sign-up sheets at registration for anyone who still wants to sign-up to attend A&S classes.  
+
+**Sir Helga Skjaldmær** (She/They) from the Kingdom of An Tir will be the visiting Armoured Combat trainer.  
+
+
+*An Introduction to Smocking*  
+Teacher: Juliette of Dun in Mara  
+Description: Smocking is a form of embroidered pleating used to give clothing stretch prior to the invention of elastic. In this class you will learn about the history of smocking and get to try out some of the most common stitches for yourself on pre-pleated fabric. Needles, thread, and embroidery floss will be provided along with fabric squares to practice on.   
+Limit: 10 people  
+Cost for class: 10 euro  
+
+*Playing with Sticks! Intro to Coiled Basketry*  
+Teacher: Lord Farraige de Roiste  
+Description: Learn how to make your very own basket using foraged materials and an ancient basketweaving technique!  
+Limit: 10 (but observers welcome!)  
+Cost for class: no  
+
+*Woodworking hand tools through the ages*  
+Teacher: Tomás Ó Griobhta  
+Description: A general discussion on the history of woodworking from Roman times to early modern times and how tools did not change much in over 2,000 years  
+Limit: no  
+Cost for class: no  
+
+*Medieval Hot Buns*  
+Teacher: Gwerful an Filí  
+Description: Come have some fun, and let's bake some hot buns! We will talk about flour and dough, and bake some buns in the brick oven at Sigginstown Castle.   
+Limit: 10  
+Cost for class: TBD  
+
+*Intro to Heraldry: The Absolute Basics*  
+Teacher: Gabriella della Luna  
+Description: A class on learning and understanding armory heraldry at it's most basic level  
+Limit: 15  
+Cost for class: no  
+
+*Archery 101: How to Arch*  
+Teacher: Gabriella della Luna  
+Description: A very beginner friendly class setting a good foundation for learning archery in the SCA  
+Limit: 10  
+Cost for class: no  
+
+*Brewing with Fire & Stones*  
+Teacher: Daria von Drachenwald  
+Description: How did they brew before they had big metal pots? with Fire, Stones, and Wooden Barrels How did they brew before they had big metal pots? With Fire, Stones, and Wooden Barrels a practice dating back to the Iron Age (maybe even earlier). This is a hands-on class with fire! We will explore the world before big cooking pots when mead and beer were made with stones and a barrel.  
+Limit: no  
+Cost for class: no  
+
+*Beginning Brewing*  
+Teacher: Daria von Drachenwald  
+Description: Have you always wanted to make your own Mead but you don't know where to start? Let's take it down to the very basics: How does yeast work? What yeast to use? What equipment do I really need? What are the basic steps to follow? We will talk about all of those things in great detail. Bring your notebook, pen, and your questions. Whether you have not started your 1st batch or have made a few. Learn the basics or what next steps work for your Brewing Journey!  
+Limit: no  
+Cost for class: no  
+
+*Armoured combat 101 - Swinging sticks*  
+Teacher: Mícheál Breathnach  
+Description: Have you watched armored combat and wondered how they make so much noise? Have you thought it would be cool to be in the middle of the action, but didn't know how to get started? This is the class for you! We'll talk to you about the sport, the equipment, and the aspects that help keep people safe. We'll show you how we use our rattan swords and you will practice these techniques in a safe environment. You just need to bring yourself, and wear clothes in which you can move comfortably.  
+Limit: 10  
+Cost for class: no  
+
+*Event Stewarding 101*  
+Teacher: Baroness Melisende Fitzwalter OL  
+Description: Are you interested in getting involved in running an event whether small or large, but are intimidated by what is involved? Have you wanted to raise your hand when a call has gone out for someone to steward something, but have felt that you didn't know enough to do so? Come along to this class where we will talk about events from the very basics.   
+Limit: no  
+Cost for class: no  
+
+*Rapier 101, Introduction to Rapier*  
+Teacher: Alexandre d'Avigné  
+Description: For absolute beginners, anyone with an interest, or those looking for a refresher. Basic footwork, basic parries, basic attacks.  
+Limit: no  
+Cost for class: no  
+
+*Make your own Paternoster*  
+Teacher: Viscountess Susannah of York  
+Description: The history of the paternoster and construction of a beaded paternoster.  
+Limit: 6  
+Cost for class: 5 euro  
+
+*Peer Garden*  
+Teacher: Magdelena Grace Vane  
+Description: Do you have questions about peerage? How it works? What we do? Come, bring a drink, and ask us what you want to know.   
+Limit: no  
+Cost for class: no  
+
+*Mentioning Unmentionables*  
+Teacher: Lady Gertrude Hoode  
+Description: This class will peek under history’s skirt to examine various styles of undergarments throughout history, focusing on medieval artworks and some spectacular archaeological finds. We will also talk about how you might use these historical pieces to help recreate your own historically inspired tightie whities, with practical details like the most comfortable kinds of fabrics to use, and how to sew your smocks to make them easily washable and incredibly durable.   
+
+Attendees are encouraged (but not required!) to arrive scantily clad in only their shirts, chemises, and braies. We will have a fun chat about historical underwear, wearing our historical underwear!   
+Limit: no  
+Cost for class: no  
+
+*Poison or food? Identifying plants while foraging*  
+Teacher: Ingemar of Dun in Mara  
+Description: We will look at methods for identifying plants in the field, how to use a field guide or modern technologies and what to be aware of when foraging. If weather allows we may do a short foraging walk around the site to put theory into practice, you are welcome to bring containers if you so wish. I am approaching this from a botanist's point of view more so than a forager's, so expect random tangents about the science of botany now and in period.   
+Limit: No  
+Cost for class: No  
+
+*What to serve your enemies - Poisonous plants, poisons and their use in period*  
+Teacher: Ingemar of Dun in Mara  
+Description: This is purely a talk/workshop, not a practical class. (There may be biscuits, which will definitely be safe to eat.) We will be talking about poisonous plants and mushrooms, maybe also minerals, and their various uses in the Middle Ages (possibly with several tangents on how the toxins work). No toxic substances will actually be handled; use your newfound knowledge responsibly and honourably.   
+Limit: No  
+Cost for class: No  
+
+*Bliauts for Beginners*  
+Teacher: Angharad Banadaspus Drakenhefd   
+Description: This class will cover some of the history of the bliaut, what materials you should use, and easy ways to get started to make them.  
+Limit: No  
+Cost for class: No  
+
+*Bright colours, mixed materials, no standards and high expectations: early 14th century knightly fashion*  
+Teacher: Etienne the Younger  
+Description: When mail armour found itself wanting, simple plates started supplementing it in some places, and quickly improved. It could have been purely practical and plain. But fortunately it was not so, and in the early 14th century, plate armour experiments were in full swing, heraldry was ubiquitous and the best way for a knight to stay alive was to look splendid and ransomable. In this class we will have a look at the military fashion changes in that time around 1300-1350 as cloth, metal and leather mix in every armour but never twice in the same manner.  
+Limit: no  
+Cost for class: no  
+
+*The Confident Court Herald*  
+Teacher: Agnes Boncuer  
+Description: Are you interested in court heralding or would you like to improve your court heralding game? Are you a current or a future Royal who wants to hold the best possible courts? In this class we will talk about preparation, organising your notes and your items, physical positioning, interaction between the Royals and the herald as well as between the herald and the court, timing, and whether and when to inject humour.   
+Limit: No  
+Cost for Class: No  
+
+*Bawdy or Base, attitudes to sex and sex work in medieval Europe*  
+Teacher: Amber of Dun in Mara  
+Description: A look into the way societal attitudes around sexuality, sex, and sex work changed and developed from the Romans to the Tudors, and the way these attitudes showed in both literature and practice.  
+Limit: No  
+Cost for class: No  
+
+*Essentials of Camp Cooking*  
+Teacher: Aodh Ó Siadhail  
+Description: Follow through the production of a meal from lighting the fire to eating the food at Aodh's camp kitchen.  
+Limit: 6  
+Cost for class: No  
+
+*See a Pin and Pick it Up: A Brick-Stitch Pin Case*  
+Teacher: Catherine Weaver  
+Description: Many of our garments and headgear in the SCA are secured with pins, so it’s important to have somewhere secure to keep them. In this class we will practice the brick-stitch technique and use it to make the cover for a small rolled pin case. All materials needed for making the pin case other than scissors and pins will be provided as a kit for a small fee.  
+Limit: 8  
+Cost for class: 3 euro  
+
+*Tying it All Together: Tablet Woven Cord*  
+Teacher: Catherine Weaver  
+Description: In our period of interest, cords were the unsung heroes of the dressing process, attaching sleeves to bodices, hose to doublets and securing the fronts of kirtles. In this class we will look at setting up tablets for such cords and practice weaving them. Please bring a belt to attach the beginning of your warp to. Everything else will be provided.  
+Limit: 6  
+Cost for class: no  
+
+*Improve your Archery*  
+Teacher: Yannick of Normandy  
+Description: Bring your bow & 3 arrows. We will look at where each archer can improve their technique.  
+Limit: No  
+Cost for Class: No  
+
+*Telling the Tale: Using the Bardic Arts in Presentations*  
+Teacher: Rodrigo Bernardez  
+Description: Want to teach a class but are too nervous? Learn how thinking like a bard can help you get over your fear and help you give a great presentation. Already teaching? Come learn ideas and techniques that can help improve your presentations.  
+Limit: No  
+Cost for Class: No  
+
+*Secrets of a Saloon Singer Entertaining in the SCA*  
+Teacher: Rodrigo Bernardez  
+Description: Like to sing or tell a story? Recite poetry in obscure languages? Maybe enjoy the occasional drink while you entertain? You might have the makings of a bard! Come learn the secrets of entertaining in the SCA, from spontaneous campfire sing-alongs to formal performances.  
+Limit: No  
+Cost for Class: No  
+
+*Introduction to sprang*  
+Teacher: Johanna aff Hucka  
+Description: Sprang is a technique of braiding stretched threads into a netted or interlaced structure. It is know from various cultures during our period, and it survived in Scandinavia both as sprang lace and as narrow wares, in Finland and the Baltic countries only as narrow wares like garters and belts. This is an introductory class going through the very basics and giving you a base for expanding further, whether you want to do wider sprang fabrics and sprang lace or narrow wares like garters. We will be practicing the techniques with simple frames: instructions will be available later, but a medium to large embroidery frame, a crate with holes on the side, a picture frame or something else similar can be converted into a sprang frame with a few dowels and/or long sturdy knitting needles and a few pieces of string. I'll be bringing a "real" sprang frame to show as well as a few makeshift practice frames, but you do not need any expensive or hard-to-get equipment to do sprang. You will also need a ball of smooth wool or cotton yarn and some light-weight double-ended knitting needles (bamboo, wood) or wooden barbecue skewers (I may be able to arrange for a bag of 100 to be shared). If you wish to start a pair of simple Scandinavian garters, bring a pair of G clamps or separate warping posts and we'll see if we can find a place for the warp. Depending on when the class is during the event, you might be able to start and finish a small pouch or a pair of garters at the event. If using a frame of your own to explore sprang in advance, see Carol James' website at https://www.spranglady.com/sprang.html and Sharon Wichman's website at https://www.sprangart.com. Both include examples of reconstructions from our period(s).  
+Limit: 8  
+Cost for Class: No  
+
+
+*Writing the Medieval Way*  
+Teacher: Oriane d‘Avallon  
+Description: How to make your calligraphy look more period through some technical bits and the use of the right letters, ligatures and abbreviations  
+Limit: No  
+Cost for Class: No  
+
+*Making 15th century dress pins*  
+Teacher: Caitriona of the Ravens   
+Description: In this hands on class, people will make a set of 15th century dress pins.  
+Limit: 10  
+Cost for Class: €7  
+
+*Madrigal-Polyphonic Singalong*  
+Teacher: M. Damiana d’Onde  
+Description: Not a Class! Let’s sing some period madrigals and songs in parts. We will pick 8 or so songs that are more well known and (hopefully) tell you ahead of time so you can practice your part. We are NOT teaching these songs at all. It is a pop-up singing session and you should already know your part. We don’t know what parts will join so we will do the best we can. We will run through each song once or twice. Suggestions taken for songs and they won’t all be madrigals.   
+Limit: No  
+Cost for Class: No  
+
+*Think you cant? Lbh pna!*  
+Teacher: Dainéil an Bithiúnach  
+Description: From Caesar to cock-sure, take a journey through the history of codes and obfuscation. Learn how to win wars and influence history through classical cryptography and embrace thieves' cant to earn your place among the cursitors. And remember: we nggnpx ng qnja.  
+Limit: No  
+Cost for Class: No  
+
+*Currency Conversion for Fun and Profit*  
+Teacher: Dainéil an Bithiúnach  
+Description: Flush with bronze but short on silver? Find out how–with a little ingenuity–you can turn your inexpensive metals into cold, hard coins. Nope, the secret isn't alchemy–it's crime! Step into the world of historical counterfeiting with minimal risk to life, limb, or freedom. Learn how it was done, why it mattered, and how you might have gotten caught.  
+Limit: No  
+Cost for Class: No  
+
+*Conscious Touch Massage with Flówan Temple*  
+Teacher: Alice de la Wode   
+Description: Long before physic and surgeon plied their trade with steel and remedy, the laying on of hands was a sacred and trusted art. In the ancient traditions of Hinduism and Buddhism, touch was woven into spiritual practice — a means of guiding energy, restoring balance, and honouring the unity of body and spirit. Practices of ritual oil massage were offered not merely for the flesh, but for the harmony of the whole being.   
+Likewise, in the isles of the great ocean, the flowing art of Lomi Lomi arose — a dance of hands, breath, and intention, echoing the rhythms of nature herself.   
+Thus, from many corners of the world, a common knowing emerges: that mindful touch may soothe not only the body, but the spirit within.   
+
+Good gentles, this Strawberry Raid, Flówan Temple combines these wholesome practices, not offering the rough kneading of sore muscles, nor the craft of bone-setters, but the soft and attentive laying on of hands. A listening through conscious touch. A quiet space where the body may rest and restore.   
+Should you choose to receive, expect an individually tailored experience of:   
+Slow, flowing strokes inspired by Lomi Lomi’s wave-like motion   
+A sense of warmth, grounding, and gentle ease A deep restfulness, like drifting upon calm waters   
+
+Limited 60 or 90 minute slots. Book with Alice de la Wode of Flówan Temple on site or ahead of time.  
+Limit: One to one. A maximum of two per day.  
+Cost for Class: The offering is given from the heart. Pay what you feel is fair as coin, kindness or gratitude allows  
+
+
+Sign-up for *attending* classes will open on **4 May at 18:00** GMT. [Sign up here](https://fienta.com/arts-sciences-classes-strawberry-raid-2026). -->
+
+
+<a href="/events/2026/strawberry-raid-v/">Back to Event Page</a>

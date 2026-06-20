@@ -1,0 +1,225 @@
+---
+title: "Strawberry Raid 2027"
+featuredImage: ../../../../images/sigginstowncastlefireplace.jpg
+excerpt: "2 - 7 June 2027. Sigginstown Castle, Co. Wexford, Ireland."
+---
+
+## Welcome
+
+**2 - 7 June 2027**
+
+The SCA Shire of Dun In Mara welcomes you to Strawberry Raid VI, five days of medieval camping around the beautifully restored 15th-16th century tower house of [Sigginstown Castle](https://www.sigginstowncastle.com/), in the beautiful sunny South-East of Ireland.
+
+We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
+
+ <div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div> 
+
+## Contents
+
+<a href="#eventfees">Event Fees</a>   
+<a href="#featuredtrainer">Featured Trainer</a>   
+<a href="news/">Event News</a>   
+<a href="attending/">Attendees</a>   
+<a href="#accessibilty">Accessibility</a>   
+<a href="#codeofconduct">Code of Conduct</a>  
+<a href="#travel">Travel</a>  
+<a href="camping/">Camping</a>  
+<a href="food/">Food & Other Supplies</a>  
+<a href="#weather">Weather</a>  
+<a href="#activities">Activities</a>  
+<a href="#schedule">Schedule</a>  
+<a href="#eventteam">Event Team</a>  
+
+<a name="eventfees"></a>
+## Event Fees
+More information will be shared closer to the event.  
+All fees include Fienta's administration fee.  
+
+<!-- Sir Helga´s classes €20    
+SCA member - Full event (Adult): €46    
+SCA member - Full event (Youth, age 6-18):  €23    
+SCA member - Full event (Family: guardians and children): €105     
+SCA member - One day (Adult): €21    
+SCA member - One day (Youth, age 6-18): €16   
+SCA member - Full event or Day trip (Child, under 6): FREE  
+Non-member Day trip only (Adult - IN ADVANCE ONLY): €25  
+Non-member Day trip only (Youth, age 6-18 - IN ADVANCE ONLY): €20  
+Non-member Day trip only (Child, under 6 IN ADVANCE ONLY): €5  
+--> Not a member yet? Become one! [Click here to sign up](https://membermojo.co.uk/scauk)   -->
+
+Please find our [cancellation policy here](https://duninmara.org/about/cancellation/).
+
+
+<a name="featuredtrainer"></a>
+## Featured Trainer
+
+More information will be shared closer to the event.  
+<!-- You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, Sir Helga Skjaldmær OP, KSCA, OL, Duchess of the Kingdom of An Tir. (She/They)  
+Sir Helga brings a wealth of knowledge, coaching experience and technical insight and we are so excited that she has agreed to be the guest trainer for Strawberry Raid V and we are busy coordinating with them to bring you all the best of their expertise.  
+<img src="/images/Sir_Helga_announcement.webp" height="400" width="300">
+
+ <!-- <div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>  --> -->
+
+
+## Event News
+
+See updates and event news on our dedicated discord server, or here on our  <a href="news/">Strawberry Raid news page</a>  
+
+## Attendees
+A list of people who have already booked, and given consent for their names to appear will be shared closer to the event.  
+<!-- A list of people who have already booked, and given consent for their names to appear can be found here: 
+
+<a href="attending/" class="btn btn-primary">Attending</a>  -->
+
+<a name="accessibility"></a>
+## Accessibility
+
+The ground of the site is level but uneven, including gravel and fields. The restored period tower house has narrow steep spiral stairs and small rooms. The stairs have handrails installed. Any activities inside the tower are likely to take place in the first two floors. 
+
+The barn is within a short reach of the camping area across slightly uneven ground. The barn itself has a gravel floor. 
+
+Portaloos/portapotties are the only available toilets on the site. Tents for anyone with mobility issues can be placed closer to the toilets, paths and access ways. Please contact the camping coordinator Aodh Ó Siadhail at [aodhosiadhail@gmail.com](mailto:aodhosiadhail@gmail.com) to let him know in advance.
+
+During dark hours, we will have small lights marking the entrances to the encampment as well as near the toilets. Please feel free to bring flashlights if you need them to move around in the dark.
+
+Noise in the camp is requested to be minimal during certain hours (est. 11 pm - 8 am).
+
+<a name="codeofconduct"></a>
+## Code of Conduct
+
+We have a zero tolerance policy of all bullying, harassment, abuse and hate speech, including but not limited to gender identity, age, religion, ethnicity/race, sexual orientation, ability and body type. Event participants will be expected to be polite toward other SCA participants as well as toward any members of the public who may attend; to respect other people and respect their needs: and to take all reasonable steps to make everyone feel welcome and safe within our Society. 
+
+Any event participant who feels they are not safe at the event is requested to immediately contact the event staff. The steward on duty will be easily identifiable. 
+
+Any event participant found in breach of the Code of Conduct will be asked to leave the event and not return to any event, practice or other gathering organised by the Shire of Dun In Mara. 
+
+If you would like to know more, please consult our shire’s [Inclusivity Statement](https://duninmara.org/about/inclusivity/) as well as the [Code of Conduct of the Kingdom of Drachenwald](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view).
+
+<a name="travel"></a>
+## Travel
+
+The event is easily reachable from Dublin Airport via the M11, 20 minutes drive from Wexford railway station, and 15 minutes drive from Rosslare ferryport with connections to the UK and continental Europe. We may be able to provide pick-ups from Wexford and Rosslare on a case by case basis, please discuss your needs with the Reservations Steward. 
+
+Driving from Dublin Airport is straightforward via the M1, M50, M11/N11 and N25. It takes about two hours. The main roads are well kept and well signposted and foreign drivers generally don’t find driving on the main roads difficult, despite driving on the left. Some motorways have tolls. If you’re hiring a car, ask your rental agency what the protocol is concerning road tolls.    
+
+Coordinates: 52.20591, -6.444499 (main event gate)
+
+If you’re driving from Rosslare ferryport, just follow Google or another map provider. Your drive will take about 15-20 minutes. 
+
+The closest [gas station](https://maps.app.goo.gl/8a4cw7XkL4iE5fgU8) (petrol, diesel and EV charging) is in Kilinick, about 10 minutes away from the site.
+
+**Public transport** from Dublin is available via bus and train. 
+
+   **Bus**:  
+   [Bus Eireann](https://www.buseireann.ie/) route 2-X2 from Zone 13 stop 9 Dublin Airport - Wexford Town. Do NOT take bus all the way to Rosslare unless you prearrange a taxi as there are none waiting usually. We recommend Nessa or Oz Taxi which is based in Rosslare (tel: 087 113 1340 or 087 130 3193)  In Wexford town, you can take a taxi from the stand in front of Dunnes Stores in Redmond Square near both bus stations.  
+   Please note that Bus Eireann/Expressway may use unmarked private hire buses that are not immediately recognizable to passengers. If there is a private bus at the Expressway stop at the planned departure time, ask the driver whether they are the Expressway service; else they might leave without notice.  
+
+   [Wexford Bus](https://bookings.wexfordbus.com/Timetable/TimetableHome?route=wexford_dublin_route740) offers routes 740, 740X and 740A from from Zone 14 Dublin Airport - Wexford (Redmond Square). In Wexford town, you can take a taxi from the stand in front of Dunnes Stores in Redmond Square near both bus stations.  
+
+   
+   Local Bus: there is a Local link bus Door to Door service that runs at limited times between Tacumshane and Wexford town. It would drop you at the main gate of the castle. Wednesday at 17:20 pm from Wexford to Tacumshane , Saturday at 10:20 am  to Wexford, and Saturday 14:55 pm from Wexford Town to Tacumshane. Possibly a Friday service also. Call Local Link for more info Tel: 053 901 1828 or email wexford@locallink.ie . https://locallinkwexford.ie/rural-wexford-timetable/  
+
+   **Train**: [Irish Rail](https://www.irishrail.ie/en-ie/) route [Dublin Connolly Station - Rosslare Europort](https://www.irishrail.ie/IrishRail/media/Timetable-PDF-s/Connolly-DART-timetables/08_dublin-rosslare.pdf). We recommend that you get off in Wexford town to maximise the availability of taxis, if you need one.  
+
+   A taxi from Wexford town should take about 20 minutes to the site.  
+   In Wexford across the square from Wexford train station at the Dunnes store, there are usually taxis.  
+   Or you can pre-arrange with:   
+   Nessa /Oz Taxi +353 (87) 113 1340  
+   Oz taxi 0871303193  
+   The odd FreeNow and Uber has also been seen in Wexford.  
+
+If you need a pick-up from Wexford town or from Rosslare, in the first instance please talk to your friends about arranging a car pool. If this is not possible, please talk to the Reservations Steward about a pick-up. Please note that these are strictly subject to available vehicles and available drivers. We need to know about any pick-ups required at least one week before the event. A pick-up may incur a small charge due to the high cost of fuel. If travelling by train AND getting an organised pickup, we recommend travelling to Rosslare station. This station is easier to reach and an overall better experience for the person doing the pickup. 
+
+## The Site
+
+Sigginstown Castle is owned by SCA members who very generously open their home for us. Please respect their generosity, their home and their neighbours at all times. Any requests from the site owners must be complied with immediately. Smoking is forbidden indoors including inside the barn. 
+
+<!--<a href="camping/" class="btn btn-primary">Camping</a> <a href="food/" class="btn btn-primary">Food & Other Supplies</a> <a href="https://www.sigginstowncastle.com/category/all-products" class="btn btn-primary">Food Plan</a> -->
+
+<a name="weather"></a>
+## Weather
+
+Ireland is an Atlantic island, so we get a lot of rain, but in shorter bursts than our friends in continental climates. It is pretty typical to have a sunny morning and a rainy afternoon, and other way round. Wind, in various quantities, is pretty much omnipresent, more so on the coasts. Sigginstown is very close to the sea, and the camping field does not have much in the way of sheltering trees or buildings, so you will want to make sure that your tent is well secured. Very flimsy modern gazebos are unlikely to survive throughout the event, although a bigger, sturdier one has sheltered a large camp kitchen in all three years of the event to date.  
+
+On rainy days, as long as your tent does not spring a leak, you should remain nice and dry inside, as the ground is able to accommodate a lot of rain. We have the barn, the tower house, and the coffee shop area to gather in during bad weather. 
+
+It is impossible to predict what the weather is going to be like until a couple of days prior to the event, and even then the outlook may change quickly. We estimate that we will have some sunshine, and some rain, with day temperatures anything between 15°C/59°F and 23°C/73.4°F. It’s a good idea to bring layered garb with a rain-resistant overgarment. If you have the baggage space, a woollen overgarment and a hat, at least for evenings, nights and early mornings, is a good idea.  
+
+<a name="activities"></a>
+## Activities
+
+Watch this space for details on our organised activities during the event. We expect to have classes, practice and tourneys in our martial pursuits, as well as plenty of classes and fun projects in our arts & sciences. 
+
+### Arts & Sciences Classes
+
+Sign up for teaching classes will open closer to the event.
+<!-- A list of classes and their descriptions can be found [here](classes/).  
+Teacher sign up has now closed.    
+
+Online A&S class sign-ups have now closed. We will have paper sign-up sheets at registration for anyone who still wants to sign-up to attend A&S classes.   -->
+
+<!-- ### Laurel Prize Display 
+A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
+This is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!    -->
+
+<!-- ### Market
+There will be market on the weekend, if you're looking to sell some bits & bobs, or are in the market for some nicknacks, this is the perfect opportunity!   -->
+
+
+<!-- ### Daffodil Tournament
+This year Strawberry Raid will host the Daffodil tournament, which is in support of the Irish Cancer Foundation. Both heavy armour fighters and fencers can compete, as this is a mixed tournament. Depending on the number of entrants, we will run the armoured and rapier lists either simultaneously but taking turns (an armoured pair followed by a rapier pair, and so on), or, if this is not possible, one list after another.  
+Each competitor is asked to donate at least 10 euro as a fee to enter the tournament, payable either directly on the [ICS website](https://www.cancer.ie/) or in cash or via Revolut at the event. All entrants must pre-register using the [form](https://forms.gle/2N5LBHoayH92kjxg6) or at the event up to the evening before the tournament. Please note that the pre-registration form requires you to sign in to Google, so if you don't have a Google account, please email agneslaverte@gmail.com instead.  
+The top 4 fighters in each list will be offered a choice of prizes donated by our artisans and other members of our community.   -->
+
+<a name="schedule"></a>
+## Schedule
+
+The schedule will be communicated closer to the event
+<!-- The schedule can be found [here](https://docs.google.com/spreadsheets/d/17pAFgeigC4eoSV9vbc1e45x9Q_eiFPKaEM0sB7ENdtQ/edit?usp=sharing).   
+Please note that the schedule is currently **under construction** and will be updated in the lead up to the event. Check back later to see more info.    -->
+<!-- This document will be updated in the event of any changes. Please consult the noticeboards at the event for the most up to date information.  -->
+
+<a name="eventteam"></a>
+## Event Team
+
+<!-- Contact THL Aodhán Dha Cheist at <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.   -->
+
+Head Stewards: Mistress Melisende Fitzwalter and Lady Gwerful an Filí  
+Reservations: TBD  
+ <!-- THL Alays de Lunel (<a href="mailto:events@duninmara.org">events@duninmara.org</a>)    -->
+Camping Coordinator: TBD  
+<!-- Máistir Aodh Ó Siadhail   -->
+Herald in Charge: TBD  
+<!-- Master Agnes Boncuer    -->
+Facilities Coordinator: TBD  
+<!-- Lord Hugh de Belesduna   -->
+Volunteer Coordinator: TBD  
+<!-- Noble Ingemar of Dun in Mara        -->
+Marshal in Charge: TBD  
+<!-- THL Alays de Lunel     -->
+Armoured Combat Coordinator: TBD  
+<!-- Viscountess Agnes Boncuer     -->
+Rapier and Cut & Thrust (steel fencing): TBD  
+<!-- Baron Robert of Eplaheimr   -->
+Archery/Thrown Weapons: TBD  
+<!-- Lady Gabriella della Luna & Lady Saskia de Quaasteniet   -->
+Arts & Sciences (arts & crafts activities) Coordinator: TBD  
+<!-- Lady Gertrude Hoode    -->
+Royal Liaison: TBD  
+<!-- Lady Kytte of the Lake     -->
+Transport Coordinator: TBD  
+<!-- THL Alays de Lunel       -->
+Vibe/Laurel Sponsored Prize Display/Market: TBD  
+<!-- Órlaith Ildánach Caomhánach   -->
+Hype: TBD  
+<!-- Mistress Melisende Fitzwalter     -->
+
+
+<!-- 
+<div class="text-center m-4">
+  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
+</div>  -->
