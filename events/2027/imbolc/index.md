@@ -74,14 +74,15 @@ Non-SCA Member: €25.00
 Children 12 and under: €0.00    -->
 
 
-### Location:
-The event will be held at the Jim Kirwan Scout Hall in Clara, County Offaly.  
+### Location: 
+TBD
+<!-- The event will be held at the Jim Kirwan Scout Hall in Clara, County Offaly.  
 The site is moderately accessible, with some bumpy doorways. There is plenty of parking space for those driving, and it is also only a 5 minute walk from the nearest train station with connections to Dublin Heuston.   
 **Site Address:** 
 Jim Kirwan Scout Hall  
 Clara  
 Co. Offaly  
-R35 HT67   
+R35 HT67    -->
 
 
 

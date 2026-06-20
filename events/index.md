@@ -42,7 +42,7 @@ There are also other events across Ireland and Britain - see the [Principality C
 12 December 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
 ### [Imbolc](/events/2027/imbolc/)
-30 January 2027, Clara Scout Den, Clara, Co. Offaly
+30 January 2027, location TBD
 
 ### [Strawberry Raid VI](/events/2027/strawberry-raid-vi/)
 2 - 7 June 2027, Sigginstown Castle, Co. Wexford
