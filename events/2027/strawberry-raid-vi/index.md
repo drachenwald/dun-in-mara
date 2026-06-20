@@ -82,7 +82,7 @@ The ground of the site is level but uneven, including gravel and fields. The res
 
 The barn is within a short reach of the camping area across slightly uneven ground. The barn itself has a gravel floor. 
 
-Portaloos/portapotties are the only available toilets on the site. Tents for anyone with mobility issues can be placed closer to the toilets, paths and access ways. Please contact the camping coordinator Aodh Ó Siadhail at [aodhosiadhail@gmail.com](mailto:aodhosiadhail@gmail.com) to let him know in advance.
+Portaloos/portapotties are the only available toilets on the site. Tents for anyone with mobility issues can be placed closer to the toilets, paths and access ways. Please contact the camping coordinator to let them know in advance.
 
 During dark hours, we will have small lights marking the entrances to the encampment as well as near the toilets. Please feel free to bring flashlights if you need them to move around in the dark.
 
