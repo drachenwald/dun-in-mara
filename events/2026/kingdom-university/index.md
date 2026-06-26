@@ -21,24 +21,21 @@ Kingdom University is Drachenwald’s Premier Learning Event. This year, it’s 
 
 The event will take place at Glendalough International Hostel, The Lodge, Sevenchurches Or Camaderry, Glendalough, Co. Wicklow, A98 F576  
 
-### Planned Activities
+### Planned Activities & Schedule
 
 More information will be shared closer to the event.  
 
-
 ### Costs
 
-An overview of ticket types and costs will be provided at a later stage.   
-<!-- €20 — SCA Member  
-€15 — Unwaged SCA Member   
-€25 — Non-member
-Free - Children 12 and under -->
+€95.00 — SCA Member  
+€85.00 — Unwaged SCA Member
+€47.50 - Children 13 and over    
+€45.00 — Day Trip
+Free - Children 12 and under
 
-(You can get [https://membermojo.co.uk/scauk](SCA Membership) easily - it costs £UK15 for a year's membership, so you'll recoup the cost quickly with a few practices or events!)  
-
-<!-- ### Food
-
-We'll be providing a hearty lunch, courtesy of a kitchen run by Máistir Aodh Ó Sidahil. Let us know any allergies or food sensitivies when you book. -->
+Full tickets include beds (bedding provided) and meals (Friday evening, Saturday breakfast, lunch, and feast, Sunday breakfast). Day trips include all meals.  
+  
+(You can get (https://membermojo.co.uk/scauk)[SCA Membership] easily - it costs £UK15 for a year's membership, so you'll recoup the cost quickly with a few practices or events!)  
 
 ### Staff
 
