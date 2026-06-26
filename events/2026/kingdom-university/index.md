@@ -35,7 +35,7 @@ Free - Children 12 and under
 
 Full tickets include beds in shared rooms (bedding provided, rooms en-suite) and meals (Friday evening, Saturday breakfast, lunch, and feast, Sunday breakfast). Day trips include all meals.  
   
-(You can get (https://membermojo.co.uk/scauk)[SCA Membership] easily - it costs £UK15 for a year's membership, so you'll recoup the cost quickly with a few practices or events!)  
+(You can get [SCA Membership](https://membermojo.co.uk/scauk) easily - it costs £UK15 for a year's membership, so you'll recoup the cost quickly with a few practices or events!)  
 
 ### Staff
 
