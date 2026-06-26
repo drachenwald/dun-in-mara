@@ -43,11 +43,12 @@ We'll be providing a hearty lunch, courtesy of a kitchen run by Máistir Aodh Ó
 ### Staff
 
 Event Co-Stewards: Máistir Aodh Ó Siadhail, OP & Lady Gwerful An Filí  
-Head Cook: Lady Erin Volya  
-Reservations: TBD  
-Marshal-in-charge: THL Aodhan dha Cheist  
-Hall Steward: TBD    
+Head Cook:  Lady Erin of Dun in Mara  
+Reservations: Lady Aoife ní Aodhagain  
+Marshal-in-charge: Master Aodhan dha Cheist, OP  
+Hall Steward: Lord Farraige de Roiste    
 Herald in Charge: Viscountess Agnes Boncuer, OP  
+Volunteer Coordinator: Lady Gytha ui Bhanain  
 Royal Liaison: TBC  
 
 <img src="/images/glendalough-banner.jpg" height="671" width="1200"> 
