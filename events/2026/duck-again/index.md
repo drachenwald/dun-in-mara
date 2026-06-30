@@ -6,7 +6,7 @@ excerpt: "15 August 2026. Jim Kirwan Scout Hall, Clara, Co. Offaly"
 
 ## Duck, Again?
 
-**Saturday 15 August 2026, 8:30am – 6pm**  
+**Saturday 15 August 2026, 8:30am – 7pm**  
 
 Bookings are open now!  
 
@@ -41,7 +41,8 @@ There's also a good spot to hang out by the fire and engage in Arts & Sciences i
 08:30am Gates Open  
 09:00am to 09:30am Inspection  
 01:00pm Lunch  
-06:00pm Court   
+06:00pm Court 
+07:00pm Event close
 Last Train 09:00pm  
 
 ### Costs
