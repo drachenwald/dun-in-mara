@@ -9,13 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
- 
-### [June 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188274)  
-21 (Sunday) June 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
-### [Dublin Pride](/events/2026/pride-2026/)   
-*Note, this is not an SCA-organised event. Dun in Mara will be participating in the parade organised by Dublin LGBTQ Pride.*  
-27 June, 2026, Dublin city center
 
 ### [July 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188285)  
 25 July 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
@@ -48,6 +41,13 @@ There are also other events across Ireland and Britain - see the [Principality C
 2 - 7 June 2027, Sigginstown Castle, Co. Wexford
 
 ## Previous events  
+
+### [June 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188274)  
+21 (Sunday) June 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
+
+### [Dublin Pride](/events/2026/pride-2026/)   
+*Note, this is not an SCA-organised event. Dun in Mara will be participating in the parade organised by Dublin LGBTQ Pride.*  
+27 June, 2026, Dublin city center
 
 ### [Strawberry Raid V](/events/2026/strawberry-raid-v/)
 27 May - 1 June 2026, Sigginstown Castle, Co. Wexford
