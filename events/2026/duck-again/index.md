@@ -8,7 +8,7 @@ excerpt: "15 August 2026. Jim Kirwan Scout Hall, Clara, Co. Offaly"
 
 **Saturday 15 August 2026, 8:30am – 7pm**  
 
-Bookings are open now! !2 August is the last day to book. 
+Bookings are open now! 12 August is the last day to book. 
 
 <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duck-a-fun-day-of-throwing-sticks-at-targets-188032"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
