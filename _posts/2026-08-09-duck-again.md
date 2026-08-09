@@ -12,5 +12,5 @@ The site is moderately accessible, with some bumpy doorways.
 
 Steward: Lady Aoife ní Aodhagáin  
 
-For more info, see the dedicated event page here: [Duck Too!](/events/2025/duck-too/)  
+For more info, see the dedicated event page here: [Duck Again?](/events/2026/duck-again/)  
 
