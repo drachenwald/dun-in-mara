@@ -9,10 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-
-### [July 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188285)  
-25 July 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
-
 ### [Duck Again? A fun day of throwing sticks at targets.](/events/2026/duck-again/)  
 15 August 2026, Clara Scout Den, Clara, Co. Offaly  
 
@@ -41,6 +37,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 2 - 7 June 2027, Sigginstown Castle, Co. Wexford
 
 ## Previous events  
+
+### [July 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188285)  
+25 July 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin  
 
 ### [June 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188274)  
 21 (Sunday) June 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
