@@ -8,7 +8,7 @@ excerpt: "15 August 2026. Jim Kirwan Scout Hall, Clara, Co. Offaly"
 
 **Saturday 15 August 2026, 8:30am – 7pm**  
 
-Bookings are open now!  
+Bookings are open now! !2 August is the last day to book. 
 
 <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duck-a-fun-day-of-throwing-sticks-at-targets-188032"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
@@ -29,7 +29,6 @@ The site is moderately accessible, with some bumpy doorways. Parking is availabl
 
 Archery! We will have:  
 - Beginner's class  
-- Advanced masterclass  
 - Target shoots  
 - Court  
 
@@ -61,7 +60,7 @@ We'll be providing a hearty lunch, courtesy of a kitchen run by Lady Gytha Ui Bh
 ### Staff
 
 Event Steward: Aoife ní Aodhagain (Eva Mulhause)  
-Marshal-in-charge: Saskia de Quaasteniet  
+Marshal-in-charge: Saskia de Quaasteniet & Lady Gabriella Della Luna  
 Cook: Lady Gytha Ui Bhanain  
 Herald in Charge: Etienne the Younger  
 <!-- <div class="text-center m-4">
