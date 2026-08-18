@@ -39,7 +39,7 @@ Full tickets include beds in shared rooms (bedding provided, rooms en-suite) and
 
 ### Staff
 
-Event Co-Stewards: Máistir Aodh Ó Siadhail, OP & Lady Gwerful An Filí  
+Event Co-Stewards: Máistir Aodh Ó Siadhail (aodhosiadhail@gmail.com), OP & Lady Gwerful An Filí (gwerful.an.fili@gmail.com)  
 Head Cook:  Lady Erin of Dun in Mara  
 Reservations: Lady Aoife ní Aodhagain  
 Marshal-in-charge: Master Aodhan dha Cheist, OP  
