@@ -44,8 +44,8 @@ We also practice occasionally with the sixteenth century Italian Bolognese singl
 
 ### What historical sources do you work from?
 
-For rapier, we mainly work from a translation of [Nicoletto Giganti’s book (1606)](https://wiktenauer.com/wiki/Nicoletto_Giganti#Treatise)  
-Longsword is based on Fiore dei Liberi’s [‘Flower of Battle’ (1410)](http://www.getty.edu/art/gettyguide/artObjectDetails?artobj=1706)
+For rapier, we mainly work from a translation of [Nicoletto Giganti’s book (1606)](https://wiktenauer.com/wiki/Nicoletto_Giganti#Treatise).    
+Longsword is based on Pietro Monte's Collectanea.  
 
 ### Is it like modern sports fencing?
 
