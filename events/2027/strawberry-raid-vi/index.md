@@ -56,11 +56,8 @@ Please find our [cancellation policy here](https://duninmara.org/about/cancellat
 ## Featured Trainer
 
 More information will be shared closer to the event.  
-<!-- You’ll see we have a Fee for the Fighters class. This is in relation to the training our Heavy Armour fighters will receive from our featured trainer, Sir Helga Skjaldmær OP, KSCA, OL, Duchess of the Kingdom of An Tir. (She/They)  
-Sir Helga brings a wealth of knowledge, coaching experience and technical insight and we are so excited that she has agreed to be the guest trainer for Strawberry Raid V and we are busy coordinating with them to bring you all the best of their expertise.  
-<img src="/images/Sir_Helga_announcement.webp" height="400" width="300">
-
- <!-- <div class="text-center m-4">
+<!--
+ <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
 </div>  -->
 
@@ -159,31 +156,14 @@ Watch this space for details on our organised activities during the event. We ex
 Sign up for teaching classes will open closer to the event.
 
 
-<!-- A list of classes and their descriptions can be found [here](classes/).  
-Teacher sign up has now closed.    
-
-Online A&S class sign-ups have now closed. We will have paper sign-up sheets at registration for anyone who still wants to sign-up to attend A&S classes.-->
-
-<!-- ### Laurel Prize Display 
-A space is prepared by Laurels for anyone to set out their A&S work (finished or in-progress or both) accompanied by any research or information they may wish to share. Everyone, including Laurels, is then welcome to geek out with them about it.   
-This is an open invitation for you to show off the great work you have been doing and talk to like-minded people about it!    -->
-
-<!-- ### Market
-There will be market on the weekend, if you're looking to sell some bits & bobs, or are in the market for some nicknacks, this is the perfect opportunity!   -->
-
-
-<!-- ### Daffodil Tournament
-This year Strawberry Raid will host the Daffodil tournament, which is in support of the Irish Cancer Foundation. Both heavy armour fighters and fencers can compete, as this is a mixed tournament. Depending on the number of entrants, we will run the armoured and rapier lists either simultaneously but taking turns (an armoured pair followed by a rapier pair, and so on), or, if this is not possible, one list after another.  
-Each competitor is asked to donate at least 10 euro as a fee to enter the tournament, payable either directly on the [ICS website](https://www.cancer.ie/) or in cash or via Revolut at the event. All entrants must pre-register using the [form](https://forms.gle/2N5LBHoayH92kjxg6) or at the event up to the evening before the tournament. Please note that the pre-registration form requires you to sign in to Google, so if you don't have a Google account, please email agneslaverte@gmail.com instead.  
-The top 4 fighters in each list will be offered a choice of prizes donated by our artisans and other members of our community.   -->
 
 <a name="schedule"></a>
 ## Schedule
 
 The schedule will be communicated closer to the event
-<!-- The schedule can be found [here](https://docs.google.com/spreadsheets/d/17pAFgeigC4eoSV9vbc1e45x9Q_eiFPKaEM0sB7ENdtQ/edit?usp=sharing).   
+<!-- 
 Please note that the schedule is currently **under construction** and will be updated in the lead up to the event. Check back later to see more info.    -->
-<!-- This document will be updated in the event of any changes. Please consult the noticeboards at the event for the most up to date information.  -->
+
 
 <a name="eventteam"></a>
 ## Event Team
