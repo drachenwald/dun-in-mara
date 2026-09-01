@@ -12,9 +12,7 @@ The SCA Shire of Dun In Mara welcomes you to Strawberry Raid VI, five days of me
 
 We will enjoy a range of medieval activities from the arts, crafts and camp cookery to the martial pursuits of armoured combat, fencing and archery. Beginners and experienced practitioners are welcome across the board. 
 
- <!-- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>  -->
+ 
 
 ## Contents
 
@@ -68,9 +66,7 @@ See updates and event news on our dedicated discord server, or here on our  <a h
 
 ## Attendees
 A list of people who have already booked, and given consent for their names to appear will be shared closer to the event.  
-<!-- A list of people who have already booked, and given consent for their names to appear can be found here: 
 
-<a href="attending/" class="btn btn-primary">Attending</a>  -->
 
 <a name="accessibility"></a>
 ## Accessibility
@@ -135,7 +131,7 @@ If you need a pick-up from Wexford town or from Rosslare, in the first instance 
 
 Sigginstown Castle is owned by SCA members who very generously open their home for us. Please respect their generosity, their home and their neighbours at all times. Any requests from the site owners must be complied with immediately. Smoking is forbidden indoors including inside the barn. 
 
-<!--<a href="camping/" class="btn btn-primary">Camping</a> <a href="food/" class="btn btn-primary">Food & Other Supplies</a> <a href="https://www.sigginstowncastle.com/category/all-products" class="btn btn-primary">Food Plan</a> -->
+
 
 <a name="weather"></a>
 ## Weather
@@ -161,18 +157,17 @@ Sign up for teaching classes will open closer to the event.
 ## Schedule
 
 The schedule will be communicated closer to the event
-<!-- 
-Please note that the schedule is currently **under construction** and will be updated in the lead up to the event. Check back later to see more info.    -->
+
 
 
 <a name="eventteam"></a>
 ## Event Team
 
-<!-- Contact THL Aodhán Dha Cheist at <a href="mailto:aidanbarron1@gmail.com">aidanbarron1@gmail.com</a> with any queries.   -->
+
 
 Head Stewards: Mistress Melisende Fitzwalter and Lady Gwerful an Filí  
 Reservations: TBD  
- <!-- THL Alays de Lunel (<a href="mailto:events@duninmara.org">events@duninmara.org</a>)    -->
+ 
 Camping Coordinator: TBD  
 <!-- Máistir Aodh Ó Siadhail   -->
 Herald in Charge: TBD  
@@ -201,7 +196,3 @@ Hype: TBD
 <!-- Mistress Melisende Fitzwalter     -->
 
 
-<!-- 
-<div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>  -->
