@@ -54,10 +54,6 @@ Please find our [cancellation policy here](https://duninmara.org/about/cancellat
 ## Featured Trainer
 
 More information will be shared closer to the event.  
-<!--
- <div class="text-center m-4">
-  <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/duninmara-strawberryraid-v"><i class="fas fa-ticket-alt me-1 m"></i> Book here</a><br />
-</div>  -->
 
 
 ## Event News
