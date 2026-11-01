@@ -32,7 +32,7 @@ Friday:
 
 Saturday:  
 - Breakfast at 08:00  
-- Lunch at at 13:00  
+- Lunch at 13:00  
 - Evening feast  
 
 Sunday:  
