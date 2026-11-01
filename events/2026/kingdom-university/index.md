@@ -21,7 +21,12 @@ Kingdom University is Drachenwald's Premier Learning Event. This year, it's host
 
 The event will take place at Glendalough International Hostel, The Lodge, Sevenchurches Or Camaderry, Glendalough, Co. Wicklow, A98 F576  
 
+### Transportation ###
+Please find information on transportation [here](https://drive.google.com/file/d/1Hi69kupER9odsLVeNBHuavmK0ZqGQ50F/view)
+
 ### Planned Activities & Schedule
+
+The schedule with classes and other activities can be found [here](https://docs.google.com/spreadsheets/d/1r5rpLBBt2nGdbXSOSczujUEWY4RUepIy/edit?gid=1520605284#gid=1520605284). 
 
 Site opens at 18:00 on Friday.  
 Site closes at 12:00 on Sunday. 
@@ -33,12 +38,11 @@ Friday:
 Saturday:  
 - Breakfast at 08:00  
 - Lunch at 13:00  
-- Evening feast  
+- Evening feast at 20:00  
 
 Sunday:  
-- Breakfast   
-
-A schedule with classes and activities will be shared in the next few days.   
+- Breakfast at 8:00  
+  
 
 ### Costs
 
