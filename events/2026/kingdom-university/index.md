@@ -30,7 +30,7 @@ Please find information on transportation [here](https://drive.google.com/file/d
 **Activities**  
 
 The overview schedule with classes, breaks and court times can be found [**here**](https://docs.google.com/spreadsheets/d/15gQ9A8qTyZJ4slndzvJFX-0iPQ8Ngcww/edit?gid=1520605284#gid=1520605284).   
-Please find a list of classes with their descriptions [**here**](https://script.google.com/macros/s/AKfycbxQltp4m1H7PF0rALXtCNqNIRDrrLf5baw3MZZ8s-G9dYOR2KKmhJ7MefKWtUOA7lU/exec)  
+Please find a list of classes with their descriptions [**here**](https://script.google.com/macros/s/AKfycbxQltp4m1H7PF0rALXtCNqNIRDrrLf5baw3MZZ8s-G9dYOR2KKmhJ7MefKWtUOA7lU/exec).  
 
 **Site open/close:**  
 
