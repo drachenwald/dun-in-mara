@@ -26,12 +26,15 @@ Please find information on transportation [here](https://drive.google.com/file/d
 
 ### Planned Activities & Schedule
 
-The schedule with classes and other activities can be found [here](https://docs.google.com/spreadsheets/d/1r5rpLBBt2nGdbXSOSczujUEWY4RUepIy/edit?gid=1520605284#gid=1520605284). 
+**Activities**
+The overview schedule with classes, breaks and court times can be found [here](https://docs.google.com/spreadsheets/d/1r5rpLBBt2nGdbXSOSczujUEWY4RUepIy/edit?gid=1520605284#gid=1520605284).   
+Please find a list of classes with their descriptions [here](https://script.google.com/macros/s/AKfycbxQltp4m1H7PF0rALXtCNqNIRDrrLf5baw3MZZ8s-G9dYOR2KKmhJ7MefKWtUOA7lU/exec)  
 
+**Site open/close:** 
 Site opens at 18:00 on Friday.  
 Site closes at 12:00 on Sunday. 
 
-Food  
+**Food schedule**
 Friday:  
 - Travellers Fare at 19:00  
 
