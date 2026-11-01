@@ -21,20 +21,24 @@ Kingdom University is Drachenwald's Premier Learning Event. This year, it's host
 
 The event will take place at Glendalough International Hostel, The Lodge, Sevenchurches Or Camaderry, Glendalough, Co. Wicklow, A98 F576  
 
-### Transportation ###
+### Transportation ###  
+
 Please find information on transportation [here](https://drive.google.com/file/d/1Hi69kupER9odsLVeNBHuavmK0ZqGQ50F/view)
 
 ### Planned Activities & Schedule
 
-**Activities**
-The overview schedule with classes, breaks and court times can be found [here](https://docs.google.com/spreadsheets/d/15gQ9A8qTyZJ4slndzvJFX-0iPQ8Ngcww/edit?gid=1520605284#gid=1520605284).   
-Please find a list of classes with their descriptions [here](https://script.google.com/macros/s/AKfycbxQltp4m1H7PF0rALXtCNqNIRDrrLf5baw3MZZ8s-G9dYOR2KKmhJ7MefKWtUOA7lU/exec)  
+**Activities**  
 
-**Site open/close:** 
+The overview schedule with classes, breaks and court times can be found [**here**](https://docs.google.com/spreadsheets/d/15gQ9A8qTyZJ4slndzvJFX-0iPQ8Ngcww/edit?gid=1520605284#gid=1520605284).   
+Please find a list of classes with their descriptions [**here**](https://script.google.com/macros/s/AKfycbxQltp4m1H7PF0rALXtCNqNIRDrrLf5baw3MZZ8s-G9dYOR2KKmhJ7MefKWtUOA7lU/exec)  
+
+**Site open/close:**  
+
 Site opens at 18:00 on Friday.  
 Site closes at 12:00 on Sunday. 
 
-**Food schedule**
+**Food schedule** 
+
 Friday:  
 - Travellers Fare at 19:00  
 
