@@ -23,7 +23,7 @@ The event will take place at Glendalough International Hostel, The Lodge, Sevenc
 
 ### Planned Activities & Schedule
 
-Site opens at 18:00 on Friday.
+Site opens at 18:00 on Friday.  
 Site closes at 12:00 on Sunday. 
 
 Food  
