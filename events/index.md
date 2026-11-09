@@ -9,9 +9,6 @@ There are also other events across Ireland and Britain - see the [Principality C
 
 ## Upcoming Events
 
-### [Kingdom University](/events/2026/kingdom-university/)  
-6-8 November, 2026, Glendalough International Hostel, Co. Wicklow
-
 ### [November 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188289). 
 21 November 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin
 
@@ -25,6 +22,9 @@ There are also other events across Ireland and Britain - see the [Principality C
 2 - 7 June 2027, Sigginstown Castle, Co. Wexford
 
 ## Previous events  
+
+### [Kingdom University](/events/2026/kingdom-university/)  
+6-8 November, 2026, Glendalough International Hostel, Co. Wicklow
 
 ### [October 2026 Arts & Sciences Day](https://fienta.com/arts-sciences-day-188288)  
 17 October 2026, Santry Community Resource Centre, Domville Court, Coolock Ln, Whitehall, Dublin 9, Co. Dublin

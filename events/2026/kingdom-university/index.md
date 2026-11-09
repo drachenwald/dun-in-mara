@@ -10,9 +10,9 @@ title: "Kingdom University"
 
 Ticket sales are now live.     
 
-<div class="text-center m-4">
+<!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/kingdom-univeristy-2026"><i class="fas fa-ticket-alt me-1 m"></i> Book Here!</a><br />
-</div>
+</div> -->
 
 Kingdom University is Drachenwald's Premier Learning Event. This year, it's hosted by Dun in Mara in the scenic and historical surrounds of the Glendalough Valley, a short walk from the remnants of the 6th Century Monastery of St. Kevin. We'll have a wide variety of classes, good food, merriment, and a warm welcome for all!  
 
@@ -74,8 +74,8 @@ Herald in Charge: Viscountess Agnes Boncuer, OP
 Volunteer Coordinator: Lady Gytha ui Bhanain  
 Royal Liaison: TBC  
 
-<div class="text-center m-4">
+<!-- <div class="text-center m-4">
   <a class="btn btn-warning shadow m-2 w-50" href="https://fienta.com/kingdom-univeristy-2026"><i class="fas fa-ticket-alt me-1 m"></i> Book Here!</a><br />
 </div>
 
-<img src="/images/glendalough-banner.jpg" height="671" width="1200"> 
+<img src="/images/glendalough-banner.jpg" height="671" width="1200">  -->
